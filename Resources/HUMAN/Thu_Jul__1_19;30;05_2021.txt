@@ -1,0 +1,10 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	whiz	11.031	38		4	HUMAN 	38
+Player 2	quin	16.276	33		3	GADDAG	33	1	14	qun
+Player 1	trug	12.998	23		4	HUMAN 	61
+Player 2	furl	7.522	14		3	GADDAG	47	1	30	frl
+Player 1	knurly	41.073	18		5	HUMAN 	79
+Player 2	trugo	19.611	8		1	GADDAG	55	1	46	o
+Player 1	ox	44.397	9		1	HUMAN 	88

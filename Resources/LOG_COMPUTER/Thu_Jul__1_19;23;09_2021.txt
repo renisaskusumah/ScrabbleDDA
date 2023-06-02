@@ -1,0 +1,139 @@
+******HUMAN TURN******
+
+word : lew anchor( col :  7 row : 7 ) score : 12 new tiles : lew    Heuristic : -0.5
+word : flew anchor( col :  7 row : 7 ) score : 20 new tiles : flew    Heuristic : 10.5
+word : few anchor( col :  7 row : 7 ) score : 18 new tiles : few    Heuristic : 6.5
+word : we anchor( col :  7 row : 7 ) score : 10 new tiles : we    Heuristic : -4.5
+word : wex anchor( col :  7 row : 7 ) score : 26 new tiles : wex    Heuristic : 16
+word : xu anchor( col :  7 row : 7 ) score : 18 new tiles : xu    Heuristic : 9.5
+word : exul anchor( col :  7 row : 7 ) score : 22 new tiles : exul    Heuristic : 9.5
+word : leu anchor( col :  7 row : 7 ) score : 6 new tiles : leu    Heuristic : -11
+word : feu anchor( col :  7 row : 7 ) score : 12 new tiles : feu    Heuristic : -4
+word : flu anchor( col :  7 row : 7 ) score : 12 new tiles : flu    Heuristic : 4
+word : flux anchor( col :  7 row : 7 ) score : 28 new tiles : flux    Heuristic : 24.5
+word : flue anchor( col :  7 row : 7 ) score : 14 new tiles : flue    Heuristic : 0
+word : lux anchor( col :  7 row : 7 ) score : 20 new tiles : lux    Heuristic : 13.5
+word : luxe anchor( col :  7 row : 7 ) score : 22 new tiles : luxe    Heuristic : 9.5
+word : fuel anchor( col :  7 row : 7 ) score : 14 new tiles : fuel    Heuristic : 0
+word : ule anchor( col :  7 row : 7 ) score : 6 new tiles : ule    Heuristic : -11
+word : ulex anchor( col :  7 row : 7 ) score : 22 new tiles : ulex    Heuristic : 9.5
+word : lux anchor( col :  7 row : 7 ) score : 20 new tiles : lux    Heuristic : 13.5
+word : flux anchor( col :  7 row : 7 ) score : 28 new tiles : flux    Heuristic : 24.5
+word : luxe anchor( col :  7 row : 7 ) score : 22 new tiles : luxe    Heuristic : 9.5
+word : ex anchor( col :  7 row : 7 ) score : 18 new tiles : ex    Heuristic : 2.5
+word : wex anchor( col :  7 row : 7 ) score : 26 new tiles : wex    Heuristic : 16
+word : lex anchor( col :  7 row : 7 ) score : 20 new tiles : lex    Heuristic : 6.5
+word : ulex anchor( col :  7 row : 7 ) score : 22 new tiles : ulex    Heuristic : 9.5
+word : flex anchor( col :  7 row : 7 ) score : 28 new tiles : flex    Heuristic : 17.5
+word : exul anchor( col :  7 row : 7 ) score : 22 new tiles : exul    Heuristic : 9.5
+word : xu anchor( col :  7 row : 7 ) score : 18 new tiles : xu    Heuristic : 9.5
+word : we anchor( col :  7 row : 7 ) score : 10 new tiles : we    Heuristic : -4.5
+word : wex anchor( col :  7 row : 7 ) score : 26 new tiles : wex    Heuristic : 16
+word : flue anchor( col :  7 row : 7 ) score : 14 new tiles : flue    Heuristic : 0
+word : fuel anchor( col :  7 row : 7 ) score : 14 new tiles : fuel    Heuristic : 0
+word : luxe anchor( col :  7 row : 7 ) score : 22 new tiles : luxe    Heuristic : 9.5
+word : ule anchor( col :  7 row : 7 ) score : 6 new tiles : ule    Heuristic : -11
+word : ulex anchor( col :  7 row : 7 ) score : 22 new tiles : ulex    Heuristic : 9.5
+word : flew anchor( col :  7 row : 7 ) score : 20 new tiles : flew    Heuristic : 10.5
+word : flex anchor( col :  7 row : 7 ) score : 28 new tiles : flex    Heuristic : 17.5
+word : lew anchor( col :  7 row : 7 ) score : 12 new tiles : lew    Heuristic : -0.5
+word : leu anchor( col :  7 row : 7 ) score : 6 new tiles : leu    Heuristic : -11
+word : lex anchor( col :  7 row : 7 ) score : 20 new tiles : lex    Heuristic : 6.5
+word : fe anchor( col :  7 row : 7 ) score : 10 new tiles : fe    Heuristic : -7
+word : few anchor( col :  7 row : 7 ) score : 18 new tiles : few    Heuristic : 6.5
+word : feu anchor( col :  7 row : 7 ) score : 12 new tiles : feu    Heuristic : -4
+word : ex anchor( col :  7 row : 7 ) score : 18 new tiles : ex    Heuristic : 2.5
+word : exul anchor( col :  7 row : 7 ) score : 22 new tiles : exul    Heuristic : 9.5
+word : el anchor( col :  7 row : 7 ) score : 4 new tiles : el    Heuristic : -14
+word : elf anchor( col :  7 row : 7 ) score : 12 new tiles : elf    Heuristic : -3
+word : ef anchor( col :  7 row : 7 ) score : 10 new tiles : ef    Heuristic : -7
+word : exul anchor( col :  7 row : 7 ) score : 22 new tiles : exul    Heuristic : 9.5
+word : ule anchor( col :  7 row : 7 ) score : 6 new tiles : ule    Heuristic : -11
+word : ulex anchor( col :  7 row : 7 ) score : 22 new tiles : ulex    Heuristic : 9.5
+word : el anchor( col :  7 row : 7 ) score : 4 new tiles : el    Heuristic : -14
+word : fuel anchor( col :  7 row : 7 ) score : 14 new tiles : fuel    Heuristic : 0
+word : elf anchor( col :  7 row : 7 ) score : 12 new tiles : elf    Heuristic : -3
+word : flu anchor( col :  7 row : 7 ) score : 12 new tiles : flu    Heuristic : 4
+word : flux anchor( col :  7 row : 7 ) score : 28 new tiles : flux    Heuristic : 24.5
+word : flue anchor( col :  7 row : 7 ) score : 14 new tiles : flue    Heuristic : 0
+word : flew anchor( col :  7 row : 7 ) score : 20 new tiles : flew    Heuristic : 10.5
+word : flex anchor( col :  7 row : 7 ) score : 28 new tiles : flex    Heuristic : 17.5
+word : lux anchor( col :  7 row : 7 ) score : 20 new tiles : lux    Heuristic : 13.5
+word : luxe anchor( col :  7 row : 7 ) score : 22 new tiles : luxe    Heuristic : 9.5
+word : lew anchor( col :  7 row : 7 ) score : 12 new tiles : lew    Heuristic : -0.5
+word : leu anchor( col :  7 row : 7 ) score : 6 new tiles : leu    Heuristic : -11
+word : lex anchor( col :  7 row : 7 ) score : 20 new tiles : lex    Heuristic : 6.5
+word : ef anchor( col :  7 row : 7 ) score : 10 new tiles : ef    Heuristic : -7
+word : elf anchor( col :  7 row : 7 ) score : 12 new tiles : elf    Heuristic : -3
+word : fuel anchor( col :  7 row : 7 ) score : 14 new tiles : fuel    Heuristic : 0
+word : fe anchor( col :  7 row : 7 ) score : 10 new tiles : fe    Heuristic : -7
+word : few anchor( col :  7 row : 7 ) score : 18 new tiles : few    Heuristic : 6.5
+word : feu anchor( col :  7 row : 7 ) score : 12 new tiles : feu    Heuristic : -4
+word : flu anchor( col :  7 row : 7 ) score : 12 new tiles : flu    Heuristic : 4
+word : flux anchor( col :  7 row : 7 ) score : 28 new tiles : flux    Heuristic : 24.5
+word : flue anchor( col :  7 row : 7 ) score : 14 new tiles : flue    Heuristic : 0
+word : flew anchor( col :  7 row : 7 ) score : 20 new tiles : flew    Heuristic : 10.5
+word : flex anchor( col :  7 row : 7 ) score : 28 new tiles : flex    Heuristic : 17.5
+word : lew anchor( col :  7 row : 7 ) score : 12 new tiles : lew    Heuristic : -0.5
+word : flew anchor( col :  7 row : 7 ) score : 20 new tiles : flew    Heuristic : 10.5
+word : few anchor( col :  7 row : 7 ) score : 18 new tiles : few    Heuristic : 6.5
+word : xu anchor( col :  7 row : 7 ) score : 18 new tiles : xu    Heuristic : 9.5
+word : exul anchor( col :  7 row : 7 ) score : 22 new tiles : exul    Heuristic : 9.5
+word : leu anchor( col :  7 row : 7 ) score : 6 new tiles : leu    Heuristic : -11
+word : feu anchor( col :  7 row : 7 ) score : 12 new tiles : feu    Heuristic : -4
+word : flu anchor( col :  7 row : 7 ) score : 12 new tiles : flu    Heuristic : 4
+word : flux anchor( col :  7 row : 7 ) score : 28 new tiles : flux    Heuristic : 24.5
+word : flue anchor( col :  7 row : 7 ) score : 14 new tiles : flue    Heuristic : 0
+word : lux anchor( col :  7 row : 7 ) score : 20 new tiles : lux    Heuristic : 13.5
+word : luxe anchor( col :  7 row : 7 ) score : 22 new tiles : luxe    Heuristic : 9.5
+word : fuel anchor( col :  7 row : 7 ) score : 14 new tiles : fuel    Heuristic : 0
+word : lux anchor( col :  7 row : 7 ) score : 20 new tiles : lux    Heuristic : 13.5
+word : flux anchor( col :  7 row : 7 ) score : 28 new tiles : flux    Heuristic : 24.5
+word : luxe anchor( col :  7 row : 7 ) score : 22 new tiles : luxe    Heuristic : 9.5
+word : ex anchor( col :  7 row : 7 ) score : 18 new tiles : ex    Heuristic : 2.5
+word : wex anchor( col :  7 row : 7 ) score : 26 new tiles : wex    Heuristic : 16
+word : lex anchor( col :  7 row : 7 ) score : 20 new tiles : lex    Heuristic : 6.5
+word : ulex anchor( col :  7 row : 7 ) score : 22 new tiles : ulex    Heuristic : 9.5
+word : flex anchor( col :  7 row : 7 ) score : 28 new tiles : flex    Heuristic : 17.5
+word : exul anchor( col :  7 row : 7 ) score : 22 new tiles : exul    Heuristic : 9.5
+word : we anchor( col :  7 row : 7 ) score : 10 new tiles : we    Heuristic : -4.5
+word : wex anchor( col :  7 row : 7 ) score : 26 new tiles : wex    Heuristic : 16
+word : flue anchor( col :  7 row : 7 ) score : 14 new tiles : flue    Heuristic : 0
+word : fuel anchor( col :  7 row : 7 ) score : 14 new tiles : fuel    Heuristic : 0
+word : luxe anchor( col :  7 row : 7 ) score : 22 new tiles : luxe    Heuristic : 9.5
+word : ule anchor( col :  7 row : 7 ) score : 6 new tiles : ule    Heuristic : -11
+word : ulex anchor( col :  7 row : 7 ) score : 22 new tiles : ulex    Heuristic : 9.5
+word : flew anchor( col :  7 row : 7 ) score : 20 new tiles : flew    Heuristic : 10.5
+word : flex anchor( col :  7 row : 7 ) score : 28 new tiles : flex    Heuristic : 17.5
+word : lew anchor( col :  7 row : 7 ) score : 12 new tiles : lew    Heuristic : -0.5
+word : leu anchor( col :  7 row : 7 ) score : 6 new tiles : leu    Heuristic : -11
+word : lex anchor( col :  7 row : 7 ) score : 20 new tiles : lex    Heuristic : 6.5
+word : fe anchor( col :  7 row : 7 ) score : 10 new tiles : fe    Heuristic : -7
+word : few anchor( col :  7 row : 7 ) score : 18 new tiles : few    Heuristic : 6.5
+word : feu anchor( col :  7 row : 7 ) score : 12 new tiles : feu    Heuristic : -4
+word : exul anchor( col :  7 row : 7 ) score : 22 new tiles : exul    Heuristic : 9.5
+word : ule anchor( col :  7 row : 7 ) score : 6 new tiles : ule    Heuristic : -11
+word : ulex anchor( col :  7 row : 7 ) score : 22 new tiles : ulex    Heuristic : 9.5
+word : el anchor( col :  7 row : 7 ) score : 4 new tiles : el    Heuristic : -14
+word : fuel anchor( col :  7 row : 7 ) score : 14 new tiles : fuel    Heuristic : 0
+word : elf anchor( col :  7 row : 7 ) score : 12 new tiles : elf    Heuristic : -3
+word : flu anchor( col :  7 row : 7 ) score : 12 new tiles : flu    Heuristic : 4
+word : flux anchor( col :  7 row : 7 ) score : 28 new tiles : flux    Heuristic : 24.5
+word : flue anchor( col :  7 row : 7 ) score : 14 new tiles : flue    Heuristic : 0
+word : flew anchor( col :  7 row : 7 ) score : 20 new tiles : flew    Heuristic : 10.5
+word : flex anchor( col :  7 row : 7 ) score : 28 new tiles : flex    Heuristic : 17.5
+word : ef anchor( col :  7 row : 7 ) score : 10 new tiles : ef    Heuristic : -7
+word : elf anchor( col :  7 row : 7 ) score : 12 new tiles : elf    Heuristic : -3
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : WUXWELF
+
+HUMAN MOVE : flux , new tiles : uxlf , score : 28 , direction : 2 , col : 7 , row : 11
+
+
+******COMPUTER TURN******
+RACK : yilnelf
+

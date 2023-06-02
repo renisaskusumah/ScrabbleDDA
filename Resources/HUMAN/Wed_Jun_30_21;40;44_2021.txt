@@ -1,0 +1,12 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	wisp	32.838	18		4	HUMAN 	18
+Player 2	hi	68.748	20		2	GADDAG	20	1	14	hi
+Player 1	gist	27.656	8		2	HUMAN 	26
+Player 2	gyps	37.125	10		3	GADDAG	30	1	19	yps
+Player 1	wry	19.058	18		2	HUMAN 	44
+Player 2	fra	125.499	18		3	GADDAG	48	1	31	fr*
+Player 1		exchange ( 19.594 )		--			0		0	
+Player 2	axe	101.731	15		3	GADDAG	63	1	39	axe
+Player 1		pass ( 8.093 )		--			0		0	

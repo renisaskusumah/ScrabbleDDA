@@ -1,0 +1,12 @@
+******HUMAN TURN******
+
+POSSIBLE MOVEMENT : 0
+******HUMAN RESULT******
+RACK : 
+
+HUMAN MOVE :  , new tiles :  , score : 0 , direction : 0 , col : 0 , row : 0
+
+
+******COMPUTER TURN******
+RACK : diunayw
+

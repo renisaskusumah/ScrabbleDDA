@@ -1,0 +1,18 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	hog	12.871	14		3	HUMAN 	14
+Player 2	fez	3.148	55		3	GADDAG	55	183	11	fez
+Player 1	gem	8.952	12		2	HUMAN 	26
+Player 2	awdl	2.22	28		4	GADDAG	83	71	21	awdl
+Player 1	quid	57.091	26		3	HUMAN 	52
+Player 2	huddup	2.098	28		5	GADDAG	111	49	38	huddp
+Player 1		pass ( 5.508 )		--			0		0	
+Player 2	nabk	3.295	26		4	GADDAG	137	169	48	nabk
+Player 1		pass ( 0.581 )		--			0		0	
+Player 2	mux	4.69	28		3	GADDAG	165	168	56	mux
+Player 1		pass ( 0.684 )		--			0		0	
+Player 2	act	74.378	22		3	GADDAG	187	1198	61	act
+Player 1	bum	4310.99	9		2	HUMAN 	61
+Player 2	vell	62.605	31		4	GADDAG	218	1169	72	vell
+Player 1	kay	101.284	10		1	HUMAN 	71

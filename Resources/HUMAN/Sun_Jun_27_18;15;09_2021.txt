@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	go	6.369	6		2	HUMAN 	6
+Player 2	zo	49.192	21		1	GADDAG	21	1	8	z

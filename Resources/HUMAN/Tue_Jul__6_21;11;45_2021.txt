@@ -1,0 +1,8 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	cur	0	8	3	HUMAN	8
+Player 2	ragu	13.401	4	3	GADDAG	4	1	11	rag
+Player 1	flob	0	18	4	HUMAN	26
+Player 2	regur	8.812	10	0	GADDAG	14	1	26	regu
+Player 1	sorn	0	4	2	HUMAN	30
+Player 2	curly	95.384	9	2	GADDAG	23	1	29	ly
+Player 1	cig	0	7	2	HUMAN	37

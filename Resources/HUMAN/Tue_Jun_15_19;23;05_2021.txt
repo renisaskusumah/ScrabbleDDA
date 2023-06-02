@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	go	139.192	6		2	HUMAN 	6
+Player 2	stave	84.307	16		3	GADDAG	16	9	8	ave

@@ -1,0 +1,3 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	roe	0	6	3	HUMAN	6
+Player 2	by	14.263	8	1	GADDAG	8	1	11	by

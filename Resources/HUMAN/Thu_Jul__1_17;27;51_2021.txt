@@ -1,0 +1,18 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	threw	75.279	30		5	HUMAN 	30
+Player 2	sowfed	85.396	26		5	GADDAG	26	1	17	sowfd
+Player 1	would	10.725	21		4	HUMAN 	51
+Player 2	voulu	44.911	8		4	GADDAG	34	1	38	vulu
+Player 1	click	15.899	26		4	HUMAN 	77
+Player 2	tumid	32.788	14		4	GADDAG	48	1	53	tmid
+Player 1	hid	36.391	8		2	HUMAN 	85
+Player 2	qi	57.728	21		1	GADDAG	69	1	66	q
+Player 1	qin	25.671	12		1	HUMAN 	97
+Player 2	thou	94.826	16		3	GADDAG	85	1	66	th*
+Player 1	bayt	20.232	11		3	HUMAN 	108
+Player 2	zeps	25.449	20		4	GADDAG	105	1	80	zeps
+Player 1	eggy	17.038	17		3	HUMAN 	125
+Player 2	hidage	17.359	12		3	GADDAG	117	1	97	age
+Player 1	motu	23.8	19		4	HUMAN 	144

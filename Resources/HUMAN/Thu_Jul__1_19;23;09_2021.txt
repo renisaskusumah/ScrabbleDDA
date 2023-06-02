@@ -1,0 +1,4 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	flux	8.129	28		4	HUMAN 	28

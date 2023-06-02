@@ -1,0 +1,62 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	alky	0	22	4	HUMAN	22
+Player 2	oche	30.472	17	4	GADDAG	17	1	14	och*
+Player 1	on	0	2	1	HUMAN	24
+Player 2	fixt	84.324	17	4	GADDAG	34	1	24	*ixt
+Player 1	een	0	4	2	HUMAN	28
+Player 2	fem	1.892	13	3	GADDAG	47	1	38	fem
+Player 1	mo	0	20	2	HUMAN	48
+Player 2	naif	3.064	14	3	GADDAG	61	1	45	nai
+Player 1	id	0	14	2	HUMAN	62
+Player 2	nap	3.74	8	2	GADDAG	69	1	57	ap
+Player 1	efs	0	6	2	HUMAN	68
+Player 2	napa	5.755	6	1	GADDAG	75	1	67	a
+Player 1	at	0	8	1	HUMAN	76
+Player 2	ate	6.556	7	1	GADDAG	82	1	70	e
+Player 1	dush	0	12	3	HUMAN	88
+Player 2	brit	6.575	14	4	GADDAG	96	1	77	brit
+Player 1	qin	0	12	2	HUMAN	100
+Player 2	aha	4.071	6	1	GADDAG	102	1	89	a
+Player 1	been	0	6	1	HUMAN	106
+Player 2	he	5.097	10	1	GADDAG	112	1	91	e
+Player 1	et	0	2	1	HUMAN	108
+Player 2	puton	6.345	7	2	GADDAG	119	1	95	pu
+Player 1	us	0	2	1	HUMAN	110
+Player 2	up	4.186	4	1	GADDAG	123	1	100	u
+Player 1	wit	0	21	2	HUMAN	131
+Player 2	upo	3.559	7	1	GADDAG	130	1	104	o
+Player 1	cull	0	18	4	HUMAN	149
+Player 2	ecos	5.051	6	1	GADDAG	136	1	116	e
+Player 1	rigs	0	14	4	HUMAN	163
+Player 2	gad	88.932	24	3	GADDAG	160	1	126	gad
+Player 1	doo	0	4	2	HUMAN	167
+Player 2	gled	6.528	6	3	GADDAG	166	1	137	ged
+Player 1	di	0	3	1	HUMAN	170
+Player 2	eng	6.222	6	1	GADDAG	172	1	142	n
+Player 1	sea	0	3	2	HUMAN	173
+Player 2	culler	7.852	8	2	GADDAG	180	1	148	er
+Player 1	ee	0	2	1	HUMAN	175
+Player 2	ee	9.057	6	1	GADDAG	186	1	155	e
+Player 1	aa	0	2	1	HUMAN	177
+Player 2	een	5.745	3	1	GADDAG	189	1	159	n
+Player 1	ern	0	4	2	HUMAN	181
+Player 2	err	5.423	6	1	GADDAG	195	1	165	r
+Player 1	al	0	9	1	HUMAN	190
+Player 2	di	3.639	6	1	GADDAG	201	1	167	i
+Player 1		0	0	0	HUMAN	190
+Player 2	div	4.498	7	1	GADDAG	208	1	169	v
+Player 1		0	0	0	HUMAN	190
+Player 2	div	3.895	14	1	GADDAG	222	1	170	v
+Player 1		0	0	0	HUMAN	190
+Player 2	-	4.058	0	0	GADDAG	222	0	170	
+Player 1		0	0	0	HUMAN	190
+Player 2	-	3.427	0	0	GADDAG	222	0	170	
+Player 1		0	0	0	HUMAN	190
+winner : Player 2
+left tile (letter bag): 0
+player 1 left tile : 1
+player 1 total skor : 190
+player 2 duration : 
+player 2 left tile : 1
+player 2 total score : 222
+Player 2	-	4.641	0	0	GADDAG	222	0	170	

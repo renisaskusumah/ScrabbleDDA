@@ -1,0 +1,6 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	grue	0	8	4	HUMAN	8
+Player 2	para	7.935	10	4	GADDAG	10	1	14	par*
+Player 1	dopa	0	7	3	HUMAN	15
+Player 2	pupu	14.731	7	0	GADDAG	17	1	31	
+Player 1	fap	0	30	3	HUMAN	45

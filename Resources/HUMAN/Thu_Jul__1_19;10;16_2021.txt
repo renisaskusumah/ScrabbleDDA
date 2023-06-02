@@ -1,0 +1,4 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	coz	20.045	28		3	HUMAN 	28

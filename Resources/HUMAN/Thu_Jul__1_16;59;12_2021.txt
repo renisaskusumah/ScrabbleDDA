@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	beads	17.133	18		5	HUMAN 	18
+Player 2	uveas	9.073	13		4	GADDAG	13	1	17	uvas
+Player 1	zurf	11.753	18		3	HUMAN 	36

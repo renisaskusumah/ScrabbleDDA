@@ -1,0 +1,4 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	hate	11.043	14		4	HUMAN 	14

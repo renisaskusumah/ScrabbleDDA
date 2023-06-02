@@ -1,0 +1,4 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	zonk	8.998	34		4	HUMAN 	34

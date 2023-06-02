@@ -1,0 +1,4 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	go	7.175	6		2	HUMAN 	6

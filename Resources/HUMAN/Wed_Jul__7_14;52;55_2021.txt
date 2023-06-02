@@ -1,0 +1,25 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	racy	0	18	4	HUMAN	18
+Player 2	graph	13.161	15	4	GADDAG	15	1	14	grph
+Player 1	os	0	11	2	HUMAN	29
+Player 2	dhow	26.978	11	2	GADDAG	26	1	26	dw
+Player 1	spy	0	8	2	HUMAN	37
+Player 2	ley	1.595	30	3	GADDAG	56	1	33	ley
+Player 1	rhy	0	18	2	HUMAN	55
+Player 2	-	1.321	0	0	GADDAG	56	0	44	
+Player 1	brr	0	5	2	HUMAN	60
+Player 2	-	0.792	0	0	GADDAG	56	0	48	
+Player 1	brrr	0	12	1	HUMAN	72
+Player 2	-	3.113	0	0	GADDAG	56	0	50	
+Player 1		0	0	0	HUMAN	72
+Player 2	-	3.8	0	0	GADDAG	56	0	50	
+Player 1		0	0	0	HUMAN	72
+Player 2	-	4.661	0	0	GADDAG	56	0	50	
+Player 1		0	0	0	HUMAN	72
+winner : Player 1
+left tile (letter bag): 64
+player 1 left tile : 7
+player 1 total skor : 72
+player 2 duration : 
+player 2 left tile : 7
+player 2 total score : 56

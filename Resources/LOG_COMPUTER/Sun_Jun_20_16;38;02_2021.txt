@@ -1,0 +1,8 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : O*QGHVM
+
+HUMAN MOVE : go , new tiles : og , score : 6 , direction : 1 , col : 9 , row : 7
+
+

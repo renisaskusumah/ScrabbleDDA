@@ -1,0 +1,11 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	haku	0	22	4	HUMAN	22
+Player 2	pand	6.124	7	3	GADDAG	7	1	14	pnd
+Player 1	ebb	0	10	3	HUMAN	32
+Player 2	vau	52.234	13	2	GADDAG	20	1	26	va
+Player 1	vide	0	16	2	HUMAN	48
+Player 2	depend	82.03	15	3	GADDAG	35	1	34	pend
+Player 1	ar	0	4	2	HUMAN	52
+Player 2	zein	1.926	26	2	GADDAG	61	1	46	zin
+Player 1	chur	0	18	3	HUMAN	70
+Player 2	bing	5.354	14	0	GADDAG	75	1	58	ig

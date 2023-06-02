@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	go	6.812	6		2	HUMAN 	6
+Player 2	gov	14.471	7		1	GADDAG	7	1	8	v
+Player 1	ho	4.231	9		1	HUMAN 	15

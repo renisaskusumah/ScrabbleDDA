@@ -1,0 +1,11 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	puy	0	14		3	HUMAN 	14
+Player 2	-	0.731	0		0	GADDAG	0	0	16	
+Player 1	wees	0	5		3	HUMAN 	19
+Player 2	zho	19.714	14		2	GADDAG	14	1	30	zh
+Player 1	acne	0	2		3	HUMAN 	21
+Player 2	duh	2.914	7		2	GADDAG	21	1	49	du
+Player 1	ghis	0	10		3	HUMAN 	31
+Player 2	fad	2.524	8		2	GADDAG	29	1	61	fa

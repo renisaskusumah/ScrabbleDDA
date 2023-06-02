@@ -1,0 +1,1197 @@
+
+
+word: beg m: -999 n: 999 alpha: -999 beta: 999 max: -999 level : 1
+word: deaf m: -999 n: 999 alpha: -999 beta: 999 max: -999 level : 2
+word: gos m: -999 n: 999 alpha: -999 beta: 999 max: -999 level : 3
+word: be m: -999 n: 999 alpha: -999 beta: 999 max: -999 level : 4
+word: fest m: -999 n: 999 alpha: -999 beta: 999 max: -999 level : 5
+evaluate : 6 level : 6 word : fest
+word: fa m: 6 n: 7 alpha: -999 beta: 999 max: 6 level : 2
+evaluate : -2 level : 3 word : fa
+word: fae m: 6 n: 7 alpha: -999 beta: 999 max: 6 level : 2
+evaluate : -3 level : 3 word : fae
+word: zag m: 6 n: 7 alpha: -999 beta: 999 max: 6 level : 2
+evaluate : -8 level : 3 word : zag
+evaluate : -8 level : 3 word : zag
+word: zag m: 8 n: 7 alpha: -999 beta: 999 max: 6 level : 2
+word: zed m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 2
+evaluate : -14 level : 3 word : zed
+evaluate : -14 level : 3 word : zed
+word: zed m: 14 n: 9 alpha: -999 beta: 999 max: 8 level : 2
+word: gazed m: 14 n: 15 alpha: -999 beta: 999 max: 14 level : 2
+evaluate : -18 level : 3 word : gazed
+evaluate : -18 level : 3 word : gazed
+word: gazed m: 18 n: 15 alpha: -999 beta: 999 max: 14 level : 2
+word: bel m: -18 n: -17 alpha: -999 beta: 999 max: -18 level : 1
+word: deaf m: -999 n: 18 alpha: 17 beta: 18 max: 17 level : 2
+word: gos m: -999 n: -17 alpha: -18 beta: -17 max: -18 level : 3
+word: be m: -999 n: 18 alpha: 17 beta: 18 max: 17 level : 4
+word: fest m: -999 n: -17 alpha: -18 beta: -17 max: -18 level : 5
+evaluate : 8 level : 6 word : fest
+----PRUNNING----
+word: fest m: -8 n: -17 alpha: -18 beta: -17 max: -18 level : 5
+-----
+
+----PRUNNING----
+word: gos m: -8 n: -17 alpha: -18 beta: -17 max: -18 level : 3
+-----
+
+word: fe m: 8 n: 18 alpha: 17 beta: 18 max: 17 level : 2
+evaluate : -3 level : 3 word : fe
+word: fez m: 8 n: 18 alpha: 17 beta: 18 max: 17 level : 2
+evaluate : -22 level : 3 word : fez
+----PRUNNING----
+word: fez m: 22 n: 18 alpha: 17 beta: 18 max: 17 level : 2
+-----
+
+word: belt m: -18 n: -17 alpha: -999 beta: 999 max: -18 level : 1
+word: deaf m: -999 n: 18 alpha: 17 beta: 18 max: 17 level : 2
+word: gos m: -999 n: -17 alpha: -18 beta: -17 max: -18 level : 3
+word: be m: -999 n: 18 alpha: 17 beta: 18 max: 17 level : 4
+evaluate : -14 level : 5 word : be
+----PRUNNING----
+word: gos m: -14 n: -17 alpha: -18 beta: -17 max: -18 level : 3
+-----
+
+word: fe m: 14 n: 18 alpha: 17 beta: 18 max: 17 level : 2
+evaluate : -1 level : 3 word : fe
+word: favel m: 14 n: 18 alpha: 17 beta: 18 max: 17 level : 2
+evaluate : -3 level : 3 word : favel
+word: zed m: 14 n: 18 alpha: 17 beta: 18 max: 17 level : 2
+evaluate : -14 level : 3 word : zed
+word: lazed m: 14 n: 18 alpha: 17 beta: 18 max: 17 level : 2
+evaluate : -16 level : 3 word : lazed
+word: bez m: 16 n: 18 alpha: 17 beta: 18 max: 17 level : 2
+evaluate : -3 level : 3 word : bez
+word: deaf m: -999 n: 16 alpha: -999 beta: 16 max: -999 level : 2
+word: gos m: -999 n: 999 alpha: -16 beta: 999 max: -16 level : 3
+word: be m: -999 n: 16 alpha: -999 beta: 16 max: -999 level : 4
+evaluate : -14 level : 5 word : be
+word: st m: -14 n: -13 alpha: -16 beta: 999 max: -14 level : 3
+evaluate : 11 level : 4 word : st
+evaluate : 11 level : 4 word : st
+word: st m: -11 n: -13 alpha: -16 beta: 999 max: -14 level : 3
+word: fe m: 11 n: 12 alpha: -999 beta: 16 max: 11 level : 2
+evaluate : -1 level : 3 word : fe
+word: favel m: 11 n: 12 alpha: -999 beta: 16 max: 11 level : 2
+evaluate : -3 level : 3 word : favel
+word: zed m: 11 n: 12 alpha: -999 beta: 16 max: 11 level : 2
+evaluate : -14 level : 3 word : zed
+evaluate : -14 level : 3 word : zed
+word: zed m: 14 n: 12 alpha: -999 beta: 16 max: 11 level : 2
+word: lazed m: 14 n: 15 alpha: -999 beta: 16 max: 14 level : 2
+evaluate : -16 level : 3 word : lazed
+evaluate : -16 level : 3 word : lazed
+word: lazed m: 16 n: 15 alpha: -999 beta: 16 max: 14 level : 2
+----PRUNNING----
+word: lazed m: 16 n: 15 alpha: -999 beta: 16 max: 14 level : 2
+-----
+
+word: belt m: -16 n: -17 alpha: -999 beta: 999 max: -18 level : 1
+word: bet m: -16 n: -15 alpha: -999 beta: 999 max: -16 level : 1
+word: deaf m: -999 n: 16 alpha: 15 beta: 16 max: 15 level : 2
+word: gos m: -999 n: -15 alpha: -16 beta: -15 max: -16 level : 3
+word: be m: -999 n: 16 alpha: 15 beta: 16 max: 15 level : 4
+evaluate : -16 level : 5 word : be
+----PRUNNING----
+word: be m: 16 n: 16 alpha: 15 beta: 16 max: 15 level : 4
+-----
+
+word: st m: -16 n: -15 alpha: -16 beta: -15 max: -16 level : 3
+evaluate : 13 level : 4 word : st
+----PRUNNING----
+word: st m: -13 n: -15 alpha: -16 beta: -15 max: -16 level : 3
+-----
+
+word: faze m: 13 n: 16 alpha: 15 beta: 16 max: 15 level : 2
+evaluate : -28 level : 3 word : faze
+----PRUNNING----
+word: faze m: 28 n: 16 alpha: 15 beta: 16 max: 15 level : 2
+-----
+
+word: blet m: -16 n: -15 alpha: -999 beta: 999 max: -16 level : 1
+word: fled m: -999 n: 16 alpha: 15 beta: 16 max: 15 level : 2
+word: seg m: -999 n: -15 alpha: -16 beta: -15 max: -16 level : 3
+word: za m: -999 n: 16 alpha: 15 beta: 16 max: 15 level : 4
+evaluate : -28 level : 5 word : za
+----PRUNNING----
+word: za m: 28 n: 16 alpha: 15 beta: 16 max: 15 level : 4
+-----
+
+word: st m: -28 n: -15 alpha: -16 beta: -15 max: -16 level : 3
+evaluate : -4 level : 4 word : st
+----PRUNNING----
+word: st m: 4 n: -15 alpha: -16 beta: -15 max: -16 level : 3
+-----
+
+word: fled m: -999 n: -4 alpha: -999 beta: -4 max: -999 level : 2
+word: seg m: -999 n: 999 alpha: 4 beta: 999 max: 4 level : 3
+word: za m: -999 n: -4 alpha: -999 beta: -4 max: -999 level : 4
+evaluate : -28 level : 5 word : za
+----PRUNNING----
+word: za m: 28 n: -4 alpha: -999 beta: -4 max: -999 level : 4
+-----
+
+word: st m: -28 n: 5 alpha: 4 beta: 999 max: 4 level : 3
+evaluate : -4 level : 4 word : st
+evaluate : -4 level : 4 word : st
+word: st m: 4 n: 5 alpha: 4 beta: 999 max: 4 level : 3
+----PRUNNING----
+word: fled m: -4 n: -4 alpha: -999 beta: -4 max: -999 level : 2
+-----
+
+word: blet m: 4 n: -15 alpha: -999 beta: 999 max: -16 level : 1
+word: gov m: 4 n: 5 alpha: -999 beta: 999 max: 4 level : 1
+word: zag m: -999 n: -4 alpha: -5 beta: -4 max: -5 level : 2
+word: blest m: -999 n: 5 alpha: 4 beta: 5 max: 4 level : 3
+evaluate : -7 level : 4 word : blest
+----PRUNNING----
+word: blest m: 7 n: 5 alpha: 4 beta: 5 max: 4 level : 3
+-----
+
+word: zag m: -999 n: -7 alpha: -999 beta: -7 max: -999 level : 2
+word: blest m: -999 n: 999 alpha: 7 beta: 999 max: 7 level : 3
+evaluate : -7 level : 4 word : blest
+word: blet m: 7 n: 8 alpha: 7 beta: 999 max: 7 level : 3
+word: fez m: -999 n: -7 alpha: -8 beta: -7 max: -8 level : 4
+word: goes m: -999 n: 8 alpha: 7 beta: 8 max: 7 level : 5
+evaluate : 5 level : 6 word : goes
+----PRUNNING----
+word: fez m: 5 n: -7 alpha: -8 beta: -7 max: -8 level : 4
+-----
+
+word: blets m: 7 n: 8 alpha: 7 beta: 999 max: 7 level : 3
+evaluate : -8 level : 4 word : blets
+evaluate : -8 level : 4 word : blets
+word: blets m: 8 n: 8 alpha: 7 beta: 999 max: 7 level : 3
+word: goes m: 8 n: 9 alpha: 7 beta: 999 max: 8 level : 3
+evaluate : 6 level : 4 word : goes
+word: goest m: 8 n: 9 alpha: 7 beta: 999 max: 8 level : 3
+evaluate : 4 level : 4 word : goest
+word: gov m: 8 n: 5 alpha: -999 beta: 999 max: 4 level : 1
+word: govs m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: zag m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+word: blet m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : -6 level : 4 word : blet
+word: belt m: 6 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : -4 level : 4 word : belt
+word: blet m: 6 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : -4 level : 4 word : blet
+word: bet m: 6 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+word: devs m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+evaluate : -9 level : 5 word : devs
+----PRUNNING----
+word: devs m: 9 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+-----
+
+word: gel m: 6 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : 5 level : 4 word : gel
+word: gelt m: 6 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : 4 level : 4 word : gelt
+word: begot m: 6 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : -1 level : 4 word : begot
+word: vet m: 6 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : 2 level : 4 word : vet
+word: sel m: 6 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : 3 level : 4 word : sel
+----PRUNNING----
+word: zag m: -6 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+-----
+
+word: gob m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: zag m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+word: vest m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+word: fez m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+evaluate : -9 level : 5 word : fez
+----PRUNNING----
+word: fez m: 9 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+-----
+
+word: gest m: -9 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : 8 level : 4 word : gest
+word: vegos m: -8 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : 2 level : 4 word : vegos
+word: goslet m: -2 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : 4 level : 4 word : goslet
+----PRUNNING----
+word: zag m: 2 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+-----
+
+word: goblet m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: zag m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+word: gos m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+word: feeb m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+evaluate : -30 level : 5 word : feeb
+----PRUNNING----
+word: feeb m: 30 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+-----
+
+word: st m: -30 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : 5 level : 4 word : st
+----PRUNNING----
+word: zag m: 5 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+-----
+
+word: goblets m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: zag m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+word: gov m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : -1 level : 4 word : gov
+----PRUNNING----
+word: zag m: -1 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+-----
+
+word: glove m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: faze m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+word: gos m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+word: dev m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+evaluate : -34 level : 5 word : dev
+----PRUNNING----
+word: dev m: 34 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+-----
+
+----PRUNNING----
+word: faze m: 34 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+-----
+
+word: gloves m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: faze m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+word: gob m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+word: dev m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+word: st m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 5
+evaluate : 26 level : 6 word : st
+----PRUNNING----
+word: dev m: 26 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+-----
+
+word: st m: -26 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : 13 level : 4 word : st
+----PRUNNING----
+word: faze m: 13 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+-----
+
+word: glob m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: ave m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+word: vet m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+word: lab m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+word: st m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 5
+evaluate : -13 level : 6 word : st
+----PRUNNING----
+word: st m: 13 n: 9 alpha: 8 beta: 9 max: 8 level : 5
+-----
+
+word: bez m: -13 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+word: st m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 5
+evaluate : 3 level : 6 word : st
+----PRUNNING----
+word: bez m: 3 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+-----
+
+word: vet m: -3 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : -14 level : 4 word : vet
+----PRUNNING----
+word: vet m: 14 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+-----
+
+word: faze m: -14 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+evaluate : -25 level : 3 word : faze
+----PRUNNING----
+word: faze m: 25 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+-----
+
+word: globs m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: fadge m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+word: vet m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : -12 level : 4 word : vet
+----PRUNNING----
+word: vet m: 12 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+-----
+
+word: bal m: -12 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+evaluate : 13 level : 3 word : bal
+word: bald m: -12 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+evaluate : 10 level : 3 word : bald
+word: abed m: -10 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+evaluate : 6 level : 3 word : abed
+----PRUNNING----
+word: abed m: -6 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+-----
+
+word: globe m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: abed m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+word: te m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+word: lav m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+word: sted m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 5
+word: bez m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 6
+evaluate : -37 level : 7 word : bez
+----PRUNNING----
+word: bez m: 37 n: -8 alpha: -9 beta: -8 max: -9 level : 6
+-----
+
+word: globes m: -37 n: 9 alpha: 8 beta: 9 max: 8 level : 5
+evaluate : 9 level : 6 word : globes
+----PRUNNING----
+word: lav m: 9 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+-----
+
+----PRUNNING----
+word: abed m: 9 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+-----
+
+word: vlog m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: vav m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+word: bet m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+word: zed m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+word: les m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 5
+evaluate : 9 level : 6 word : les
+----PRUNNING----
+word: zed m: 9 n: -8 alpha: -9 beta: -8 max: -9 level : 4
+-----
+
+word: les m: -9 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : -14 level : 4 word : les
+----PRUNNING----
+word: les m: 14 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+-----
+
+word: gazed m: -14 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+evaluate : -11 level : 3 word : gazed
+----PRUNNING----
+word: gazed m: 11 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+-----
+
+word: vlogs m: 8 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: vav m: -999 n: -8 alpha: -9 beta: -8 max: -9 level : 2
+word: bet m: -999 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+evaluate : -27 level : 4 word : bet
+----PRUNNING----
+word: bet m: 27 n: 9 alpha: 8 beta: 9 max: 8 level : 3
+-----
+
+word: vav m: -999 n: -27 alpha: -999 beta: -27 max: -999 level : 2
+word: bet m: -999 n: 999 alpha: 27 beta: 999 max: 27 level : 3
+evaluate : -27 level : 4 word : bet
+word: vet m: 27 n: 28 alpha: 27 beta: 999 max: 27 level : 3
+word: zed m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: gob m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 14 level : 6 word : gob
+word: be m: -14 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 16 level : 6 word : be
+----PRUNNING----
+word: zed m: 14 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: let m: 27 n: 28 alpha: 27 beta: 999 max: 27 level : 3
+evaluate : -17 level : 4 word : let
+word: goe m: 27 n: 28 alpha: 27 beta: 999 max: 27 level : 3
+evaluate : -17 level : 4 word : goe
+word: get m: 27 n: 28 alpha: 27 beta: 999 max: 27 level : 3
+evaluate : -18 level : 4 word : get
+word: set m: 27 n: 28 alpha: 27 beta: 999 max: 27 level : 3
+evaluate : -19 level : 4 word : set
+----PRUNNING----
+word: vav m: -27 n: -27 alpha: -999 beta: -27 max: -999 level : 2
+-----
+
+word: vlogs m: 27 n: 9 alpha: -999 beta: 999 max: 8 level : 1
+word: blog m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: abb m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: vet m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: gov m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: sego m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : -20 level : 6 word : sego
+word: st m: 20 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : -17 level : 6 word : st
+----PRUNNING----
+word: gov m: -20 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: vet m: 20 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -22 level : 4 word : vet
+word: govs m: 22 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -14 level : 4 word : govs
+word: gest m: 22 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -12 level : 4 word : gest
+----PRUNNING----
+word: abb m: -22 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: blogs m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: abb m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: vet m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -22 level : 4 word : vet
+word: vet m: 22 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -22 level : 4 word : vet
+word: lev m: 22 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: zed m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: got m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 20 level : 6 word : got
+word: st m: -20 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 20 level : 6 word : st
+word: got m: -20 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 15 level : 6 word : got
+word: bet m: -15 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 15 level : 6 word : bet
+----PRUNNING----
+word: zed m: 15 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: get m: 22 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -13 level : 4 word : get
+word: set m: 22 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -14 level : 4 word : set
+----PRUNNING----
+word: abb m: -22 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: blot m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: abb m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: veg m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: def m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: sego m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : -2 level : 6 word : sego
+----PRUNNING----
+word: def m: -2 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: teg m: 2 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -8 level : 4 word : teg
+word: tegs m: 8 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -8 level : 4 word : tegs
+----PRUNNING----
+word: abb m: -8 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: love m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: za m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: glove m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: dev m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: gos m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: lab m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -33 level : 7 word : lab
+----PRUNNING----
+word: lab m: 33 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+----PRUNNING----
+word: dev m: 33 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+----PRUNNING----
+word: za m: 33 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: lob m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: fez m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: veg m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: bad m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: sego m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 18 level : 6 word : sego
+----PRUNNING----
+word: bad m: 18 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: seg m: -18 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 14 level : 4 word : seg
+----PRUNNING----
+word: fez m: 14 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: vol m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: vav m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: beg m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: dev m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: gobs m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: zag m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+word: let m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 7
+evaluate : -1 level : 8 word : let
+word: let m: 1 n: 28 alpha: 27 beta: 28 max: 27 level : 7
+evaluate : -3 level : 8 word : let
+word: st m: 3 n: 28 alpha: 27 beta: 28 max: 27 level : 7
+evaluate : -3 level : 8 word : st
+----PRUNNING----
+word: zag m: -3 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+word: st m: 3 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : -26 level : 6 word : st
+word: lets m: 26 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : -18 level : 6 word : lets
+----PRUNNING----
+word: dev m: -26 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: veg m: 26 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -11 level : 4 word : veg
+word: gest m: 26 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -11 level : 4 word : gest
+----PRUNNING----
+word: vav m: -26 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: vols m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: vav m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: beg m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: zeds m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: let m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 19 level : 6 word : let
+----PRUNNING----
+word: zeds m: 19 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: veg m: -19 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -13 level : 4 word : veg
+word: leg m: 13 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -9 level : 4 word : leg
+----PRUNNING----
+word: vav m: -13 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: vole m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: vav m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gos m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: fez m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+evaluate : -41 level : 5 word : fez
+----PRUNNING----
+word: fez m: 41 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+----PRUNNING----
+word: vav m: 41 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: volet m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: vav m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gos m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: beef m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+evaluate : -15 level : 5 word : beef
+----PRUNNING----
+word: beef m: 15 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: st m: -15 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -8 level : 4 word : st
+----PRUNNING----
+word: vav m: -8 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: volt m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: vav m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: beg m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: fez m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: st m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 11 level : 6 word : st
+word: gobs m: -11 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 6 level : 6 word : gobs
+word: les m: -6 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 10 level : 6 word : les
+----PRUNNING----
+word: fez m: 6 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: veg m: -6 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -13 level : 4 word : veg
+word: gobs m: 13 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -11 level : 4 word : gobs
+word: leg m: 13 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -9 level : 4 word : leg
+word: legs m: 13 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -9 level : 4 word : legs
+word: st m: 13 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -6 level : 4 word : st
+word: est m: 13 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -7 level : 4 word : est
+word: gest m: 13 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -14 level : 4 word : gest
+----PRUNNING----
+word: vav m: -14 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: volts m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: abvolts m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: beg m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -25 level : 4 word : beg
+word: beg m: 25 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -26 level : 4 word : beg
+word: veg m: 26 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: zed m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: gob m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 16 level : 6 word : gob
+----PRUNNING----
+word: zed m: 16 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+----PRUNNING----
+word: abvolts m: -26 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: volte m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: vav m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gos m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: feeb m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+evaluate : -16 level : 5 word : feeb
+----PRUNNING----
+word: feeb m: 16 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: st m: -16 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -8 level : 4 word : st
+----PRUNNING----
+word: vav m: -8 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: bog m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: fab m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: vest m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: zed m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+evaluate : -28 level : 5 word : zed
+----PRUNNING----
+word: zed m: 28 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: bes m: -28 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -8 level : 4 word : bes
+word: best m: 8 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -9 level : 4 word : best
+word: goslet m: 9 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -13 level : 4 word : goslet
+----PRUNNING----
+word: fab m: -13 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: bogle m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: faze m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gos m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: ba m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: vet m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 26 level : 6 word : vet
+word: te m: -26 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: ad m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -37 level : 7 word : ad
+----PRUNNING----
+word: ad m: 37 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+word: et m: -26 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 29 level : 6 word : et
+----PRUNNING----
+word: ba m: 26 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+----PRUNNING----
+word: faze m: 26 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: bolt m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: faze m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: veg m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: ba m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: gos m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 14 level : 6 word : gos
+word: st m: -14 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 16 level : 6 word : st
+word: sego m: -14 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 13 level : 6 word : sego
+----PRUNNING----
+word: ba m: 13 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: veg m: -13 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 10 level : 4 word : veg
+word: govs m: -10 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 26 level : 4 word : govs
+word: leg m: -10 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 29 level : 4 word : leg
+word: legs m: -10 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 29 level : 4 word : legs
+word: st m: -10 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 32 level : 4 word : st
+word: est m: -10 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 31 level : 4 word : est
+word: gest m: -10 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 24 level : 4 word : gest
+word: seg m: -10 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 24 level : 4 word : seg
+----PRUNNING----
+word: faze m: 10 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: bot m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: faze m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: lev m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: ba m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: gos m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: ad m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -26 level : 7 word : ad
+----PRUNNING----
+word: ad m: 26 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+word: sego m: -26 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 17 level : 6 word : sego
+----PRUNNING----
+word: ba m: 17 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: seg m: -17 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 20 level : 4 word : seg
+word: gel m: -17 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 29 level : 4 word : gel
+word: gels m: -17 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 29 level : 4 word : gels
+word: teg m: -17 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 31 level : 4 word : teg
+word: tegs m: -17 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 31 level : 4 word : tegs
+----PRUNNING----
+word: faze m: 17 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: lev m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: flab m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: bog m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: zed m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: sego m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: vag m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -44 level : 7 word : vag
+----PRUNNING----
+word: vag m: 44 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+word: flabs m: -44 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: vag m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -39 level : 7 word : vag
+----PRUNNING----
+word: vag m: 39 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+word: egos m: -39 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: vag m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -44 level : 7 word : vag
+----PRUNNING----
+word: vag m: 44 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+----PRUNNING----
+word: zed m: 39 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+----PRUNNING----
+word: flab m: 39 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: veg m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: zea m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: sego m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: dzo m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: zol m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: fe m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -37 level : 7 word : fe
+----PRUNNING----
+word: fe m: 37 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+----PRUNNING----
+word: dzo m: 37 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: segol m: -37 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 18 level : 4 word : segol
+----PRUNNING----
+word: zea m: 18 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: vet m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: faze m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gob m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: ba m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: sego m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: ad m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -26 level : 7 word : ad
+----PRUNNING----
+word: ad m: 26 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+word: segol m: -26 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 20 level : 6 word : segol
+word: st m: -20 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 24 level : 6 word : st
+----PRUNNING----
+word: ba m: 20 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+----PRUNNING----
+word: faze m: 20 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: beg m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: za m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: vol m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: fez m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: sego m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: dab m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -25 level : 7 word : dab
+----PRUNNING----
+word: dab m: 25 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+word: egos m: -25 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 17 level : 6 word : egos
+----PRUNNING----
+word: fez m: 17 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: vols m: -17 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 6 level : 4 word : vols
+----PRUNNING----
+word: za m: 6 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: belt m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: za m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gov m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: fez m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: sego m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 16 level : 6 word : sego
+word: st m: -16 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 17 level : 6 word : st
+word: egos m: -16 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 16 level : 6 word : egos
+----PRUNNING----
+word: fez m: 16 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: govs m: -16 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 5 level : 4 word : govs
+word: sego m: -5 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 14 level : 4 word : sego
+word: st m: -5 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 15 level : 4 word : st
+----PRUNNING----
+word: za m: 5 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: vest m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: feaze m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: el m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: be m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+evaluate : -40 level : 5 word : be
+----PRUNNING----
+word: be m: 40 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+----PRUNNING----
+word: feaze m: 40 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: blest m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: bead m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gov m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -16 level : 4 word : gov
+----PRUNNING----
+word: bead m: -16 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: blet m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: bead m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gov m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: fe m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: goes m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : -15 level : 6 word : goes
+----PRUNNING----
+word: fe m: -15 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: govs m: 15 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -15 level : 4 word : govs
+word: goes m: 15 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -6 level : 4 word : goes
+----PRUNNING----
+word: bead m: -15 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: blets m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: bead m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gov m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -16 level : 4 word : gov
+----PRUNNING----
+word: bead m: -16 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: veg m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: zea m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: blot m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: fe m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: goes m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : -5 level : 6 word : goes
+----PRUNNING----
+word: fe m: -5 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: goes m: 5 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -2 level : 4 word : goes
+word: goest m: 5 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -4 level : 4 word : goest
+----PRUNNING----
+word: zea m: -5 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: lev m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: defo m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: es m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: za m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+evaluate : -35 level : 5 word : za
+----PRUNNING----
+word: za m: 35 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: est m: -35 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -1 level : 4 word : est
+word: govs m: 1 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -6 level : 4 word : govs
+word: st m: 6 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -8 level : 4 word : st
+----PRUNNING----
+word: defo m: -8 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: veg m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: za m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: blot m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: fez m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: govs m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 3 level : 6 word : govs
+word: es m: -3 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 9 level : 6 word : es
+----PRUNNING----
+word: fez m: 3 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: govs m: -3 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -5 level : 4 word : govs
+word: st m: 5 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -9 level : 4 word : st
+----PRUNNING----
+word: za m: -9 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: vet m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: za m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gob m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: beef m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: govs m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: vag m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -18 level : 7 word : vag
+----PRUNNING----
+word: vag m: 18 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+word: st m: -18 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 13 level : 6 word : st
+----PRUNNING----
+word: beef m: 13 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+----PRUNNING----
+word: za m: 13 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: beg m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: bead m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gobs m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: fe m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: el m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: zag m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -31 level : 7 word : zag
+----PRUNNING----
+word: zag m: 31 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+word: elt m: -31 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 7 level : 6 word : elt
+----PRUNNING----
+word: fe m: 7 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: elts m: -7 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -9 level : 4 word : elts
+----PRUNNING----
+word: bead m: -9 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: belt m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: za m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gov m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: fez m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: gobs m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 3 level : 6 word : gobs
+word: es m: -3 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 8 level : 6 word : es
+word: st m: -3 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 8 level : 6 word : st
+----PRUNNING----
+word: fez m: 3 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: govs m: -3 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -6 level : 4 word : govs
+word: gobs m: 6 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 1 level : 4 word : gobs
+word: es m: 6 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 6 level : 4 word : es
+word: st m: 6 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 6 level : 4 word : st
+----PRUNNING----
+word: za m: -6 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: blet m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: za m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gov m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: fed m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: gobs m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 13 level : 6 word : gobs
+word: st m: -13 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 18 level : 6 word : st
+----PRUNNING----
+word: fed m: 13 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: govs m: -13 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -6 level : 4 word : govs
+word: gobs m: 6 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 1 level : 4 word : gobs
+word: st m: 6 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 6 level : 4 word : st
+----PRUNNING----
+word: za m: -6 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: vet m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: fazed m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gob m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: ba m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: es m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 22 level : 6 word : es
+----PRUNNING----
+word: ba m: 22 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+----PRUNNING----
+word: fazed m: 22 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: vets m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: faze m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gob m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: ba m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: el m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 0 level : 6 word : el
+----PRUNNING----
+word: ba m: 0 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: gel m: 0 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : -4 level : 4 word : gel
+----PRUNNING----
+word: faze m: -4 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: bet m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: faze m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: gov m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: be m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: es m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+word: ed m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+evaluate : -22 level : 7 word : ed
+----PRUNNING----
+word: ed m: 22 n: -27 alpha: -28 beta: -27 max: -28 level : 6
+-----
+
+----PRUNNING----
+word: be m: 22 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: govs m: -22 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 13 level : 4 word : govs
+----PRUNNING----
+word: faze m: 13 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: beg m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: deaf m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: st m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: be m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+evaluate : 0 level : 5 word : be
+----PRUNNING----
+word: be m: 0 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: got m: 0 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 1 level : 4 word : got
+----PRUNNING----
+word: deaf m: 0 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: bel m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: deaf m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: st m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: be m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+evaluate : -2 level : 5 word : be
+----PRUNNING----
+word: be m: 2 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: got m: -2 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 3 level : 4 word : got
+----PRUNNING----
+word: deaf m: 2 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: belt m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: deaf m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: obs m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: bez m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+evaluate : -55 level : 5 word : bez
+----PRUNNING----
+word: bez m: 55 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: st m: -55 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 4 level : 4 word : st
+----PRUNNING----
+word: deaf m: 4 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: bet m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: deaf m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: obs m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: bez m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+evaluate : -57 level : 5 word : bez
+----PRUNNING----
+word: bez m: 57 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: st m: -57 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 7 level : 4 word : st
+----PRUNNING----
+word: deaf m: 7 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+
+word: blet m: 27 n: 28 alpha: -999 beta: 999 max: 27 level : 1
+word: deaf m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+word: obs m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+word: be m: -999 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+word: veg m: -999 n: 28 alpha: 27 beta: 28 max: 27 level : 5
+evaluate : 2 level : 6 word : veg
+----PRUNNING----
+word: be m: 2 n: -27 alpha: -28 beta: -27 max: -28 level : 4
+-----
+
+word: seg m: -2 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 1 level : 4 word : seg
+word: st m: -1 n: 28 alpha: 27 beta: 28 max: 27 level : 3
+evaluate : 4 level : 4 word : st
+----PRUNNING----
+word: deaf m: 1 n: -27 alpha: -28 beta: -27 max: -28 level : 2
+-----
+

@@ -1,0 +1,11 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	fums	0	18	4	HUMAN	18
+Player 2	jomo	59.675	17	4	GADDAG	17	1	14	jomo
+Player 1	cirl	0	22	4	HUMAN	40
+Player 2	cf	10.128	13	1	GADDAG	30	1	30	cf
+Player 1	ki	0	10	1	HUMAN	50
+Player 2	slaw	2.511	19	2	GADDAG	49	1	34	slaw
+Player 1	coss	0	6	1	HUMAN	56
+Player 2	s	6.677	21	0	GADDAG	70	1	41	s
+Player 1	flub	0	12	3	HUMAN	68
+Player 2	raw	2.759	14	2	GADDAG	84	1	51	raw

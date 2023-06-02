@@ -1,0 +1,16 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	box	11.013	24		3	HUMAN 	24
+Player 2	bizzy	20.423	22		4	GADDAG	22	1	11	iz*y
+Player 1	arnottos	107.638	62		7	HUMAN 	86
+Player 2	pis	47.231	8		1	GADDAG	30	1	38	p
+Player 1	tas	15.231	12		2	HUMAN 	98
+Player 2	aspis	32.844	7		2	GADDAG	37	1	42	as
+Player 1	mos	9.417	10		2	HUMAN 	108
+Player 2	cack	30.555	24		3	GADDAG	61	1	52	cck
+Player 1	jaffa	42.624	26		4	HUMAN 	134
+Player 2	vac	30.754	9		2	GADDAG	70	1	69	va
+Player 1	pa	6.939	7		1	HUMAN 	141
+Player 2	ma	19.502	4		1	GADDAG	74	1	75	m
+Player 1	pir	37.67	5		2	HUMAN 	146

@@ -1,0 +1,6 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1		0	0	0	HUMAN	0
+Player 2	fiqh	141.731	38	4	GADDAG	38	1	225	fiqh
+Player 1	li	0	2	1	HUMAN	2
+Player 2	fiqh	7.537	38	0	GADDAG	76	1	15	iqh
+Player 1	of	0	14	2	HUMAN	16

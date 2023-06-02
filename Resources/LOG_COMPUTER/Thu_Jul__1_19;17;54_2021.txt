@@ -1,0 +1,77 @@
+******HUMAN TURN******
+
+word : pyx anchor( col :  7 row : 7 ) score : 30 new tiles : pyx    Heuristic : 35
+word : sly anchor( col :  7 row : 7 ) score : 12 new tiles : sly    Heuristic : 5.5
+word : ply anchor( col :  7 row : 7 ) score : 16 new tiles : ply    Heuristic : 18.5
+word : dry anchor( col :  7 row : 7 ) score : 14 new tiles : dry    Heuristic : 12.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 8
+word : pry anchor( col :  7 row : 7 ) score : 16 new tiles : pry    Heuristic : 16
+word : spry anchor( col :  7 row : 7 ) score : 18 new tiles : spry    Heuristic : 11.5
+word : prys anchor( col :  7 row : 7 ) score : 18 new tiles : prys    Heuristic : 11.5
+word : spy anchor( col :  7 row : 7 ) score : 16 new tiles : spy    Heuristic : 10
+word : pyx anchor( col :  7 row : 7 ) score : 30 new tiles : pyx    Heuristic : 35
+word : sly anchor( col :  7 row : 7 ) score : 12 new tiles : sly    Heuristic : 5.5
+word : ply anchor( col :  7 row : 7 ) score : 16 new tiles : ply    Heuristic : 18.5
+word : dry anchor( col :  7 row : 7 ) score : 14 new tiles : dry    Heuristic : 12.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 8
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 8
+word : prys anchor( col :  7 row : 7 ) score : 18 new tiles : prys    Heuristic : 11.5
+word : sly anchor( col :  7 row : 7 ) score : 12 new tiles : sly    Heuristic : 5.5
+word : spy anchor( col :  7 row : 7 ) score : 16 new tiles : spy    Heuristic : 10
+word : spry anchor( col :  7 row : 7 ) score : 18 new tiles : spry    Heuristic : 11.5
+word : dry anchor( col :  7 row : 7 ) score : 14 new tiles : dry    Heuristic : 12.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 8
+word : spry anchor( col :  7 row : 7 ) score : 18 new tiles : spry    Heuristic : 11.5
+word : pry anchor( col :  7 row : 7 ) score : 16 new tiles : pry    Heuristic : 16
+word : prys anchor( col :  7 row : 7 ) score : 18 new tiles : prys    Heuristic : 11.5
+word : spy anchor( col :  7 row : 7 ) score : 16 new tiles : spy    Heuristic : 10
+word : spry anchor( col :  7 row : 7 ) score : 18 new tiles : spry    Heuristic : 11.5
+word : pyx anchor( col :  7 row : 7 ) score : 30 new tiles : pyx    Heuristic : 35
+word : ply anchor( col :  7 row : 7 ) score : 16 new tiles : ply    Heuristic : 18.5
+word : pry anchor( col :  7 row : 7 ) score : 16 new tiles : pry    Heuristic : 16
+word : prys anchor( col :  7 row : 7 ) score : 18 new tiles : prys    Heuristic : 11.5
+word : pyx anchor( col :  7 row : 7 ) score : 30 new tiles : pyx    Heuristic : 35
+word : sly anchor( col :  7 row : 7 ) score : 12 new tiles : sly    Heuristic : 5.5
+word : ply anchor( col :  7 row : 7 ) score : 16 new tiles : ply    Heuristic : 18.5
+word : dry anchor( col :  7 row : 7 ) score : 14 new tiles : dry    Heuristic : 12.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 8
+word : pry anchor( col :  7 row : 7 ) score : 16 new tiles : pry    Heuristic : 16
+word : spry anchor( col :  7 row : 7 ) score : 18 new tiles : spry    Heuristic : 11.5
+word : prys anchor( col :  7 row : 7 ) score : 18 new tiles : prys    Heuristic : 11.5
+word : spy anchor( col :  7 row : 7 ) score : 16 new tiles : spy    Heuristic : 10
+word : pyx anchor( col :  7 row : 7 ) score : 30 new tiles : pyx    Heuristic : 35
+word : sly anchor( col :  7 row : 7 ) score : 12 new tiles : sly    Heuristic : 5.5
+word : ply anchor( col :  7 row : 7 ) score : 16 new tiles : ply    Heuristic : 18.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 8
+word : prys anchor( col :  7 row : 7 ) score : 18 new tiles : prys    Heuristic : 11.5
+word : dry anchor( col :  7 row : 7 ) score : 14 new tiles : dry    Heuristic : 12.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 8
+word : spry anchor( col :  7 row : 7 ) score : 18 new tiles : spry    Heuristic : 11.5
+word : pry anchor( col :  7 row : 7 ) score : 16 new tiles : pry    Heuristic : 16
+word : prys anchor( col :  7 row : 7 ) score : 18 new tiles : prys    Heuristic : 11.5
+word : spy anchor( col :  7 row : 7 ) score : 16 new tiles : spy    Heuristic : 10
+word : spry anchor( col :  7 row : 7 ) score : 18 new tiles : spry    Heuristic : 11.5
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : XYLDSRP
+
+HUMAN MOVE : dry , new tiles : ydr , score : 14 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : myopeld
+
+word : od anchor( col :  6 row : 7 ) score : 3 new tiles : o    Heuristic : -0.5
+word : ed anchor( col :  6 row : 7 ) score : 3 new tiles : e    Heuristic : -6
+word : do anchor( col :  8 row : 7 ) score : 3 new tiles : o    Heuristic : -0.5
+word : de anchor( col :  8 row : 7 ) score : 3 new tiles : e    Heuristic : -6
+word : or anchor( col :  6 row : 8 ) score : 3 new tiles : o    Heuristic : -0.5
+word : er anchor( col :  6 row : 8 ) score : 3 new tiles : e    Heuristic : -6
+word : re anchor( col :  8 row : 8 ) score : 3 new tiles : e    Heuristic : -6
+word : my anchor( col :  6 row : 9 ) score : 7 new tiles : m    Heuristic : 6
+word : oy anchor( col :  6 row : 9 ) score : 5 new tiles : o    Heuristic : 1.5
+word : yo anchor( col :  8 row : 9 ) score : 5 new tiles : o    Heuristic : 1.5
+word : ye anchor( col :  8 row : 9 ) score : 5 new tiles : e    Heuristic : -4

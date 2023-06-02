@@ -1,0 +1,52 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	twp	0	8	3	HUMAN	8
+Player 2	oat	60.888	4	2	GADDAG	4	1	11	o*
+Player 1	wiss	0	4	3	HUMAN	12
+Player 2	doom	12.004	7	2	GADDAG	11	1	23	dm
+Player 1	drys	0	14	4	HUMAN	26
+Player 2	boat	3.76	5	1	GADDAG	16	1	38	b
+Player 1	med	0	12	2	HUMAN	38
+Player 2	em	102.675	12	1	GADDAG	28	1	47	e
+Player 1	wey	0	13	2	HUMAN	51
+Player 2	reded	108.335	18	3	GADDAG	46	1	49	red
+Player 1	tics	0	12	3	HUMAN	63
+Player 2	zeds	6.017	28	1	GADDAG	74	1	59	z
+Player 1	di	0	3	1	HUMAN	66
+Player 2	dooms	5.1	8	1	GADDAG	82	1	61	o
+Player 1	sh	0	5	1	HUMAN	71
+Player 2	hao	29.835	14	2	GADDAG	96	1	63	ha
+Player 1	dung	0	7	3	HUMAN	78
+Player 2	uh	37.272	10	1	GADDAG	106	1	77	u
+Player 1	op	0	7	1	HUMAN	85
+Player 2	orb	13.61	5	1	GADDAG	111	1	79	b
+Player 1	nuff	0	18	3	HUMAN	103
+Player 2	ab	3.513	14	0	GADDAG	125	1	85	
+Player 1	lid	0	19	2	HUMAN	122
+Player 2	ug	20.216	9	1	GADDAG	134	1	88	g
+Player 1	po	0	6	1	HUMAN	128
+Player 2	ion	4.77	4	1	GADDAG	138	1	91	n
+Player 1	erk	0	14	3	HUMAN	142
+Player 2	het	7.591	6	1	GADDAG	144	1	100	t
+Player 1	fix	0	26	2	HUMAN	168
+Player 2	-	23.971	0	0	GADDAG	144	0	106	
+Player 1	cuit	0	7	3	HUMAN	175
+Player 2	luv	9.293	14	2	GADDAG	158	1	114	lv
+Player 1	att	0	17	3	HUMAN	192
+Player 2	jak	21.536	30	2	GADDAG	188	1	122	ja
+Player 1	art	0	6	2	HUMAN	198
+Player 2	gae	49.022	9	1	GADDAG	197	1	129	e
+Player 1	woot	0	11	3	HUMAN	209
+Player 2	ewe	41.318	10	1	GADDAG	207	1	137	e
+Player 1	in	0	8	2	HUMAN	217
+Player 2	hete	37.952	7	1	GADDAG	214	1	142	e
+Player 1	eon	0	10	3	HUMAN	227
+Player 2	arle	40.827	11	3	GADDAG	225	1	150	arl
+Player 1	ax	0	22	1	HUMAN	249
+Player 2	err	103.301	5	1	GADDAG	230	1	156	r
+Player 1	agen	0	17	4	HUMAN	266
+Player 2	ea	169.249	22	0	GADDAG	252	1	164	
+Player 1		0	0	0	HUMAN	266
+Player 2	jake	60.589	15	1	GADDAG	267	1	164	e
+Player 1		0	0	0	HUMAN	266
+Player 2	arle	51.624	8	0	GADDAG	275	1	165	
+Player 1		0	0	0	HUMAN	266

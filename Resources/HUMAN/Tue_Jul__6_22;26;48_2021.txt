@@ -1,0 +1,60 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	idea	0	10	4	HUMAN	10
+Player 2	fab	5.032	12	3	GADDAG	12	1	14	fab
+Player 1	faa	0	7	2	HUMAN	17
+Player 2	bin	12.148	5	1	GADDAG	17	1	26	n
+Player 1	amah	0	9	3	HUMAN	26
+Player 2	ja	19.297	9	1	GADDAG	26	1	35	j
+Player 1	lax	0	10	2	HUMAN	36
+Player 2	faan	27.81	8	1	GADDAG	34	1	38	n
+Player 1	bink	0	20	1	HUMAN	56
+Player 2	fy	109.401	12	1	GADDAG	46	1	43	y
+Player 1	vly	0	9	2	HUMAN	65
+Player 2	doyen	9.019	22	3	GADDAG	68	1	50	oyen
+Player 1	ton	0	3	2	HUMAN	68
+Player 2	orf	4.299	6	2	GADDAG	74	1	61	or
+Player 1	toga	0	14	4	HUMAN	82
+Player 2	lum	15.387	10	2	GADDAG	84	1	73	um
+Player 1	tet	0	9	3	HUMAN	91
+Player 2	lum	39.67	10	0	GADDAG	94	1	83	um
+Player 1	yo	0	5	1	HUMAN	96
+Player 2	tong	56.03	7	1	GADDAG	101	1	85	g
+Player 1	colt	0	6	2	HUMAN	102
+Player 2	boyo	49.576	6	2	GADDAG	107	1	87	bo
+Player 1	got	0	5	2	HUMAN	107
+Player 2	oye	23.659	6	0	GADDAG	113	1	95	oe
+Player 1	harn	0	17	4	HUMAN	124
+Player 2	cub	13.448	7	2	GADDAG	120	1	105	cu
+Player 1	boles	0	20	5	HUMAN	144
+Player 2	rub	95.48	5	0	GADDAG	125	1	120	ru
+Player 1	ore	0	4	2	HUMAN	148
+Player 2	zo	105.865	25	2	GADDAG	150	1	124	zo
+Player 1	si	0	8	2	HUMAN	156
+Player 2	woe	26.769	20	2	GADDAG	170	1	131	we
+Player 1	tongs	0	6	1	HUMAN	162
+Player 2	rug	48.601	6	1	GADDAG	176	1	138	r
+Player 1	ut	0	4	2	HUMAN	166
+Player 2	dob	23.593	10	1	GADDAG	186	1	142	d
+Player 1	us	0	10	2	HUMAN	176
+Player 2	sip	37.031	5	1	GADDAG	191	1	147	p
+Player 1	ewe	0	11	3	HUMAN	187
+Player 2	ene	93.111	4	1	GADDAG	195	1	155	e
+Player 1	in	0	2	1	HUMAN	189
+Player 2	ene	39.35	9	1	GADDAG	204	1	157	ee
+Player 1	parp	0	9	3	HUMAN	198
+Player 2	ay	33.201	10	1	GADDAG	214	1	161	a
+Player 1	ide	0	6	2	HUMAN	204
+Player 2	ruga	28.12	10	0	GADDAG	224	1	165	a
+Player 1	ed	0	3	1	HUMAN	207
+Player 2	ay	46.473	10	0	GADDAG	234	1	167	a
+Player 1	div	0	7	2	HUMAN	214
+Player 2	iure	54.773	10	2	GADDAG	244	1	172	ir
+Player 1	ad	0	5	1	HUMAN	219
+Player 2	rev	24.268	8	1	GADDAG	252	1	172	re
+Player 1	hi	0	5	1	HUMAN	224
+Player 2	idee	0.895	5	0	GADDAG	257	1	174	e
+Player 1	ee	0	2	1	HUMAN	226
+Player 2	nevi	1.623	9	2	GADDAG	266	1	175	ni
+Player 1	ne	0	2	1	HUMAN	228
+Player 2	nevi	6.591	9	0	GADDAG	275	1	180	ni
+Player 1	divi	0	16	1	HUMAN	244

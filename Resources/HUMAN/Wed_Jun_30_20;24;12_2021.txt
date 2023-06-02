@@ -1,0 +1,11 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	zag	34.317	24		3	HUMAN 	24
+Player 2	zax	19.604	19		2	GADDAG	19	1	11	ax
+Player 1	pay	15.093	24		2	HUMAN 	48
+Player 2	jar	50.883	19		3	GADDAG	38	1	17	j*r
+Player 1	say	7.542	7		1	HUMAN 	55
+Player 2	tutrix	10.138	17		4	GADDAG	55	1	25	tuti
+Player 1	zags	21.748	14		1	HUMAN 	69
+Player 2	it	10.091	3		1	GADDAG	58	1	37	i

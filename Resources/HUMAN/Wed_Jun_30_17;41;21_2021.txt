@@ -1,0 +1,50 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	had	8.089	14		3	HUMAN 	14
+Player 2	ah	6.496	5		1	GADDAG	5	1	11	a
+Player 1	duty	17.32	10		3	HUMAN 	24
+Player 2	ya	2.459	9		1	GADDAG	14	1	21	y
+Player 1	cany	8.762	9		3	HUMAN 	33
+Player 2	ky	4.625	9		1	GADDAG	23	1	31	k
+Player 1	funk	13.253	13		3	HUMAN 	46
+Player 2	flu	4.883	7		2	GADDAG	30	1	41	lu
+Player 1	nice	37.45	9		3	HUMAN 	55
+Player 2	nth	5.678	9		3	GADDAG	39	1	53	nth
+Player 1	fee	5.076	8		2	HUMAN 	63
+Player 2	ur	6.277	11		2	GADDAG	50	1	64	ur
+Player 1	zit	23.42	17		3	HUMAN 	80
+Player 2	urb	5.863	8		1	GADDAG	58	1	74	b
+Player 1	gurls	56.581	14		4	HUMAN 	94
+Player 2	bal	8.322	10		2	GADDAG	68	1	84	al
+Player 1	slid	43.293	5		3	HUMAN 	99
+Player 2	aw	10.674	10		1	GADDAG	78	1	96	w
+Player 1	lobs	13.784	12		3	HUMAN 	111
+Player 2	awa	11.835	10		1	GADDAG	88	1	103	a
+Player 1	cow	20.586	12		2	HUMAN 	123
+Player 2	dab	10.663	12		1	GADDAG	100	1	107	d
+Player 1	dom	5.462	9		2	HUMAN 	132
+Player 2	gnus	14.171	5		2	GADDAG	105	1	113	gs
+Player 1	maps	8.511	21		3	HUMAN 	153
+Player 2	mu	18.916	8		1	GADDAG	113	1	121	m
+Player 1	jog	56.648	27		2	HUMAN 	180
+Player 2	flue	19.7	9		1	GADDAG	122	1	126	e
+Player 1	pip	13.431	14		2	HUMAN 	194
+Player 2	snod	15.191	13		3	GADDAG	135	1	128	nod
+Player 1	gon	11.932	8		2	HUMAN 	202
+Player 2	teg	22.916	13		2	GADDAG	148	1	135	te
+Player 1	lot	12.736	5		2	HUMAN 	207
+Player 2	vet	16.011	6		2	GADDAG	154	1	141	ve
+Player 1	vast	9.135	9		3	HUMAN 	216
+Player 2	toe	17.939	6		2	GADDAG	160	1	153	to
+Player 1	rat	10.112	6		2	HUMAN 	222
+Player 2	wox	28.148	13		1	GADDAG	173	1	161	x
+Player 1	ave	28.049	20		3	HUMAN 	242
+Player 2	eave	27.28	9		1	GADDAG	182	1	165	e
+Player 1	reel	17.08	5		3	HUMAN 	247
+Player 2	-	33.433	0		0	NEGASCOUT	182	0	172	
+Player 1	nit	15.421	9		2	HUMAN 	256
+Player 2	-	34.5	0		0	NEGASCOUT	182	0	175	
+Player 1	er	19.151	6		1	HUMAN 	262
+Player 2	-	28.587	0		0	NEGASCOUT	182	0	175	
+Player 1		pass ( 3.119 )		--			0		0	

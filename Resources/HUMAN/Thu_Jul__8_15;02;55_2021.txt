@@ -1,0 +1,59 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	gurn	0	10	4	HUMAN	10
+Player 2	age	0.508	14	3	GADDAG	14	1	14	age
+Player 1	page	0	7	1	HUMAN	17
+Player 2	nur	4.61	11	3	GADDAG	25	1	20	nur
+Player 1	be	0	9	2	HUMAN	26
+Player 2	pein	11.303	6	3	GADDAG	31	1	29	pei
+Player 1	kati	0	28	4	HUMAN	54
+Player 2	wis	83.634	25	3	GADDAG	56	1	45	wis
+Player 1	piu	0	2	1	HUMAN	56
+Player 2	rager	9.459	6	1	GADDAG	62	1	51	r
+Player 1	bun	0	7	2	HUMAN	63
+Player 2	ure	8.694	5	1	GADDAG	67	1	57	e
+Player 1	adaw	0	18	4	HUMAN	81
+Player 2	fan	12.739	6	1	GADDAG	73	1	68	f
+Player 1	eine	0	6	3	HUMAN	87
+Player 2	fesse	11.499	10	3	GADDAG	83	1	77	fse
+Player 1	hmm	0	14	3	HUMAN	101
+Player 2	jerk	0.987	15	1	GADDAG	98	1	88	j
+Player 1	ach	0	8	2	HUMAN	109
+Player 2	nap	11.006	5	1	GADDAG	103	1	94	p
+Player 1	deb	0	12	2	HUMAN	121
+Player 2	pages	22.702	14	1	GADDAG	117	1	98	s
+Player 1	debe	0	8	2	HUMAN	129
+Player 2	tach	12.416	9	1	GADDAG	126	1	103	t
+Player 1	cang	0	16	4	HUMAN	145
+Player 2	debt	2.506	7	1	GADDAG	133	1	110	t
+Player 1	noh	0	8	2	HUMAN	153
+Player 2	ax	105.683	18	2	GADDAG	151	1	116	ax
+Player 1	el	0	2	1	HUMAN	155
+Player 2	ous	16.128	8	1	GADDAG	159	1	120	o
+Player 1	dital	0	5	3	HUMAN	160
+Player 2	ill	21.098	5	2	GADDAG	164	1	127	ll
+Player 1	na	0	3	1	HUMAN	163
+Player 2	wot	27.749	8	1	GADDAG	172	1	132	t
+Player 1	serr	0	9	4	HUMAN	172
+Player 2	ret	27.204	7	3	GADDAG	179	1	145	ret
+Player 1	tale	0	4	3	HUMAN	176
+Player 2	ted	23.405	9	1	GADDAG	188	1	155	e
+Player 1	dof	0	9	1	HUMAN	185
+Player 2	vor	15.967	7	2	GADDAG	195	1	156	vo
+Player 1	ai	0	2	1	HUMAN	187
+Player 2	anas	10.819	4	1	GADDAG	199	1	160	a
+Player 1	moz	0	24	2	HUMAN	211
+Player 2	oy	5.545	11	1	GADDAG	210	1	162	y
+Player 1	ail	0	5	2	HUMAN	216
+Player 2	oi	6.938	12	1	GADDAG	222	1	162	o
+Player 1	ai	0	6	1	HUMAN	222
+Player 2	chi	3.262	8	1	GADDAG	230	1	163	i
+Player 1	ye	0	5	1	HUMAN	227
+Player 2	ow	0.304	14	1	GADDAG	244	1	164	o
+Player 1	chiv	0	12	1	HUMAN	239
+winner : Player 2
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 239
+player 2 duration : 
+player 2 left tile : 3
+player 2 total score : 244

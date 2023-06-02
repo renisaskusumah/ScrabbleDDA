@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	kite	29.105	14		4	HUMAN 	14
+Player 2	oe	40.811	2		1	GADDAG	2	1	14	o
+Player 1	ow	10.23	5		1	HUMAN 	19

@@ -1,0 +1,14 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	has	6.156	12		3	HUMAN 	12
+Player 2	sh	17.936	23		2	GADDAG	23	1	11	sh
+Player 1	dowp	34.765	29		4	HUMAN 	41
+Player 2	od	19.415	3		1	GADDAG	26	1	25	o
+Player 1	fozy	20.347	40		3	HUMAN 	81
+Player 2	wof	16.451	9		1	GADDAG	35	1	31	w
+Player 1	had	83.999	9		1	HUMAN 	90
+Player 2	pod	14.251	6		1	GADDAG	41	1	34	p
+Player 1	sax	60.349	29		2	HUMAN 	119
+Player 2	spod	18.232	7		1	GADDAG	48	1	38	s
+Player 1	as	15.575	1		1	HUMAN 	120

@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	ply	7.587	16		3	HUMAN 	16
+Player 2	up	8.96	4		1	GADDAG	4	1	11	u
+Player 1	duply	18.516	11		3	HUMAN 	27
+Player 2	up	13.506	4		0	GADDAG	8	1	21	

@@ -1,0 +1,10 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	huss	0	14	4	HUMAN	14
+Player 2	-	1.813	0	0	GADDAG	0	0	14	
+Player 1	sae	0	4	2	HUMAN	18
+Player 2	-	0.956	0	0	GADDAG	0	0	19	
+Player 1	ask	0	13	2	HUMAN	31
+Player 2	-	5.618	0	0	GADDAG	0	0	20	
+Player 1	ex	0	25	1	HUMAN	56
+Player 2	-	3.381	0	0	GADDAG	0	0	22	
+Player 1	ch	0	7	1	HUMAN	63

@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	pyx	12.557	30		3	HUMAN 	30
+Player 2		52.117	-842150451		0	GADDAG	-842150451	1	11	
+Player 1	yu	9.171	6		1	HUMAN 	36

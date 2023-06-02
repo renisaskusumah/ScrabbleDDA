@@ -1,0 +1,3 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	rat	12.56	6		3	HUMAN 	6
+Player 2	prat	0.274	6	1	GADDAG	6	1	11	p

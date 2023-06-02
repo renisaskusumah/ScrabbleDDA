@@ -1,0 +1,24 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	bung	11.453	14		4	HUMAN 	14
+Player 2	subgum	3.478	11		5	GADDAG	11	1	14	sugum
+Player 1	chum	29.172	25		3	HUMAN 	39
+Player 2	pujah	236.828	14		4	GADDAG	25	1	31	pu*a
+Player 1	burk	31.326	11		3	HUMAN 	50
+Player 2	ache	12.381	16		3	GADDAG	41	1	45	ahe
+Player 1	aglow	21.423	18		4	HUMAN 	68
+Player 2	cairn	20.499	20		5	GADDAG	61	1	60	c*irn
+Player 1	jong	27.391	24		3	HUMAN 	92
+Player 2	aches	12.635	16		1	GADDAG	77	1	78	s
+Player 1	vox	17.55	21		2	HUMAN 	113
+Player 2	jongs	11.482	13		1	GADDAG	90	1	79	s
+Player 1	wine	11.002	16		3	HUMAN 	129
+Player 2	jet	16.46	20		2	GADDAG	110	1	87	et
+Player 1	delly	18.267	26		4	HUMAN 	155
+Player 2	bungy	29.71	15		1	GADDAG	125	1	102	y
+Player 1	twae	22.381	7		2	HUMAN 	162
+Player 2	vow	43.752	19		2	GADDAG	144	1	107	vo
+Player 1	faas	25.284	7		1	HUMAN 	169
+Player 2	peds	11.545	17		3	GADDAG	161	1	111	pds
+Player 1	dirndl	31.479	20		5	HUMAN 	189

@@ -1,0 +1,23 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : WUOWVNO
+
+HUMAN MOVE : vow , new tiles : owv , score : 18 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : erllvuh
+
+word : rev anchor( col :  6 row : 7 ) score : 6 new tiles : re    Heuristic : -6
+word : lev anchor( col :  6 row : 7 ) score : 6 new tiles : le    Heuristic : -2.5
+word : lurve anchor( col :  6 row : 7 ) score : 8 new tiles : lure    Heuristic : 0
+word : lo anchor( col :  6 row : 8 ) score : 3 new tiles : l    Heuristic : 0.5
+word : velour anchor( col :  6 row : 8 ) score : 11 new tiles : velur    Heuristic : 9.5
+word : helo anchor( col :  6 row : 8 ) score : 8 new tiles : hel    Heuristic : 0
+word : ho anchor( col :  6 row : 8 ) score : 9 new tiles : h    Heuristic : 4
+word : oe anchor( col :  8 row : 8 ) score : 3 new tiles : e    Heuristic : -8.5
+word : or anchor( col :  8 row : 8 ) score : 3 new tiles : r    Heuristic : -3
+word : ou anchor( col :  8 row : 8 ) score : 3 new tiles : u    Heuristic : -1.5
+word : oh anchor( col :  8 row : 8 ) score : 9 new tiles : h    Heuristic : 4
+word : we anchor( col :  8 row : 9 ) score : 5 new tiles : e    Heuristic : -6.5

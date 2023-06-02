@@ -1,0 +1,111 @@
+******HUMAN TURN******
+
+word : um anchor( col :  7 row : 7 ) score : 8 new tiles : um    Heuristic : -7
+word : sum anchor( col :  7 row : 7 ) score : 10 new tiles : sum    Heuristic : -11.5
+word : sump anchor( col :  7 row : 7 ) score : 16 new tiles : sump    Heuristic : -3
+word : jump anchor( col :  7 row : 7 ) score : 30 new tiles : jump    Heuristic : 21.5
+word : jumps anchor( col :  7 row : 7 ) score : 32 new tiles : jumps    Heuristic : 17
+word : ums anchor( col :  7 row : 7 ) score : 10 new tiles : ums    Heuristic : -11.5
+word : ump anchor( col :  7 row : 7 ) score : 14 new tiles : ump    Heuristic : 1.5
+word : umps anchor( col :  7 row : 7 ) score : 16 new tiles : umps    Heuristic : -3
+word : mu anchor( col :  7 row : 7 ) score : 8 new tiles : mu    Heuristic : -7
+word : mus anchor( col :  7 row : 7 ) score : 10 new tiles : mus    Heuristic : -11.5
+word : musk anchor( col :  7 row : 7 ) score : 20 new tiles : musk    Heuristic : 2
+word : mu anchor( col :  7 row : 7 ) score : 8 new tiles : mu    Heuristic : -7
+word : mus anchor( col :  7 row : 7 ) score : 10 new tiles : mus    Heuristic : -11.5
+word : musk anchor( col :  7 row : 7 ) score : 20 new tiles : musk    Heuristic : 2
+word : sum anchor( col :  7 row : 7 ) score : 10 new tiles : sum    Heuristic : -11.5
+word : sump anchor( col :  7 row : 7 ) score : 16 new tiles : sump    Heuristic : -3
+word : sup anchor( col :  7 row : 7 ) score : 10 new tiles : sup    Heuristic : -11
+word : suq anchor( col :  7 row : 7 ) score : 24 new tiles : suq    Heuristic : 13
+word : suk anchor( col :  7 row : 7 ) score : 14 new tiles : suk    Heuristic : -6
+word : pus anchor( col :  7 row : 7 ) score : 10 new tiles : pus    Heuristic : -11
+word : jump anchor( col :  7 row : 7 ) score : 30 new tiles : jump    Heuristic : 21.5
+word : jumps anchor( col :  7 row : 7 ) score : 32 new tiles : jumps    Heuristic : 17
+word : jus anchor( col :  7 row : 7 ) score : 20 new tiles : jus    Heuristic : 0.5
+word : um anchor( col :  7 row : 7 ) score : 8 new tiles : um    Heuristic : -7
+word : ums anchor( col :  7 row : 7 ) score : 10 new tiles : ums    Heuristic : -11.5
+word : ump anchor( col :  7 row : 7 ) score : 14 new tiles : ump    Heuristic : 1.5
+word : umps anchor( col :  7 row : 7 ) score : 16 new tiles : umps    Heuristic : -3
+word : us anchor( col :  7 row : 7 ) score : 4 new tiles : us    Heuristic : -19.5
+word : up anchor( col :  7 row : 7 ) score : 8 new tiles : up    Heuristic : -6.5
+word : ups anchor( col :  7 row : 7 ) score : 10 new tiles : ups    Heuristic : -11
+word : ums anchor( col :  7 row : 7 ) score : 10 new tiles : ums    Heuristic : -11.5
+word : us anchor( col :  7 row : 7 ) score : 4 new tiles : us    Heuristic : -19.5
+word : mus anchor( col :  7 row : 7 ) score : 10 new tiles : mus    Heuristic : -11.5
+word : musk anchor( col :  7 row : 7 ) score : 20 new tiles : musk    Heuristic : 2
+word : pus anchor( col :  7 row : 7 ) score : 10 new tiles : pus    Heuristic : -11
+word : jus anchor( col :  7 row : 7 ) score : 20 new tiles : jus    Heuristic : 0.5
+word : umps anchor( col :  7 row : 7 ) score : 16 new tiles : umps    Heuristic : -3
+word : jumps anchor( col :  7 row : 7 ) score : 48 new tiles : jumps    Heuristic : 33
+word : ups anchor( col :  7 row : 7 ) score : 10 new tiles : ups    Heuristic : -11
+word : sum anchor( col :  7 row : 7 ) score : 10 new tiles : sum    Heuristic : -11.5
+word : sump anchor( col :  7 row : 7 ) score : 16 new tiles : sump    Heuristic : -3
+word : sup anchor( col :  7 row : 7 ) score : 10 new tiles : sup    Heuristic : -11
+word : suq anchor( col :  7 row : 7 ) score : 24 new tiles : suq    Heuristic : 13
+word : suk anchor( col :  7 row : 7 ) score : 14 new tiles : suk    Heuristic : -6
+word : ump anchor( col :  7 row : 7 ) score : 14 new tiles : ump    Heuristic : 1.5
+word : sump anchor( col :  7 row : 7 ) score : 16 new tiles : sump    Heuristic : -3
+word : jump anchor( col :  7 row : 7 ) score : 30 new tiles : jump    Heuristic : 21.5
+word : jumps anchor( col :  7 row : 7 ) score : 32 new tiles : jumps    Heuristic : 17
+word : umps anchor( col :  7 row : 7 ) score : 16 new tiles : umps    Heuristic : -3
+word : up anchor( col :  7 row : 7 ) score : 8 new tiles : up    Heuristic : -6.5
+word : sup anchor( col :  7 row : 7 ) score : 10 new tiles : sup    Heuristic : -11
+word : ups anchor( col :  7 row : 7 ) score : 10 new tiles : ups    Heuristic : -11
+word : pus anchor( col :  7 row : 7 ) score : 10 new tiles : pus    Heuristic : -11
+word : suq anchor( col :  7 row : 7 ) score : 24 new tiles : suq    Heuristic : 13
+word : jump anchor( col :  7 row : 7 ) score : 30 new tiles : jump    Heuristic : 21.5
+word : jumps anchor( col :  7 row : 7 ) score : 34 new tiles : jumps    Heuristic : 19
+word : jus anchor( col :  7 row : 7 ) score : 20 new tiles : jus    Heuristic : 0.5
+word : suk anchor( col :  7 row : 7 ) score : 14 new tiles : suk    Heuristic : -6
+word : musk anchor( col :  7 row : 7 ) score : 20 new tiles : musk    Heuristic : 2
+word : um anchor( col :  7 row : 7 ) score : 8 new tiles : um    Heuristic : -7
+word : sum anchor( col :  7 row : 7 ) score : 10 new tiles : sum    Heuristic : -11.5
+word : sump anchor( col :  7 row : 7 ) score : 16 new tiles : sump    Heuristic : -3
+word : jump anchor( col :  7 row : 7 ) score : 30 new tiles : jump    Heuristic : 21.5
+word : jumps anchor( col :  7 row : 7 ) score : 32 new tiles : jumps    Heuristic : 17
+word : ums anchor( col :  7 row : 7 ) score : 10 new tiles : ums    Heuristic : -11.5
+word : ump anchor( col :  7 row : 7 ) score : 14 new tiles : ump    Heuristic : 1.5
+word : umps anchor( col :  7 row : 7 ) score : 16 new tiles : umps    Heuristic : -3
+word : mu anchor( col :  7 row : 7 ) score : 8 new tiles : mu    Heuristic : -7
+word : mus anchor( col :  7 row : 7 ) score : 10 new tiles : mus    Heuristic : -11.5
+word : musk anchor( col :  7 row : 7 ) score : 20 new tiles : musk    Heuristic : 2
+word : sum anchor( col :  7 row : 7 ) score : 10 new tiles : sum    Heuristic : -11.5
+word : sump anchor( col :  7 row : 7 ) score : 16 new tiles : sump    Heuristic : -3
+word : sup anchor( col :  7 row : 7 ) score : 10 new tiles : sup    Heuristic : -11
+word : suq anchor( col :  7 row : 7 ) score : 24 new tiles : suq    Heuristic : 13
+word : suk anchor( col :  7 row : 7 ) score : 14 new tiles : suk    Heuristic : -6
+word : pus anchor( col :  7 row : 7 ) score : 10 new tiles : pus    Heuristic : -11
+word : jump anchor( col :  7 row : 7 ) score : 30 new tiles : jump    Heuristic : 21.5
+word : jumps anchor( col :  7 row : 7 ) score : 32 new tiles : jumps    Heuristic : 17
+word : jus anchor( col :  7 row : 7 ) score : 20 new tiles : jus    Heuristic : 0.5
+word : ums anchor( col :  7 row : 7 ) score : 10 new tiles : ums    Heuristic : -11.5
+word : us anchor( col :  7 row : 7 ) score : 4 new tiles : us    Heuristic : -19.5
+word : mus anchor( col :  7 row : 7 ) score : 10 new tiles : mus    Heuristic : -11.5
+word : musk anchor( col :  7 row : 7 ) score : 20 new tiles : musk    Heuristic : 2
+word : pus anchor( col :  7 row : 7 ) score : 10 new tiles : pus    Heuristic : -11
+word : jus anchor( col :  7 row : 7 ) score : 20 new tiles : jus    Heuristic : 0.5
+word : umps anchor( col :  7 row : 7 ) score : 16 new tiles : umps    Heuristic : -3
+word : jumps anchor( col :  7 row : 7 ) score : 48 new tiles : jumps    Heuristic : 33
+word : ups anchor( col :  7 row : 7 ) score : 10 new tiles : ups    Heuristic : -11
+word : ump anchor( col :  7 row : 7 ) score : 14 new tiles : ump    Heuristic : 1.5
+word : sump anchor( col :  7 row : 7 ) score : 16 new tiles : sump    Heuristic : -3
+word : jump anchor( col :  7 row : 7 ) score : 30 new tiles : jump    Heuristic : 21.5
+word : jumps anchor( col :  7 row : 7 ) score : 32 new tiles : jumps    Heuristic : 17
+word : umps anchor( col :  7 row : 7 ) score : 16 new tiles : umps    Heuristic : -3
+word : up anchor( col :  7 row : 7 ) score : 8 new tiles : up    Heuristic : -6.5
+word : sup anchor( col :  7 row : 7 ) score : 10 new tiles : sup    Heuristic : -11
+word : ups anchor( col :  7 row : 7 ) score : 10 new tiles : ups    Heuristic : -11
+word : suq anchor( col :  7 row : 7 ) score : 24 new tiles : suq    Heuristic : 13
+word : suk anchor( col :  7 row : 7 ) score : 14 new tiles : suk    Heuristic : -6
+word : musk anchor( col :  7 row : 7 ) score : 20 new tiles : musk    Heuristic : 2
+POSSIBLE MOVEMENT : 99
+******HUMAN RESULT******
+RACK : 
+
+HUMAN MOVE : sum , new tiles : sum , score : 10 , direction : 2 , col : 7 , row : 6
+
+
+******COMPUTER TURN******
+RACK : oxpftlw
+

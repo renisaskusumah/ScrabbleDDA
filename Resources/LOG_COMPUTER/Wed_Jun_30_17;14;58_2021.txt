@@ -1,0 +1,37 @@
+******HUMAN TURN******
+
+word : gyp anchor( col :  7 row : 7 ) score : 18 new tiles : gyp    Heuristic : 4.5
+word : fy anchor( col :  7 row : 7 ) score : 16 new tiles : fy    Heuristic : -1
+word : fy anchor( col :  7 row : 7 ) score : 16 new tiles : fy    Heuristic : -1
+word : gyp anchor( col :  7 row : 7 ) score : 18 new tiles : gyp    Heuristic : 4.5
+word : gyp anchor( col :  7 row : 7 ) score : 18 new tiles : gyp    Heuristic : 4.5
+word : gyp anchor( col :  7 row : 7 ) score : 18 new tiles : gyp    Heuristic : 4.5
+word : fy anchor( col :  7 row : 7 ) score : 16 new tiles : fy    Heuristic : -1
+word : gyp anchor( col :  7 row : 7 ) score : 18 new tiles : gyp    Heuristic : 4.5
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : PFJWPYG
+
+HUMAN MOVE : gyp , new tiles : pyg , score : 18 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : bldcdyo
+
+word : dodgy anchor( col :  6 row : 7 ) score : 11 new tiles : dody    Heuristic : 4
+word : go anchor( col :  8 row : 7 ) score : 3 new tiles : o    Heuristic : -11
+word : by anchor( col :  6 row : 8 ) score : 10 new tiles : b    Heuristic : 1
+word : oy anchor( col :  6 row : 8 ) score : 6 new tiles : o    Heuristic : -8
+word : yo anchor( col :  8 row : 8 ) score : 6 new tiles : o    Heuristic : -8
+word : op anchor( col :  6 row : 9 ) score : 4 new tiles : o    Heuristic : -10
+word : po anchor( col :  8 row : 9 ) score : 4 new tiles : o    Heuristic : -10
+word : go anchor( col :  5 row : 6 ) score : 3 new tiles : g    Heuristic : -8
+word : gox anchor( col :  5 row : 6 ) score : 11 new tiles : gx    Heuristic : 1
+word : got anchor( col :  5 row : 6 ) score : 4 new tiles : gt    Heuristic : -6
+word : zo anchor( col :  5 row : 6 ) score : 11 new tiles : z    Heuristic : -4.5
+word : to anchor( col :  5 row : 6 ) score : 2 new tiles : t    Heuristic : -11.5
+word : tog anchor( col :  5 row : 6 ) score : 4 new tiles : tg    Heuristic : -6
+word : ox anchor( col :  5 row : 8 ) score : 9 new tiles : x    Heuristic : -4.5

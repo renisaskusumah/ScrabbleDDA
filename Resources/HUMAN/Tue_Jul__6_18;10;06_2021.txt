@@ -1,0 +1,4 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	ran	0	6	3	HUMAN	6
+Player 2	na	31.56	6	2	GADDAG	6	1	11	na
+Player 1	eats	0	11	4	HUMAN	17

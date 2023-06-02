@@ -1,0 +1,200 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : O*QGHVM
+
+HUMAN MOVE : go , new tiles : og , score : 6 , direction : 2 , col : 7 , row : 9
+
+
+******COMPUTER TURN******
+RACK : eazfvbd
+
+word : ae anchor( col :  7 row : 6 ) score : 7 new tiles : ae    Heuristic : -6
+word : fae anchor( col :  7 row : 6 ) score : 11 new tiles : fae    Heuristic : 1
+word : vae anchor( col :  7 row : 6 ) score : 11 new tiles : vae    Heuristic : 4.5
+word : upgo anchor( col :  7 row : 6 ) score : 7 new tiles : up    Heuristic : -14.5
+word : mugg anchor( col :  6 row : 7 ) score : 8 new tiles : mug    Heuristic : -11
+word : ug anchor( col :  6 row : 7 ) score : 3 new tiles : u    Heuristic : -21
+word : ae anchor( col :  7 row : 6 ) score : 7 new tiles : ae    Heuristic : 2.5
+word : yae anchor( col :  7 row : 6 ) score : 11 new tiles : yae    Heuristic : 9.5
+word : nae anchor( col :  7 row : 6 ) score : 8 new tiles : nae    Heuristic : 4
+word : ug anchor( col :  6 row : 7 ) score : 3 new tiles : u    Heuristic : -8.5
+word : fug anchor( col :  6 row : 7 ) score : 7 new tiles : fu    Heuristic : -1.5
+word : xu anchor( col :  6 row : 7 ) score : 20 new tiles : xu    Heuristic : 13
+word : sty anchor( col :  7 row : 6 ) score : 14 new tiles : sty    Heuristic : 1.5
+word : my anchor( col :  7 row : 6 ) score : 17 new tiles : my    Heuristic : 12
+word : swy anchor( col :  7 row : 6 ) score : 20 new tiles : swy    Heuristic : 11.5
+word : ka anchor( col :  7 row : 6 ) score : 15 new tiles : ka    Heuristic : 6.5
+word : ska anchor( col :  7 row : 6 ) score : 16 new tiles : ska    Heuristic : 12.5
+word : skaw anchor( col :  7 row : 6 ) score : 24 new tiles : skaw    Heuristic : 25.5
+word : by anchor( col :  7 row : 6 ) score : 17 new tiles : by    Heuristic : 17
+word : toby anchor( col :  7 row : 6 ) score : 19 new tiles : toby    Heuristic : 19.5
+word : ny anchor( col :  7 row : 6 ) score : 13 new tiles : ny    Heuristic : 9
+word : no anchor( col :  6 row : 8 ) score : 3 new tiles : n    Heuristic : -15
+word : nox anchor( col :  6 row : 8 ) score : 19 new tiles : nx    Heuristic : 5.5
+word : nom anchor( col :  6 row : 8 ) score : 9 new tiles : nm    Heuristic : -7
+word : vig anchor( col :  6 row : 7 ) score : 7 new tiles : vi    Heuristic : 4
+word : jig anchor( col :  6 row : 7 ) score : 11 new tiles : ji    Heuristic : 5.5
+word : gi anchor( col :  8 row : 7 ) score : 3 new tiles : i    Heuristic : -6.5
+word : la anchor( col :  7 row : 6 ) score : 7 new tiles : la    Heuristic : -10
+word : vola anchor( col :  7 row : 6 ) score : 12 new tiles : vola    Heuristic : 3
+word : lav anchor( col :  7 row : 6 ) score : 15 new tiles : lav    Heuristic : 1.5
+word : ug anchor( col :  6 row : 7 ) score : 3 new tiles : u    Heuristic : -8
+word : hug anchor( col :  6 row : 7 ) score : 7 new tiles : hu    Heuristic : -3.5
+word : mug anchor( col :  6 row : 7 ) score : 6 new tiles : mu    Heuristic : -3
+word : jo anchor( col :  6 row : 8 ) score : 17 new tiles : j    Heuristic : 2
+word : ko anchor( col :  6 row : 8 ) score : 11 new tiles : k    Heuristic : -4.5
+word : ky anchor( col :  7 row : 6 ) score : 21 new tiles : ky    Heuristic : 23.5
+word : sky anchor( col :  7 row : 6 ) score : 22 new tiles : sky    Heuristic : 29.5
+word : ygo anchor( col :  7 row : 6 ) score : 7 new tiles : y    Heuristic : 6
+word : ae anchor( col :  7 row : 6 ) score : 7 new tiles : ae    Heuristic : -6
+word : fae anchor( col :  7 row : 6 ) score : 11 new tiles : fae    Heuristic : 1
+word : vae anchor( col :  7 row : 6 ) score : 11 new tiles : vae    Heuristic : 4.5
+Hasil evaluasi : vae , score : 11 , direction :1 ,i: 6 j: 5 Heuristic: 4.5
+
+
+
+POSSIBLE MOVEMENT : 3
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : B*QJHVM
+
+HUMAN MOVE : ba , new tiles : b , score : 4 , direction : 2 , col : 6 , row : 7
+
+
+******COMPUTER TURN******
+RACK : zfbdewl
+
+word : veld anchor( col :  5 row : 7 ) score : 12 new tiles : eld    Heuristic : 1.5
+word : ged anchor( col :  8 row : 7 ) score : 5 new tiles : ed    Heuristic : -7.5
+word : gel anchor( col :  8 row : 7 ) score : 4 new tiles : el    Heuristic : -7.5
+word : uvae anchor( col :  4 row : 6 ) score : 7 new tiles : u    Heuristic : -17
+word : puh anchor( col :  4 row : 6 ) score : 15 new tiles : puh    Heuristic : -2
+word : pug anchor( col :  4 row : 6 ) score : 13 new tiles : pug    Heuristic : -5.5
+word : ea anchor( col :  6 row : 4 ) score : 7 new tiles : ea    Heuristic : -0.5
+word : yea anchor( col :  6 row : 4 ) score : 17 new tiles : yea    Heuristic : 12.5
+word : yean anchor( col :  6 row : 4 ) score : 19 new tiles : yean    Heuristic : 15
+word : riba anchor( col :  6 row : 4 ) score : 6 new tiles : ri    Heuristic : -6
+word : vid anchor( col :  5 row : 7 ) score : 7 new tiles : id    Heuristic : -3.5
+word : gi anchor( col :  8 row : 7 ) score : 3 new tiles : i    Heuristic : -8.5
+word : vaes anchor( col :  8 row : 6 ) score : 8 new tiles : s    Heuristic : -6.5
+word : vox anchor( col :  6 row : 8 ) score : 25 new tiles : vx    Heuristic : 28
+word : so anchor( col :  6 row : 8 ) score : 3 new tiles : s    Heuristic : -11.5
+word : peba anchor( col :  6 row : 4 ) score : 8 new tiles : pe    Heuristic : 3
+word : ger anchor( col :  8 row : 7 ) score : 4 new tiles : er    Heuristic : -5
+word : jo anchor( col :  6 row : 8 ) score : 17 new tiles : j    Heuristic : 18.5
+word : vee anchor( col :  5 row : 7 ) score : 6 new tiles : ee    Heuristic : -4.5
+word : vie anchor( col :  5 row : 7 ) score : 6 new tiles : ie    Heuristic : 0
+word : vive anchor( col :  5 row : 7 ) score : 12 new tiles : ive    Heuristic : 12.5
+word : sylvae anchor( col :  4 row : 6 ) score : 13 new tiles : syl    Heuristic : 2.5
+word : vaes anchor( col :  8 row : 6 ) score : 8 new tiles : s    Heuristic : -7.5
+word : tygs anchor( col :  8 row : 6 ) score : 17 new tiles : tygs    Heuristic : 8.5
+word : cog anchor( col :  6 row : 8 ) score : 11 new tiles : cg    Heuristic : 5.5
+word : cox anchor( col :  6 row : 8 ) score : 23 new tiles : cx    Heuristic : 19
+word : col anchor( col :  6 row : 8 ) score : 9 new tiles : cl    Heuristic : 2.5
+word : go anchor( col :  6 row : 4 ) score : 8 new tiles : go    Heuristic : 7.5
+word : ego anchor( col :  6 row : 4 ) score : 13 new tiles : ego    Heuristic : 6.5
+word : ygo anchor( col :  6 row : 4 ) score : 19 new tiles : ygo    Heuristic : 21.5
+word : mo anchor( col :  6 row : 8 ) score : 7 new tiles : m    Heuristic : 1.5
+word : ko anchor( col :  6 row : 8 ) score : 11 new tiles : k    Heuristic : 7
+word : om anchor( col :  8 row : 8 ) score : 7 new tiles : m    Heuristic : 1.5
+word : bo anchor( col :  6 row : 4 ) score : 9 new tiles : bo    Heuristic : 4
+word : box anchor( col :  6 row : 4 ) score : 17 new tiles : box    Heuristic : 16.5
+word : bock anchor( col :  6 row : 4 ) score : 17 new tiles : bock    Heuristic : 17
+word : vaes anchor( col :  8 row : 6 ) score : 8 new tiles : s    Heuristic : 7
+word : es anchor( col :  8 row : 6 ) score : 11 new tiles : es    Heuristic : 4
+word : tes anchor( col :  8 row : 6 ) score : 12 new tiles : tes    Heuristic : 6
+word : po anchor( col :  6 row : 4 ) score : 9 new tiles : po    Heuristic : 10
+word : pow anchor( col :  6 row : 4 ) score : 13 new tiles : pow    Heuristic : 16
+word : wo anchor( col :  6 row : 4 ) score : 10 new tiles : wo    Heuristic : 13.5
+word : no anchor( col :  6 row : 8 ) score : 3 new tiles : n    Heuristic : -11.5
+word : noy anchor( col :  6 row : 8 ) score : 11 new tiles : ny    Heuristic : -0.5
+word : yo anchor( col :  6 row : 8 ) score : 9 new tiles : y    Heuristic : -3
+word : pa anchor( col :  6 row : 4 ) score : 9 new tiles : pa    Heuristic : 12.5
+word : spa anchor( col :  6 row : 4 ) score : 15 new tiles : spa    Heuristic : 12
+word : pas anchor( col :  6 row : 4 ) score : 10 new tiles : pas    Heuristic : 7
+word : wo anchor( col :  6 row : 4 ) score : 10 new tiles : wo    Heuristic : 16.5
+word : swob anchor( col :  6 row : 4 ) score : 23 new tiles : swob    Heuristic : 27.5
+word : wos anchor( col :  6 row : 4 ) score : 11 new tiles : wos    Heuristic : 11
+word : ma anchor( col :  6 row : 4 ) score : 9 new tiles : ma    Heuristic : 4.5
+word : duma anchor( col :  6 row : 4 ) score : 19 new tiles : duma    Heuristic : 16.5
+word : mak anchor( col :  6 row : 4 ) score : 14 new tiles : mak    Heuristic : 12
+word : vaes anchor( col :  8 row : 6 ) score : 8 new tiles : s    Heuristic : 5
+word : ko anchor( col :  6 row : 8 ) score : 11 new tiles : k    Heuristic : 18
+word : kos anchor( col :  6 row : 8 ) score : 13 new tiles : ks    Heuristic : 13.5
+word : vox anchor( col :  6 row : 8 ) score : 25 new tiles : vx    Heuristic : 24.5
+word : vor anchor( col :  6 row : 8 ) score : 11 new tiles : vr    Heuristic : 5.5
+word : vol anchor( col :  6 row : 8 ) score : 11 new tiles : vl    Heuristic : 8
+word : uvae anchor( col :  4 row : 6 ) score : 7 new tiles : u    Heuristic : -10
+word : hui anchor( col :  4 row : 6 ) score : 13 new tiles : hui    Heuristic : -5
+word : hug anchor( col :  4 row : 6 ) score : 14 new tiles : hug    Heuristic : 0.5
+word : ea anchor( col :  6 row : 4 ) score : 7 new tiles : ea    Heuristic : -5
+word : lea anchor( col :  6 row : 4 ) score : 11 new tiles : lea    Heuristic : 1
+word : leak anchor( col :  6 row : 4 ) score : 21 new tiles : leak    Heuristic : 14.5
+word : cob anchor( col :  6 row : 8 ) score : 13 new tiles : cb    Heuristic : 8
+word : coy anchor( col :  6 row : 8 ) score : 15 new tiles : cy    Heuristic : 8.5
+word : bo anchor( col :  6 row : 8 ) score : 7 new tiles : b    Heuristic : 0.5
+word : coz anchor( col :  6 row : 8 ) score : 27 new tiles : cz    Heuristic : 17
+word : zo anchor( col :  6 row : 8 ) score : 21 new tiles : z    Heuristic : 9.5
+word : so anchor( col :  6 row : 4 ) score : 7 new tiles : so    Heuristic : -1
+word : also anchor( col :  6 row : 4 ) score : 13 new tiles : also    Heuristic : 4
+word : sox anchor( col :  6 row : 4 ) score : 15 new tiles : sox    Heuristic : 11.5
+word : no anchor( col :  6 row : 8 ) score : 3 new tiles : n    Heuristic : -9.5
+word : zo anchor( col :  6 row : 8 ) score : 21 new tiles : z    Heuristic : 7
+word : zonk anchor( col :  6 row : 8 ) score : 28 new tiles : znk    Heuristic : 18
+word : bo anchor( col :  6 row : 8 ) score : 7 new tiles : b    Heuristic : 3
+word : bot anchor( col :  6 row : 8 ) score : 9 new tiles : bt    Heuristic : 6
+word : jo anchor( col :  6 row : 8 ) score : 17 new tiles : j    Heuristic : 12.5
+word : juba anchor( col :  6 row : 4 ) score : 13 new tiles : ju    Heuristic : 8.5
+word : uvae anchor( col :  4 row : 6 ) score : 7 new tiles : u    Heuristic : 1.5
+word : gju anchor( col :  8 row : 7 ) score : 11 new tiles : ju    Heuristic : 6.5
+word : suba anchor( col :  6 row : 4 ) score : 6 new tiles : su    Heuristic : 1
+word : uvae anchor( col :  4 row : 6 ) score : 7 new tiles : u    Heuristic : 8.5
+word : pup anchor( col :  4 row : 6 ) score : 14 new tiles : pup    Heuristic : 21.5
+word : cab anchor( col :  6 row : 4 ) score : 12 new tiles : cab    Heuristic : 10.5
+word : caba anchor( col :  6 row : 4 ) score : 13 new tiles : caba    Heuristic : 9.5
+word : caa anchor( col :  6 row : 4 ) score : 10 new tiles : caa    Heuristic : 2
+word : ja anchor( col :  6 row : 4 ) score : 14 new tiles : ja    Heuristic : 14.5
+word : ea anchor( col :  6 row : 4 ) score : 7 new tiles : ea    Heuristic : 3.5
+word : ae anchor( col :  6 row : 4 ) score : 7 new tiles : ae    Heuristic : 3.5
+word : mo anchor( col :  6 row : 8 ) score : 7 new tiles : m    Heuristic : -7.5
+word : om anchor( col :  8 row : 8 ) score : 7 new tiles : m    Heuristic : -7.5
+word : of anchor( col :  8 row : 8 ) score : 9 new tiles : f    Heuristic : -4.5
+word : cop anchor( col :  6 row : 8 ) score : 13 new tiles : cp    Heuristic : 10.5
+word : cor anchor( col :  6 row : 8 ) score : 9 new tiles : cr    Heuristic : 3.5
+word : po anchor( col :  6 row : 8 ) score : 7 new tiles : p    Heuristic : 3
+word : uvae anchor( col :  4 row : 6 ) score : 7 new tiles : u    Heuristic : -16.5
+word : fun anchor( col :  4 row : 6 ) score : 13 new tiles : fun    Heuristic : -7
+word : nu anchor( col :  4 row : 6 ) score : 9 new tiles : nu    Heuristic : -14
+word : lo anchor( col :  6 row : 8 ) score : 3 new tiles : l    Heuristic : -5.5
+word : lor anchor( col :  6 row : 8 ) score : 5 new tiles : lr    Heuristic : -4
+word : lop anchor( col :  6 row : 8 ) score : 9 new tiles : lp    Heuristic : 3
+word : jo anchor( col :  6 row : 8 ) score : 17 new tiles : j    Heuristic : 15
+word : job anchor( col :  6 row : 8 ) score : 23 new tiles : jb    Heuristic : 25.5
+word : jor anchor( col :  6 row : 8 ) score : 19 new tiles : jr    Heuristic : 16.5
+word : uvae anchor( col :  4 row : 6 ) score : 7 new tiles : u    Heuristic : 1
+word : puh anchor( col :  4 row : 6 ) score : 15 new tiles : puh    Heuristic : 11
+word : pug anchor( col :  4 row : 6 ) score : 13 new tiles : pug    Heuristic : 11.5
+word : vaes anchor( col :  8 row : 6 ) score : 8 new tiles : s    Heuristic : -0.5
+word : zo anchor( col :  6 row : 8 ) score : 21 new tiles : z    Heuristic : 18
+word : zol anchor( col :  6 row : 8 ) score : 23 new tiles : zl    Heuristic : 22
+word : gen anchor( col :  8 row : 7 ) score : 4 new tiles : en    Heuristic : -12.5
+word : eon anchor( col :  6 row : 8 ) score : 5 new tiles : en    Heuristic : -11.5
+word : no anchor( col :  6 row : 8 ) score : 3 new tiles : n    Heuristic : -7.5
+word : tuba anchor( col :  6 row : 4 ) score : 6 new tiles : tu    Heuristic : -3
+word : juba anchor( col :  6 row : 4 ) score : 13 new tiles : ju    Heuristic : 7
+word : uvae anchor( col :  4 row : 6 ) score : 7 new tiles : u    Heuristic : -3
+word : isba anchor( col :  6 row : 4 ) score : 6 new tiles : is    Heuristic : 10
+word : silvae anchor( col :  4 row : 6 ) score : 10 new tiles : sil    Heuristic : 16
+word : vaes anchor( col :  8 row : 6 ) score : 8 new tiles : s    Heuristic : 13.5
+word : veld anchor( col :  5 row : 7 ) score : 12 new tiles : eld    Heuristic : 1.5
+word : ged anchor( col :  8 row : 7 ) score : 5 new tiles : ed    Heuristic : -7.5
+word : gel anchor( col :  8 row : 7 ) score : 4 new tiles : el    Heuristic : -7.5
+Hasil evaluasi : veld , score : 12 , direction :2 ,i: 6 j: 5 Heuristic: 1.5
+
+
+
+POSSIBLE MOVEMENT : 3
+******HUMAN TURN******
+

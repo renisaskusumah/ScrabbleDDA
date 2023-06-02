@@ -1,0 +1,10 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	umma	0	16	4	HUMAN	16
+Player 2	gee	1.344	17	3	GADDAG	17	1	14	gee
+Player 1	rem	0	7	1	HUMAN	23
+Player 2	-	1.441	0	0	GADDAG	17	0	20	
+Player 1	ag	0	3	1	HUMAN	26
+Player 2	-	2.241	0	0	GADDAG	17	0	22	
+Player 1	gub	0	6	1	HUMAN	32
+Player 2	-	0.232	0	0	GADDAG	17	0	24	
+Player 1	geed	0	11	1	HUMAN	43

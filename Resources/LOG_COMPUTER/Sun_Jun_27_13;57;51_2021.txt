@@ -1,0 +1,36 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : O*QGHVM
+
+HUMAN MOVE : go , new tiles : og , score : 6 , direction : 2 , col : 7 , row : 8
+
+
+******COMPUTER TURN******
+RACK : eazfvbd
+
+word : ae anchor( col :  7 row : 5 ) score : 6 new tiles : ae    Heuristic : -7
+word : fae anchor( col :  7 row : 5 ) score : 18 new tiles : fae    Heuristic : 8
+word : vae anchor( col :  7 row : 5 ) score : 18 new tiles : vae    Heuristic : 11.5
+word : dae anchor( col :  7 row : 5 ) score : 12 new tiles : dae    Heuristic : 0
+word : fe anchor( col :  7 row : 5 ) score : 9 new tiles : fe    Heuristic : 2
+word : be anchor( col :  7 row : 5 ) score : 8 new tiles : be    Heuristic : 2.5
+word : de anchor( col :  7 row : 5 ) score : 7 new tiles : de    Heuristic : -2
+word : ea anchor( col :  7 row : 5 ) score : 6 new tiles : ea    Heuristic : -7
+word : ef anchor( col :  7 row : 5 ) score : 9 new tiles : ef    Heuristic : 2
+word : ed anchor( col :  7 row : 5 ) score : 7 new tiles : ed    Heuristic : -2
+word : ego anchor( col :  7 row : 5 ) score : 4 new tiles : e    Heuristic : -6
+word : ago anchor( col :  7 row : 5 ) score : 4 new tiles : a    Heuristic : -3
+word : ag anchor( col :  6 row : 6 ) score : 4 new tiles : a    Heuristic : -3
+word : zo anchor( col :  6 row : 7 ) score : 11 new tiles : z    Heuristic : 6
+word : bo anchor( col :  6 row : 7 ) score : 4 new tiles : b    Heuristic : 4.5
+word : do anchor( col :  6 row : 7 ) score : 3 new tiles : d    Heuristic : 0
+word : oe anchor( col :  8 row : 7 ) score : 2 new tiles : e    Heuristic : -8
+word : of anchor( col :  8 row : 7 ) score : 5 new tiles : f    Heuristic : 4
+word : ob anchor( col :  8 row : 7 ) score : 4 new tiles : b    Heuristic : 4.5
+word : od anchor( col :  8 row : 7 ) score : 3 new tiles : d    Heuristic : 0
+word : goe anchor( col :  7 row : 8 ) score : 4 new tiles : e    Heuristic : -6
+word : goa anchor( col :  7 row : 8 ) score : 4 new tiles : a    Heuristic : -3
+word : gov anchor( col :  7 row : 8 ) score : 7 new tiles : v    Heuristic : 9.5
+word : gob anchor( col :  7 row : 8 ) score : 6 new tiles : b    Heuristic : 6.5
+word : god anchor( col :  7 row : 8 ) score : 5 new tiles : d    Heuristic : 2

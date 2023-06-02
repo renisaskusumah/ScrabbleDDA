@@ -1,0 +1,57 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	tyg	0	14	3	HUMAN	14
+Player 2	okta	5.008	14	3	GADDAG	14	1	11	oka
+Player 1	show	0	6	3	HUMAN	20
+Player 2	ifs	2.723	12	2	GADDAG	26	1	25	if
+Player 1	gap	0	7	2	HUMAN	27
+Player 2	difs	6.521	8	1	GADDAG	34	1	35	d
+Player 1	ab	0	4	1	HUMAN	31
+Player 2	sip	14.739	9	3	GADDAG	43	1	39	sip
+Player 1	vid	0	14	1	HUMAN	45
+Player 2	pics	5.063	5	2	GADDAG	48	1	45	cs
+Player 1	la	0	2	1	HUMAN	47
+Player 2	showy	1.195	10	1	GADDAG	58	1	50	y
+Player 1	my	0	7	1	HUMAN	54
+Player 2	-	1.182	0	0	GADDAG	58	0	54	
+Player 1	cold	0	21	4	HUMAN	75
+Player 2	ch	0.253	11	1	GADDAG	69	1	64	h
+Player 1	love	0	9	3	HUMAN	84
+Player 2	zel	2.982	12	2	GADDAG	81	1	73	zl
+Player 1	web	0	15	3	HUMAN	99
+Player 2	am	20.557	9	1	GADDAG	90	1	84	a
+Player 1	ois	0	4	2	HUMAN	103
+Player 2	goth	12.266	12	3	GADDAG	102	1	89	gth
+Player 1	suq	0	35	3	HUMAN	138
+Player 2	pomo	98.002	35	4	GADDAG	137	1	100	pomo
+Player 1	er	0	9	2	HUMAN	147
+Player 2	ef	27.623	8	1	GADDAG	145	1	108	e
+Player 1	oiled	0	15	4	HUMAN	162
+Player 2	ref	8.097	6	1	GADDAG	151	1	118	r
+Player 1	net	0	6	2	HUMAN	168
+Player 2	op	3.902	12	1	GADDAG	163	1	122	o
+Player 1	ar	0	5	2	HUMAN	173
+Player 2	na	12.826	12	2	GADDAG	175	1	127	na
+Player 1	dago	0	15	4	HUMAN	188
+Player 2	tref	12.66	7	1	GADDAG	182	1	140	t
+Player 1	turf	0	16	4	HUMAN	204
+Player 2	jud	27.607	29	2	GADDAG	211	1	152	ju
+Player 1	nett	0	4	1	HUMAN	208
+Player 2	tie	48.62	5	2	GADDAG	216	1	158	ie
+Player 1	ex	0	13	2	HUMAN	221
+Player 2	ire	62.865	6	2	GADDAG	222	1	166	ie
+Player 1	air	0	3	2	HUMAN	224
+Player 2	amu	33.531	5	1	GADDAG	227	1	172	u
+Player 1	nine	0	13	4	HUMAN	237
+Player 2	awe	10.246	6	1	GADDAG	233	1	180	a
+Player 1	fe	0	7	1	HUMAN	244
+Player 2	abba	2.226	8	1	GADDAG	241	1	180	a
+Player 1	ae	0	2	1	HUMAN	246
+Player 2	airn	0.627	8	1	GADDAG	249	1	182	n
+Player 1	belove	0	20	1	HUMAN	266
+winner : Player 1
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 266
+player 2 duration : 
+player 2 left tile : 4
+player 2 total score : 249

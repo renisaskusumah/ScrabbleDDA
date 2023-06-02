@@ -1,0 +1,10 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	dal	0	8	3	HUMAN	8
+Player 2	at	13.879	9	2	GADDAG	9	1	11	at
+Player 1	ute	0	5	3	HUMAN	13
+Player 2	fad	22.051	7	1	GADDAG	16	1	21	f
+Player 1	gid	0	13	3	HUMAN	26
+Player 2	tae	38.592	3	0	GADDAG	19	1	26	
+Player 1	heat	0	7	1	HUMAN	33
+Player 2	bewet	38.823	13	5	GADDAG	32	1	28	*ewet
+Player 1	zerk	0	27	3	HUMAN	60

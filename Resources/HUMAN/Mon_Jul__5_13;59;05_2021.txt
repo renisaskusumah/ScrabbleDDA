@@ -1,0 +1,34 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	tuchun	0	24	6	HUMAN	24
+Player 2	plex	17.282	26	4	GADDAG	26	1	20	plex
+Player 1	tet	0	3	1	HUMAN	27
+Player 2	obs	4.741	14	3	GADDAG	40	1	29	obs
+Player 1	io	0	7	2	HUMAN	34
+Player 2	noop	1.727	6	1	GADDAG	46	1	38	n
+Player 1	pug	0	6	2	HUMAN	40
+Player 2	bobs	6.232	12	1	GADDAG	58	1	42	b
+Player 1		0	0	0	HUMAN	40
+Player 2	ch	4.948	11	1	GADDAG	69	1	43	h
+Player 1		0	0	0	HUMAN	40
+Player 2	on	12.798	14	1	GADDAG	83	1	44	o
+Player 1	won	0	6	1	HUMAN	46
+Player 2	trio	14.396	6	2	GADDAG	89	1	48	tr
+Player 1	da	0	16	2	HUMAN	62
+Player 2	vaw	3.38	9	1	GADDAG	98	1	57	v
+Player 1		0	0	0	HUMAN	62
+Player 2	gym	11.974	17	2	GADDAG	115	1	59	ym
+Player 1	my	0	7	1	HUMAN	69
+Player 2	myc	2.696	10	1	GADDAG	125	1	65	c
+Player 1		0	0	0	HUMAN	69
+Player 2	-	3.099	0	0	GADDAG	125	0	68	
+Player 1		0	0	0	HUMAN	69
+Player 2	-	7.786	0	0	GADDAG	125	0	68	
+Player 1		0	0	0	HUMAN	69
+winner : Player 2
+left tile (letter bag): 54
+player 1 left tile : 7
+player 1 total skor : 69
+player 2 duration : 
+player 2 left tile : 7
+player 2 total score : 125
+Player 2	-	8.784	0	0	GADDAG	125	0	68	

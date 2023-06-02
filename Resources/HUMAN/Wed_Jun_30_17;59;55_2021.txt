@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	heap	20.508	16		4	HUMAN 	16
+Player 2	ar	1.712	13		2	GADDAG	13	1	14	ar
+Player 1	wex	9	25		2	HUMAN 	41
+Player 2	oh	5.083	15		2	GADDAG	28	1	21	oh
+Player 1	zip	14.967	14		2	HUMAN 	55
+Player 2	jor	13.546	10		1	GADDAG	38	1	30	j

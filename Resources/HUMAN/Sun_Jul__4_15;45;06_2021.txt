@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	drys	0	14		4	HUMAN 	14
+Player 2	mood	1.138	14		3	GADDAG	14	1	14	moo

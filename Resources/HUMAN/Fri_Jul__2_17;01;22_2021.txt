@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	oakums	22.291	30		6	HUMAN 	30
+Player 2	-	0.243	0		0	GADDAG	0	0	20	
+Player 1	bop	6.024	7		2	HUMAN 	37
+Player 2	faves	80.969	27		5	GADDAG	27	1	24	faves
+Player 1	zap	97.09	28		2	HUMAN 	65
+Player 2	wofs	32.29	35		4	GADDAG	62	1	40	wofs

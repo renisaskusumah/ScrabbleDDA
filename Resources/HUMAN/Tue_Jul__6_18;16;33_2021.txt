@@ -1,0 +1,32 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	sus	0	6	3	HUMAN	6
+Player 2	susu	10.911	4	1	GADDAG	4	1	11	u
+Player 1	tyes	0	3	3	HUMAN	9
+Player 2	wis	16.257	2	2	GADDAG	6	1	21	*i
+Player 1	xi	0	17	1	HUMAN	26
+Player 2	koa	91.704	18	3	GADDAG	24	1	26	koa
+Player 1	tar	0	3	1	HUMAN	29
+Player 2	star	14.277	4	1	GADDAG	28	1	35	s
+Player 1	nags	0	6	3	HUMAN	35
+Player 2	starn	10.878	5	1	GADDAG	33	1	43	n
+Player 1	gig	0	6	2	HUMAN	41
+Player 2	ox	12.186	10	1	GADDAG	43	1	50	o
+Player 1	fub	0	13	2	HUMAN	54
+Player 2	ou	13.017	8	1	GADDAG	51	1	54	u
+Player 1	jow	0	25	1	HUMAN	79
+Player 2	pow	106.195	10	0	GADDAG	61	1	56	
+Player 1	bozo	0	25	3	HUMAN	104
+Player 2	flox	7.289	14	1	GADDAG	75	1	64	l
+Player 1	ne	0	2	1	HUMAN	106
+Player 2	fub	16.567	13	0	GADDAG	88	1	66	
+Player 1	oval	0	15	3	HUMAN	121
+Player 2	biff	10.658	24	3	GADDAG	112	1	74	bif
+Player 1	beg	0	6	2	HUMAN	127
+Player 2	if	2.457	24	0	GADDAG	136	1	86	
+Player 1	moil	0	16	3	HUMAN	143
+Player 2	dif	49.989	7	1	GADDAG	143	1	90	d
+Player 1	or	0	2	1	HUMAN	145
+Player 2	urp	17.415	9	1	GADDAG	152	1	92	p
+Player 1	wyn	0	9	2	HUMAN	154
+Player 2	ark	46.15	7	1	GADDAG	159	1	95	r
+Player 1	ich	0	17	3	HUMAN	171

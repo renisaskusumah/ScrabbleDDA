@@ -1,0 +1,40 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	jugs	13.595	24		4	HUMAN 	24
+Player 2	wilds	1.926	18		4	GADDAG	18	1	14	wild
+Player 1	zho	29.113	40		3	HUMAN 	64
+Player 2	bowget	36.57	24		4	GADDAG	42	1	32	bget
+Player 1	azukis	21.081	38		5	HUMAN 	102
+Player 2	rimple	54.664	24		6	GADDAG	66	1	52	rimple
+Player 1	grown	16.134	20		4	HUMAN 	122
+Player 2	boom	51.242	28		3	GADDAG	94	1	78	bom
+Player 1	stain	65.386	29		5	HUMAN 	151
+Player 2	guqin	203.016	34		4	GADDAG	128	1	89	uq*n
+Player 1	vinic	23.067	28		4	HUMAN 	179
+Player 2	fish	76.075	28		3	GADDAG	156	1	109	fsh
+Player 1	adopt	26.952	21		5	HUMAN 	200
+Player 2	chirr	78.712	32		4	GADDAG	188	1	122	cirr
+Player 1	yulan	77.924	21		5	HUMAN 	221
+Player 2	dux	24.441	38		2	GADDAG	226	1	145	dx
+Player 1	are	24.442	3		2	HUMAN 	224
+Player 2	rade	52.709	20		4	GADDAG	246	1	148	rade
+Player 1	yarn	25.218	22		3	HUMAN 	246
+Player 2	anti	63.726	10		3	GADDAG	256	1	158	ani
+Player 1	vilayet	32.769	30		6	HUMAN 	276
+Player 2	nare	9.778	6		1	GADDAG	262	1	176	n
+Player 1	fra	26.855	28		2	HUMAN 	304
+Player 2	tate	101.197	16		3	GADDAG	278	1	176	tte
+Player 1	eon	274.793	12		2	HUMAN 	316
+Player 2	bo	46.628	11		1	GADDAG	289	1	178	o
+Player 1	or	32.778	8		2	HUMAN 	324
+Player 2	oe	13.013	10		2	GADDAG	299	1	179	oe
+Player 1	keg	12.405	8		1	HUMAN 	332
+Player 2	nye	6.468	6		1	GADDAG	305	1	181	e
+winner : Player 1
+left tile (letter bag): 0
+player 1 left tile : 2
+player 1 total skor : 332
+player 2 duration : 
+player 2 left tile : 0
+player 2 total score : 305

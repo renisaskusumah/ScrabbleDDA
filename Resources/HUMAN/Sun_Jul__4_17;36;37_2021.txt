@@ -1,0 +1,55 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	sh	0	10	2	HUMAN	10
+Player 2	wo	0.709	9	2	GADDAG	9	1	8	wo
+Player 1	wos	0	6	1	HUMAN	16
+Player 2	shh	0.936	9	1	GADDAG	18	1	14	h
+Player 1	syph	0	15	3	HUMAN	31
+Player 2	aw	2.331	14	1	GADDAG	32	1	24	a
+Player 1	kaw	0	10	1	HUMAN	41
+Player 2	gaw	2.543	7	1	GADDAG	39	1	28	g
+Player 1	hen	0	6	2	HUMAN	47
+Player 2	be	0.99	9	2	GADDAG	48	1	33	be
+Player 1	gawsy	0	17	1	HUMAN	64
+Player 2	skaw	1.024	11	1	GADDAG	59	1	36	s
+Player 1		0	0	0	HUMAN	64
+Player 2	hend	1.405	8	1	GADDAG	67	1	38	d
+Player 1		0	0	0	HUMAN	64
+Player 2	recs	1.031	12	3	GADDAG	79	1	41	rec
+Player 1	em	0	4	1	HUMAN	68
+Player 2	fem	3.108	8	1	GADDAG	87	1	49	f
+Player 1	plan	0	6	3	HUMAN	74
+Player 2	ja	1.118	9	1	GADDAG	96	1	57	j
+Player 1	apt	0	9	3	HUMAN	83
+Player 2	ef	2.439	14	1	GADDAG	110	1	65	e
+Player 1	ox	0	10	2	HUMAN	93
+Player 2	fer	3.674	6	1	GADDAG	116	1	71	f
+Player 1	cell	0	22	4	HUMAN	115
+Player 2	nef	3.676	6	1	GADDAG	122	1	82	n
+Player 1	goa	0	11	3	HUMAN	126
+Player 2	ja	1.533	12	1	GADDAG	134	1	87	a
+Player 1	lig	0	14	3	HUMAN	140
+Player 2	tin	1.797	7	2	GADDAG	141	1	96	tn
+Player 1	nut	0	5	2	HUMAN	145
+Player 2	of	3.21	14	1	GADDAG	155	1	101	o
+Player 1	pion	0	7	3	HUMAN	152
+Player 2	abbes	2.133	9	2	GADDAG	164	1	110	ab
+Player 1	rad	0	4	2	HUMAN	156
+Player 2	drad	2.568	10	1	GADDAG	174	1	120	d
+Player 1	razee	0	38	5	HUMAN	194
+Player 2	ydrad	4.176	10	1	GADDAG	184	1	133	y
+Player 1	loo	0	14	2	HUMAN	208
+Player 2	ilex	72.898	22	2	GADDAG	206	1	137	il
+Player 1	ave	0	14	3	HUMAN	222
+Player 2	rave	6.216	7	1	GADDAG	213	1	146	r
+Player 1	ee	0	6	2	HUMAN	228
+Player 2	bit	7.639	10	2	GADDAG	223	1	149	it
+Player 1	tite	0	4	3	HUMAN	232
+Player 2	bite	12.666	6	1	GADDAG	229	1	157	e
+Player 1	it	0	2	1	HUMAN	234
+winner : Player 1
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 234
+player 2 duration : 
+player 2 left tile : 6
+player 2 total score : 229

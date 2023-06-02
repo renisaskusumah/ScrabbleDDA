@@ -1,0 +1,423 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	runds	0	14		5	HUMAN 	14
+Player 2	xu	0.441	17		1	GADDAG	17	1	17	x
+Player 1	pax	0	15		2	HUMAN 	29
+Player 2	-	0.337	0		0	GADDAG	17	0	22	
+Player 1	kas	0	6		2	HUMAN 	35
+Player 2	hyp	1.213	11		2	GADDAG	28	1	27	hy
+Player 1	ahi	0	6		2	HUMAN 	41
+Player 2	awl	3.248	14		3	GADDAG	42	1	36	awl
+Player 1	fez	0	11		3	HUMAN 	52
+Player 2	rep	2.159	14		2	GADDAG	56	1	50	rp
+Player 1	arc	0	6		2	HUMAN 	58
+Player 2	hi	1.716	9		1	GADDAG	65	1	56	h
+Player 1	faw	9.382	23		3	HUMAN 	81
+Player 2	chi	2.669	8		1	GADDAG	73	1	65	c
+Player 1	navy	9.382	8		3	HUMAN 	89
+Player 2	scrum	3.735	11		4	GADDAG	84	1	73	srum
+Player 1	mom	9.382	7		3	HUMAN 	96
+Player 2	or	2.792	14		1	GADDAG	98	1	88	o
+Player 1	japs	9.382	24		4	HUMAN 	120
+Player 2	gu	43.485	18		2	GADDAG	116	1	96	gu
+Player 1	duh	9.382	3		2	HUMAN 	123
+Player 2	bo	3.626	12		2	GADDAG	128	1	103	bo
+Player 1	gyron	9.382	13		5	HUMAN 	136
+Player 2	guts	6.958	6		2	GADDAG	134	1	118	ts
+Player 1	sods	9.382	10		4	HUMAN 	146
+Player 2	slew	10.287	14		2	GADDAG	148	1	131	le
+Player 1	ho	9.382	2		2	HUMAN 	148
+Player 2	guv	7.862	7		1	GADDAG	155	1	136	v
+Player 1	doy	9.382	3		3	HUMAN 	151
+Player 2	abo	4.33	5		1	GADDAG	160	1	143	a
+Player 1	hob	9.382	5		2	HUMAN 	156
+Player 2	gor	6.571	4		1	GADDAG	164	1	149	r
+Player 1	yo	9.382	5		2	HUMAN 	161
+Player 2	nye	4.42	7		1	GADDAG	171	1	153	e
+Player 1	tog	9.382	11		3	HUMAN 	172
+Player 2	emos	2.665	6		1	GADDAG	177	1	160	e
+Player 1	eta	9.382	8		3	HUMAN 	180
+Player 2	hoe	4.099	11		1	GADDAG	188	1	165	e
+Player 1	yon	9.382	7		3	HUMAN 	187
+Player 2	etat	7.184	4		1	GADDAG	192	1	171	t
+Player 1	budo	9.382	13		4	HUMAN 	200
+Player 2	toge	5.499	5		1	GADDAG	197	1	182	e
+Player 1	lo	9.382	5		2	HUMAN 	205
+Player 2	toged	4.759	7		1	GADDAG	204	1	187	d
+Player 1	te	9.382	2		1	HUMAN 	207
+Player 2	yid	6.847	9		1	GADDAG	213	1	190	i
+Player 1	ea	9.382	4		2	HUMAN 	211
+Player 2	ene	6.8	3		1	GADDAG	216	1	193	n
+Player 1	tog	9.382	1		2	HUMAN 	212
+Player 2	nene	6.396	6		1	GADDAG	222	1	198	n
+Player 1	vier	9.382	36		4	HUMAN 	248
+Player 2	te	35.917	22		1	GADDAG	244	1	202	t
+Player 1	ana	9.382	10		2	HUMAN 	258
+Player 2	tel	12.852	9		1	GADDAG	253	1	204	l
+Player 1	nae	9.382	8		3	HUMAN 	266
+Player 2	lek	11.657	14		2	GADDAG	267	1	207	le
+Player 1	he	9.382	5		1	HUMAN 	271
+Player 2	ide	3.645	12		1	GADDAG	279	1	210	i
+Player 1	mu	9.382	1		1	HUMAN 	272
+Player 2	zag	1.352	13		1	GADDAG	292	1	210	z
+Player 1	oy	9.382	1		1	HUMAN 	273
+Player 2	-	6.1	0		0	GADDAG	292	0	210	
+Player 1	mus	9.382	6		1	HUMAN 	279
+Player 2	-	5.842	0		0	GADDAG	292	0	210	
+Player 1	att	9.382	4		2	HUMAN 	283
+Player 2	-	5.272	0		0	GADDAG	292	0	210	
+Player 1	tipi	9.382	3		1	HUMAN 	286
+Player 2	-	5.774	0		0	GADDAG	292	0	210	
+Player 1	ou	9.382	2		1	HUMAN 	288
+Player 2	-	6.717	0		0	GADDAG	292	0	210	
+Player 1	la	9.382	1		1	HUMAN 	289
+Player 2	-	5.842	0		0	GADDAG	292	0	210	
+Player 1	levier	9.382	14		2	HUMAN 	303
+Player 2	-	6.042	0		0	GADDAG	292	0	210	
+Player 1	hew	9.382	5		1	HUMAN 	308
+Player 2	-	5.526	0		0	GADDAG	292	0	211	
+Player 1	gutsy	9.382	12		1	HUMAN 	320
+Player 2	-	6.934	0		0	GADDAG	292	0	213	
+Player 1	est	9.382	2		1	HUMAN 	322
+Player 2	-	6.424	0		0	GADDAG	292	0	213	
+Player 1	ahis	9.382	6		1	HUMAN 	328
+Player 2	-	7.018	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.831	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.687	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.125	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.412	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.24	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.355	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.238	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	8.17	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.185	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.506	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.723	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.697	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.153	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.319	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.43	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.845	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.03	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.796	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.328	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.556	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.631	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.206	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.417	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.056	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.163	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.538	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.023	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.176	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.36	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.026	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.407	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.501	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.999	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.355	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.03	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.94	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.286	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.791	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.182	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.893	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	4.403	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.207	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.961	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.617	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.196	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.148	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.002	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.563	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.624	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	8.15	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.363	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.454	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.138	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.705	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.148	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.536	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.859	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	8.26	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.346	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.32	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.77	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.847	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.134	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.684	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.472	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.641	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.24	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.865	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	8.578	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.848	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.958	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.633	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.339	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.181	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.511	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.897	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.214	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.88	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.214	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.539	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.042	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.736	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.92	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.745	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.605	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.381	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.032	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.492	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.795	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.875	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.807	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.559	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.132	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.562	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.979	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.587	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.963	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.656	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.866	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.705	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.683	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.442	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.251	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.001	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.068	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.145	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.693	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.055	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.919	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.986	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.462	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.997	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.181	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.832	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.766	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.58	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.504	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.745	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	8.035	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.908	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.486	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.832	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.639	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.911	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.843	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.031	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.647	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.135	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.126	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.635	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.569	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.146	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.606	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.076	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.543	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.623	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.791	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.948	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.692	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	8.081	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.209	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.481	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.309	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.955	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.477	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.577	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.219	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.788	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.926	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.247	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.974	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.494	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.365	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.044	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.637	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.603	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.338	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.288	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.752	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.453	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.521	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.851	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.925	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.785	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.095	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.658	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	6.927	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	5.698	0		0	GADDAG	292	0	213	
+Player 1		9.382	0		0	HUMAN 	328
+Player 2	-	7.588	0		0	GADDAG	292	0	213	

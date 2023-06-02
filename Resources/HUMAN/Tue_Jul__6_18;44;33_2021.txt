@@ -1,0 +1,6 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	grip	0	14	4	HUMAN	14
+Player 2	yag	15.711	15	2	GADDAG	15	1	14	ya
+Player 1	ta	0	2	1	HUMAN	16
+Player 2	ya	18.582	16	0	GADDAG	31	1	20	ya
+Player 1	vie	0	6	2	HUMAN	22

@@ -1,0 +1,19 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	zo	0	2		2	HUMAN 	2
+Player 2	orzo	2.331	3		3	GADDAG	3	1	8	or*
+Player 1	folks	0	19		4	HUMAN 	21
+Player 2	folksy	2.75	15		1	GADDAG	18	1	25	y
+Player 1	sny	0	7		3	HUMAN 	28
+Player 2	chal	2.654	13		3	GADDAG	31	1	35	cha
+Player 1	oms	0	9		3	HUMAN 	37
+Player 2	yon	4.196	6		1	GADDAG	37	1	49	n
+Player 1	jibb	0	22		4	HUMAN 	59
+Player 2	fyrd	62.463	13		3	GADDAG	50	1	60	frd
+Player 1	rem	0	2		2	HUMAN 	61
+Player 2	qi	10.529	11		1	GADDAG	61	1	69	q
+Player 1	marsh	0	16		4	HUMAN 	77
+Player 2	cwm	7.625	14		1	GADDAG	75	1	75	w
+Player 1	rum	0	1		2	HUMAN 	78
+Player 2	whoa	9.566	14		2	GADDAG	89	1	79	wo

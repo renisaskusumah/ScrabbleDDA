@@ -1,0 +1,23 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : LTEVKNN
+
+HUMAN MOVE : vet , new tiles : tev , score : 12 , direction : 2 , col : 7 , row : 10
+
+
+******COMPUTER TURN******
+RACK : fbfrlsz
+
+word : fe anchor( col :  6 row : 8 ) score : 9 new tiles : f    Heuristic : 8.5
+word : fer anchor( col :  6 row : 8 ) score : 11 new tiles : fr    Heuristic : 10
+word : fes anchor( col :  6 row : 8 ) score : 11 new tiles : fs    Heuristic : 4
+word : fez anchor( col :  6 row : 8 ) score : 29 new tiles : fz    Heuristic : 27.5
+word : be anchor( col :  6 row : 8 ) score : 7 new tiles : b    Heuristic : 8
+word : re anchor( col :  6 row : 8 ) score : 3 new tiles : r    Heuristic : -1
+word : ef anchor( col :  8 row : 8 ) score : 9 new tiles : f    Heuristic : 8.5
+word : er anchor( col :  8 row : 8 ) score : 3 new tiles : r    Heuristic : -1
+word : el anchor( col :  8 row : 8 ) score : 3 new tiles : l    Heuristic : 1.5
+word : es anchor( col :  8 row : 8 ) score : 3 new tiles : s    Heuristic : -7
+word : st anchor( col :  6 row : 9 ) score : 2 new tiles : s    Heuristic : -8
+word : vets anchor( col :  7 row : 10 ) score : 7 new tiles : s    Heuristic : -3

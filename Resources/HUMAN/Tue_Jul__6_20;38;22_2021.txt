@@ -1,0 +1,10 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	juco	0	26	4	HUMAN	26
+Player 2	azrn	10.894	25	3	GADDAG	25	1	14	azrn
+Player 1	sack	0	13	4	HUMAN	39
+Player 2	s	0.777	15	1	GADDAG	40	1	29	s
+Player 1	koel	0	9	3	HUMAN	48
+Player 2	my	1.234	20	1	GADDAG	60	1	38	my
+Player 1	oo	0	2	1	HUMAN	50
+Player 2	m	0.951	23	1	GADDAG	83	1	40	m
+Player 1	up	0	6	2	HUMAN	56

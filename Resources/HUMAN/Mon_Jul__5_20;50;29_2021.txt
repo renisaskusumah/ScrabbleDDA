@@ -1,0 +1,10 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	tai	0	4	3	HUMAN	4
+Player 2	ah	49.186	8	1	GADDAG	8	1	11	h
+Player 1	li	0	2	1	HUMAN	6
+Player 2	ahi	41.191	5	1	GADDAG	13	1	14	i
+Player 1	widdy	0	29	4	HUMAN	35
+Player 2	-	12.666	0	0	GADDAG	13	0	27	
+Player 1	wost	0	7	3	HUMAN	42
+Player 2	-	23.914	0	0	GADDAG	13	0	35	
+Player 1	gelts	0	16	4	HUMAN	58

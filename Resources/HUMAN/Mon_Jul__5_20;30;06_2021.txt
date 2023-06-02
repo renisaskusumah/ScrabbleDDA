@@ -1,0 +1,8 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	tift	0	14	4	HUMAN	14
+Player 2	oxid	77.308	11	3	GADDAG	11	1	14	*xd
+Player 1	caw	0	9	3	HUMAN	23
+Player 2	oxide	27.029	12	0	GADDAG	23	1	26	
+Player 1	fra	0	12	2	HUMAN	35
+Player 2	kino	58.72	7	1	GADDAG	30	1	30	k
+Player 1	fey	0	14	2	HUMAN	49

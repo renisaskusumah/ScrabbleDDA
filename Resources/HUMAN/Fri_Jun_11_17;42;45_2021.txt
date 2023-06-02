@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	mog	8.116	12		3	HUMAN 	12
+Player 2	fez	1.994	54		3	GADDAG	54	187	11	fez

@@ -1,0 +1,8 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	fap	10.245	16		3	HUMAN 	16
+Player 2	howff	15.614	13		4	GADDAG	13	1	11	*owf
+Player 1	dog	14.161	5		2	HUMAN 	21
+Player 2	od	6.238	4		1	GADDAG	17	1	24	o
+Player 1	cod	43.658	9		1	HUMAN 	30

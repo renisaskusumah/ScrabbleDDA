@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	eau	0	6		3	HUMAN 	6
+Player 2	ace	0.971	8		2	GADDAG	8	1	11	ac
+Player 1	haith	0	26		4	HUMAN 	32

@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	braxy	18.848	42		5	HUMAN 	42
+Player 2	by	75.92	7		1	GADDAG	7	1	17	y

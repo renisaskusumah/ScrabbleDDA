@@ -1,0 +1,10 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	goji	11.608	24		4	HUMAN 	24
+Player 2	scab	37.66	23		4	GADDAG	23	1	14	*cab
+Player 1	mixy	9.967	16		3	HUMAN 	40
+Player 2	wench	12.832	18		5	GADDAG	41	1	29	wench
+Player 1	shell	29.429	13		4	HUMAN 	53
+Player 2	ox	6.46	18		1	GADDAG	59	1	50	o
+Player 1	quash	24.432	18		3	HUMAN 	71

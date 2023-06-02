@@ -1,0 +1,55 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	gay	7.122	14		3	HUMAN 	14
+Player 2	ya	4.958	9		1	GADDAG	9	1	11	y
+Player 1	grot	29.667	5		3	HUMAN 	19
+Player 2	up	7.279	12		2	GADDAG	21	1	20	up
+Player 1	tick	9.938	20		3	HUMAN 	39
+Player 2	tip	7.918	10		3	GADDAG	31	1	30	tip
+Player 1	futz	25.861	26		3	HUMAN 	65
+Player 2	wem	11.313	17		3	GADDAG	48	1	43	wem
+Player 1	kind	12.111	9		3	HUMAN 	74
+Player 2	eff	12.743	13		1	GADDAG	61	1	56	f
+Player 1	doob	7.237	14		3	HUMAN 	88
+Player 2	effs	9.048	10		1	GADDAG	71	1	66	s
+Player 1	wox	7.695	26		2	HUMAN 	114
+Player 2	ug	14.271	16		2	GADDAG	87	1	69	ug
+Player 1	veg	12.132	7		2	HUMAN 	121
+Player 2	lipo	19.188	16		2	GADDAG	103	1	78	li
+Player 1	jeffs	10.999	29		1	HUMAN 	150
+Player 2	bi	23.823	12		2	GADDAG	115	1	82	bi
+Player 1	it	47.223	4		1	HUMAN 	154
+Player 2	cond	36.319	16		4	GADDAG	131	1	86	c*nd
+Player 1	ups	211.5	16		1	HUMAN 	170
+Player 2	eh	15.354	13		2	GADDAG	144	1	96	eh
+Player 1	med	10.02	6		1	HUMAN 	176
+Player 2	sh	33.597	11		2	GADDAG	155	1	101	sh
+Player 1	shut	26.626	8		2	HUMAN 	184
+Player 2	ba	23.018	12		1	GADDAG	167	1	108	a
+Player 1	slob	37.197	9		3	HUMAN 	193
+Player 2	yar	28.269	14		1	GADDAG	181	1	115	r
+Player 1	yarn	27.482	12		3	HUMAN 	205
+Player 2	vav	45.788	9		2	GADDAG	190	1	122	va
+Player 1	loom	15.748	6		3	HUMAN 	211
+Player 2	da	38.993	12		2	GADDAG	202	1	129	da
+Player 1	real	32.169	18		4	HUMAN 	229
+Player 2	lied	57.26	8		2	GADDAG	210	1	137	ed
+Player 1	neal	57.769	8		3	HUMAN 	237
+Player 2	drain	87.568	8		4	GADDAG	218	1	148	rain
+Player 1	age	20.425	8		2	HUMAN 	245
+Player 2	orf	97.942	10		2	GADDAG	228	1	158	or
+Player 1	qin	43.434	24		3	HUMAN 	269
+Player 2	-	148.372	0		0	NEGASCOUT	228	0	167	
+Player 1	nee	55.413	3		2	HUMAN 	272
+Player 2	-	87.403	0		0	NEGASCOUT	228	0	171	
+Player 1	stickies	11.631	16		2	HUMAN 	288
+Player 2	-	102.885	0		0	NEGASCOUT	228	0	173	
+Player 1	no	12.208	2		1	HUMAN 	290
+winner : Player 1
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 290
+player 2 duration : 
+player 2 left tile : 7
+player 2 total score : 228

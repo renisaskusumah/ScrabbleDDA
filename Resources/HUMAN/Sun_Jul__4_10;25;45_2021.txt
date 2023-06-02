@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	mm	0	12		2	HUMAN 	12
+Player 2	ba	6.629	10		2	GADDAG	10	1	11	ba
+Player 1	gam	0	6		1	HUMAN 	18
+Player 2	fad	5.786	12		2	GADDAG	22	1	20	f*
+Player 1	do	0	11		2	HUMAN 	29
+Player 2	fads	2.331	7		1	GADDAG	29	1	30	s

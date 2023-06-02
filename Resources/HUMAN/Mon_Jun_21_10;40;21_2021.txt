@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	go	10.599	6		2	HUMAN 	6
+Player 2	fazed	9696.86	44		5	GADDAG	44	215	225	fazed

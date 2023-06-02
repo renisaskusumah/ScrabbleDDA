@@ -1,0 +1,1 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles

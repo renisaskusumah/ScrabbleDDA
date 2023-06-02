@@ -1,0 +1,23 @@
+******HUMAN TURN******
+
+word : fix anchor( col :  7 row : 7 ) score : 26 new tiles : fix    Heuristic : 2
+word : xu anchor( col :  7 row : 7 ) score : 18 new tiles : xu    Heuristic : -6.5
+word : xi anchor( col :  7 row : 7 ) score : 18 new tiles : xi    Heuristic : -9
+word : xu anchor( col :  7 row : 7 ) score : 18 new tiles : xu    Heuristic : -6.5
+word : qi anchor( col :  7 row : 7 ) score : 22 new tiles : qi    Heuristic : 3
+word : xi anchor( col :  7 row : 7 ) score : 18 new tiles : xi    Heuristic : -9
+word : qi anchor( col :  7 row : 7 ) score : 22 new tiles : qi    Heuristic : 3
+word : fix anchor( col :  7 row : 7 ) score : 26 new tiles : fix    Heuristic : 2
+word : if anchor( col :  7 row : 7 ) score : 10 new tiles : if    Heuristic : -18.5
+word : if anchor( col :  7 row : 7 ) score : 10 new tiles : if    Heuristic : -18.5
+word : fix anchor( col :  7 row : 7 ) score : 26 new tiles : fix    Heuristic : 2
+word : fix anchor( col :  7 row : 7 ) score : 26 new tiles : fix    Heuristic : 2
+word : xu anchor( col :  7 row : 7 ) score : 18 new tiles : xu    Heuristic : -6.5
+word : xi anchor( col :  7 row : 7 ) score : 18 new tiles : xi    Heuristic : -9
+word : qi anchor( col :  7 row : 7 ) score : 22 new tiles : qi    Heuristic : 3
+word : fix anchor( col :  7 row : 7 ) score : 26 new tiles : fix    Heuristic : 2
+word : if anchor( col :  7 row : 7 ) score : 10 new tiles : if    Heuristic : -18.5
+-------HUMAN CLICK HINT-------
+
+
+

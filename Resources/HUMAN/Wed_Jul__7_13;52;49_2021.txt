@@ -1,0 +1,91 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	so	0	4	2	HUMAN	4
+Player 2	mu	2.564	9	2	GADDAG	9	1	8	mu
+Player 1	gox	0	29	2	HUMAN	33
+Player 2	iso	23.935	3	1	GADDAG	12	1	16	i
+Player 1	piso	0	6	1	HUMAN	39
+Player 2	tofu	24.783	19	4	GADDAG	31	1	20	tofu
+Player 1	dei	0	14	3	HUMAN	53
+Player 2	zos	2.276	23	2	GADDAG	54	1	35	zos
+Player 1	turd	0	10	3	HUMAN	63
+Player 2	stets	82.018	10	3	GADDAG	64	1	46	sts
+Player 1	luz	0	13	2	HUMAN	76
+Player 2	rots	28.065	12	1	GADDAG	76	1	55	rots
+Player 1	brin	0	10	3	HUMAN	86
+Player 2	cab	6.227	8	2	GADDAG	84	1	69	ca
+Player 1	bus	0	5	1	HUMAN	91
+Player 2	pic	12.426	12	2	GADDAG	96	1	75	pc
+Player 1	ja	0	9	1	HUMAN	100
+Player 2	pic	22.132	12	0	GADDAG	108	1	78	pc
+Player 1	urn	0	3	2	HUMAN	103
+Player 2	busk	5.358	10	1	GADDAG	118	1	82	k
+Player 1	ne	0	4	2	HUMAN	107
+Player 2	busk	2.809	10	0	GADDAG	128	1	87	k
+Player 1	own	0	14	3	HUMAN	121
+Player 2	brink	8.237	10	0	GADDAG	138	1	94	k
+Player 1	bring	0	7	1	HUMAN	128
+Player 2	non	3.595	3	1	GADDAG	141	1	97	n
+Player 1	eddy	0	29	4	HUMAN	157
+Player 2	non	0.909	3	0	GADDAG	144	1	108	n
+Player 1	nong	0	10	1	HUMAN	167
+Player 2	girr	71.686	6	3	GADDAG	150	1	110	irr
+Player 1	if	0	5	1	HUMAN	172
+Player 2	rin	18.164	18	2	GADDAG	168	1	119	in
+Player 1	nth	0	6	2	HUMAN	178
+Player 2	rin	4.643	18	0	GADDAG	186	1	124	in
+Player 1	hm	0	7	1	HUMAN	185
+Player 2	ny	19.71	21	1	GADDAG	207	1	126	ny
+Player 1		0	0	0	HUMAN	185
+Player 2	don	28.448	8	1	GADDAG	215	1	128	o
+Player 1		0	0	0	HUMAN	185
+Player 2	don	28.415	8	0	GADDAG	223	1	128	o
+Player 1		0	0	0	HUMAN	185
+Player 2	at	26.983	12	1	GADDAG	235	1	128	a
+Player 1		0	0	0	HUMAN	185
+Player 2	at	31.55	12	0	GADDAG	247	1	130	a
+Player 1		0	0	0	HUMAN	185
+Player 2	cabs	20.515	8	1	GADDAG	255	1	130	s
+Player 1		0	0	0	HUMAN	185
+Player 2	cabs	29.411	8	0	GADDAG	263	1	131	s
+Player 1		0	0	0	HUMAN	185
+Player 2	al	31.661	11	2	GADDAG	274	1	131	al
+Player 1		0	0	0	HUMAN	185
+Player 2	al	53.53	11	0	GADDAG	285	1	134	al
+Player 1		0	0	0	HUMAN	185
+Player 2	aye	28.508	6	1	GADDAG	291	1	134	e
+Player 1	el	0	2	1	HUMAN	187
+Player 2	aye	18.726	6	0	GADDAG	297	1	135	e
+Player 1	mar	0	7	2	HUMAN	194
+Player 2	aye	21.135	6	0	GADDAG	303	1	140	e
+Player 1	it	0	8	2	HUMAN	202
+Player 2	sec	26.341	7	1	GADDAG	310	1	145	e
+Player 1	ye	0	5	1	HUMAN	207
+Player 2	sec	28.544	7	0	GADDAG	317	1	147	e
+Player 1	we	0	12	2	HUMAN	219
+Player 2	sec	38.891	7	0	GADDAG	324	1	147	e
+Player 1	oe	0	6	2	HUMAN	225
+Player 2	de	26.566	7	2	GADDAG	331	1	149	de
+Player 1	evil	0	12	4	HUMAN	237
+Player 2	de	26.98	7	0	GADDAG	338	1	160	de
+Player 1	hao	0	11	3	HUMAN	248
+Player 2	ort	19.317	8	1	GADDAG	346	1	167	o
+Player 1	oi	0	3	1	HUMAN	251
+Player 2	ort	14.632	8	0	GADDAG	354	1	169	o
+Player 1	in	0	2	1	HUMAN	253
+Player 2	rev	15.252	14	1	GADDAG	368	1	171	v
+Player 1	sex	0	13	1	HUMAN	266
+Player 2	vin	19.677	14	0	GADDAG	382	1	172	v
+Player 1	ain	0	5	1	HUMAN	271
+Player 2	tin	5.128	5	0	GADDAG	387	1	173	t
+Player 1	hare	0	11	1	HUMAN	282
+Player 2	its	1.667	7	1	GADDAG	394	1	173	t
+Player 1	aw	0	7	1	HUMAN	289
+Player 2	its	1.83	7	0	GADDAG	401	1	174	t
+Player 1	la	0	2	1	HUMAN	291
+winner : Player 2
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 291
+player 2 duration : 
+player 2 left tile : 4
+player 2 total score : 401

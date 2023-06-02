@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1		0	0		0	HUMAN 	0
+Player 2	flux	33.464	28		4	GADDAG	28	1	225	flux
+Player 1	jun	0	10		2	HUMAN 	10
+Player 2	hi	1.415	14		2	GADDAG	42	1	16	hi
+Player 1	phi	0	8		1	HUMAN 	18
+Player 2	tiff	1.545	10		2	GADDAG	52	1	23	tf

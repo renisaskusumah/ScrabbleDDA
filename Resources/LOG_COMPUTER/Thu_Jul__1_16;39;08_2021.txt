@@ -1,0 +1,65 @@
+******HUMAN TURN******
+
+word : ef anchor( col :  7 row : 7 ) score : 10 new tiles : ef    Heuristic : 1
+word : jeff anchor( col :  7 row : 7 ) score : 34 new tiles : jeff    Heuristic : 32
+word : eff anchor( col :  7 row : 7 ) score : 18 new tiles : eff    Heuristic : 12
+word : eff anchor( col :  7 row : 7 ) score : 18 new tiles : eff    Heuristic : 12
+word : jeff anchor( col :  7 row : 7 ) score : 34 new tiles : jeff    Heuristic : 32
+word : fe anchor( col :  7 row : 7 ) score : 10 new tiles : fe    Heuristic : 1
+word : fez anchor( col :  7 row : 7 ) score : 30 new tiles : fez    Heuristic : 20
+word : fez anchor( col :  7 row : 7 ) score : 30 new tiles : fez    Heuristic : 20
+word : zep anchor( col :  7 row : 7 ) score : 28 new tiles : zep    Heuristic : 17.5
+word : jeff anchor( col :  7 row : 7 ) score : 34 new tiles : jeff    Heuristic : 32
+word : pec anchor( col :  7 row : 7 ) score : 14 new tiles : pec    Heuristic : 6
+word : cep anchor( col :  7 row : 7 ) score : 14 new tiles : cep    Heuristic : 6
+word : fe anchor( col :  7 row : 7 ) score : 10 new tiles : fe    Heuristic : 1
+word : fez anchor( col :  7 row : 7 ) score : 30 new tiles : fez    Heuristic : 20
+word : zep anchor( col :  7 row : 7 ) score : 28 new tiles : zep    Heuristic : 17.5
+word : jeff anchor( col :  7 row : 7 ) score : 34 new tiles : jeff    Heuristic : 32
+word : cep anchor( col :  7 row : 7 ) score : 14 new tiles : cep    Heuristic : 6
+word : pe anchor( col :  7 row : 7 ) score : 8 new tiles : pe    Heuristic : -1.5
+word : pec anchor( col :  7 row : 7 ) score : 14 new tiles : pec    Heuristic : 6
+word : ef anchor( col :  7 row : 7 ) score : 10 new tiles : ef    Heuristic : 1
+word : eff anchor( col :  7 row : 7 ) score : 18 new tiles : eff    Heuristic : 12
+word : zep anchor( col :  7 row : 7 ) score : 28 new tiles : zep    Heuristic : 17.5
+word : cep anchor( col :  7 row : 7 ) score : 14 new tiles : cep    Heuristic : 6
+word : pe anchor( col :  7 row : 7 ) score : 8 new tiles : pe    Heuristic : -1.5
+word : pec anchor( col :  7 row : 7 ) score : 14 new tiles : pec    Heuristic : 6
+word : ef anchor( col :  7 row : 7 ) score : 10 new tiles : ef    Heuristic : 1
+word : jeff anchor( col :  7 row : 7 ) score : 34 new tiles : jeff    Heuristic : 32
+word : eff anchor( col :  7 row : 7 ) score : 18 new tiles : eff    Heuristic : 12
+word : eff anchor( col :  7 row : 7 ) score : 18 new tiles : eff    Heuristic : 12
+word : jeff anchor( col :  7 row : 7 ) score : 34 new tiles : jeff    Heuristic : 32
+word : fez anchor( col :  7 row : 7 ) score : 30 new tiles : fez    Heuristic : 20
+word : pec anchor( col :  7 row : 7 ) score : 14 new tiles : pec    Heuristic : 6
+word : fe anchor( col :  7 row : 7 ) score : 10 new tiles : fe    Heuristic : 1
+word : fez anchor( col :  7 row : 7 ) score : 30 new tiles : fez    Heuristic : 20
+word : zep anchor( col :  7 row : 7 ) score : 28 new tiles : zep    Heuristic : 17.5
+word : jeff anchor( col :  7 row : 7 ) score : 34 new tiles : jeff    Heuristic : 32
+word : cep anchor( col :  7 row : 7 ) score : 14 new tiles : cep    Heuristic : 6
+word : pe anchor( col :  7 row : 7 ) score : 8 new tiles : pe    Heuristic : -1.5
+word : pec anchor( col :  7 row : 7 ) score : 14 new tiles : pec    Heuristic : 6
+word : zep anchor( col :  7 row : 7 ) score : 28 new tiles : zep    Heuristic : 17.5
+word : cep anchor( col :  7 row : 7 ) score : 14 new tiles : cep    Heuristic : 6
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : FZJCEFP
+
+HUMAN MOVE : zep , new tiles : zep , score : 28 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+RACK : nyimvhp
+
+word : ne anchor( col :  8 row : 6 ) score : 3 new tiles : n    Heuristic : -9
+word : ye anchor( col :  8 row : 6 ) score : 9 new tiles : y    Heuristic : -0.5
+word : me anchor( col :  8 row : 6 ) score : 7 new tiles : m    Heuristic : -3.5
+word : he anchor( col :  8 row : 6 ) score : 9 new tiles : h    Heuristic : -3
+word : pe anchor( col :  8 row : 6 ) score : 7 new tiles : p    Heuristic : -3
+word : en anchor( col :  8 row : 8 ) score : 3 new tiles : n    Heuristic : -9
+word : em anchor( col :  8 row : 8 ) score : 7 new tiles : m    Heuristic : -3.5
+word : eh anchor( col :  8 row : 8 ) score : 9 new tiles : h    Heuristic : -3
+word : pi anchor( col :  9 row : 8 ) score : 4 new tiles : i    Heuristic : -10

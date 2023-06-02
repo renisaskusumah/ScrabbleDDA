@@ -1,0 +1,8 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	uhuru	143.78	18		5	HUMAN 	18
+Player 2	phage	64.773	16		5	GADDAG	16	1	17	ph**e
+Player 1	vugs	23.035	8		3	HUMAN 	26
+Player 2	uhurus	4.908	9		1	GADDAG	25	1	35	s
+Player 1	khud	16.715	22		3	HUMAN 	48

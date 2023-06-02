@@ -1,0 +1,30 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	hm	0	14	2	HUMAN	14
+Player 2	hm	1.116	11	1	GADDAG	11	1	8	h
+Player 1	ch	0	14	1	HUMAN	28
+Player 2	och	5.009	9	1	GADDAG	20	1	12	o
+Player 1	dry	0	20	3	HUMAN	48
+Player 2	picky	14.35	19	4	GADDAG	39	1	21	pick
+Player 1	mew	0	24	3	HUMAN	72
+Player 2	parry	71.546	28	5	GADDAG	67	1	39	parry
+Player 1	vow	0	9	2	HUMAN	81
+Player 2	gnu	78.024	12	3	GADDAG	79	1	54	gnu
+Player 1	iff	0	13	2	HUMAN	94
+Player 2	ba	34.479	10	2	GADDAG	89	1	65	ba
+Player 1	ex	0	25	1	HUMAN	119
+Player 2	vrouw	181.086	30	5	GADDAG	119	1	70	vrouw
+Player 1	biff	0	15	1	HUMAN	134
+Player 2	zag	94.243	12	1	GADDAG	131	1	84	z
+Player 1	gung	0	13	4	HUMAN	147
+Player 2	zo	16.328	12	1	GADDAG	143	1	94	o
+Player 1	oe	0	7	2	HUMAN	154
+Player 2	owe	7.697	12	1	GADDAG	155	1	98	e
+Player 1	odso	0	23	4	HUMAN	177
+Player 2	exon	8.378	11	1	GADDAG	166	1	110	n
+Player 1	vara	0	8	3	HUMAN	185
+Player 2	avow	1.809	10	1	GADDAG	176	1	119	a
+Player 1	os	0	2	1	HUMAN	187
+Player 2	do	5.134	14	1	GADDAG	190	1	122	d
+Player 1	ann	0	3	2	HUMAN	190
+Player 2	rach	28.28	9	1	GADDAG	199	1	128	a
+Player 1	janns	0	26	4	HUMAN	216

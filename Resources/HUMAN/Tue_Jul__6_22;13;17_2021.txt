@@ -1,0 +1,32 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	dzo	0	26	3	HUMAN	26
+Player 2	hoax	7.759	30	3	GADDAG	30	1	11	hax
+Player 1	doved	0	12	4	HUMAN	38
+Player 2	humf	10.661	16	3	GADDAG	46	1	29	umf
+Player 1	fad	0	7	2	HUMAN	45
+Player 2	dote	6.225	15	4	GADDAG	61	1	42	dote
+Player 1	mar	0	6	2	HUMAN	51
+Player 2	gu	13.164	12	2	GADDAG	73	1	55	gu
+Player 1	boh	0	12	2	HUMAN	63
+Player 2	ragu	95.648	10	2	GADDAG	83	1	58	ra
+Player 1	goe	0	3	2	HUMAN	66
+Player 2	ragu	13.892	10	0	GADDAG	93	1	66	ra
+Player 1	marm	0	8	1	HUMAN	74
+Player 2	dotes	38.935	13	1	GADDAG	106	1	68	s
+Player 1	gorp	0	14	2	HUMAN	88
+Player 2	dotes	17.45	13	0	GADDAG	119	1	73	s
+Player 1	nu	0	2	1	HUMAN	90
+Player 2	fade	6.303	13	1	GADDAG	132	1	74	e
+Player 1	si	0	11	2	HUMAN	101
+Player 2	fade	11.447	13	0	GADDAG	145	1	81	e
+Player 1	ivy	0	18	2	HUMAN	119
+Player 2	peh	7.667	11	1	GADDAG	156	1	86	p
+Player 1	ny	0	5	1	HUMAN	124
+Player 2	peh	15.473	11	0	GADDAG	167	1	90	p
+Player 1	gorps	0	8	1	HUMAN	132
+Player 2	peh	141.844	11	0	GADDAG	178	1	93	p
+Player 1	gel	0	4	2	HUMAN	136
+Player 2	faded	28.37	10	1	GADDAG	188	1	98	d
+Player 1	wye	0	13	2	HUMAN	149
+Player 2	faded	19.466	10	0	GADDAG	198	1	102	d
+Player 1	lis	0	5	2	HUMAN	154

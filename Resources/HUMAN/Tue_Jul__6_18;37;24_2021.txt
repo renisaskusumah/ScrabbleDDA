@@ -1,0 +1,20 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	triol	0	10	5	HUMAN	10
+Player 2	tallot	15.78	8	5	GADDAG	8	1	17	tallo
+Player 1	kaal	0	7	3	HUMAN	17
+Player 2	ho	13.389	9	1	GADDAG	17	1	36	h
+Player 1	tux	0	18	3	HUMAN	35
+Player 2	thou	1.385	8	1	GADDAG	25	1	45	u
+Player 1	woo	0	6	2	HUMAN	41
+Player 2	iwi	3.798	7	2	GADDAG	32	1	50	ii
+Player 1	li	0	1	1	HUMAN	42
+Player 2	cill	13.539	8	2	GADDAG	40	1	56	cl
+Player 1	mu	0	4	1	HUMAN	46
+Player 2	inn	7.617	5	2	GADDAG	45	1	59	nn
+Player 1		0	0	0	HUMAN	46
+Player 2	limb	6.17	8	3	GADDAG	53	1	62	imb
+Player 1	brr	0	10	2	HUMAN	56
+Player 2	limbi	13.558	8	0	GADDAG	61	1	75	i
+Player 1	hm	0	15	1	HUMAN	71
+Player 2	pis	96.502	12	2	GADDAG	73	1	76	ps
+Player 1		0	0	0	HUMAN	71

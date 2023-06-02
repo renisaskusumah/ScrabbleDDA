@@ -1,0 +1,4 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	jak	0	28	3	HUMAN	28
+Player 2	e	197.905	15	0	GADDAG	15	1	11	e
+Player 1	na	0	3	1	HUMAN	31

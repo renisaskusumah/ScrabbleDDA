@@ -1,0 +1,7 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	puce	0	16	4	HUMAN	16
+Player 2	cli	15.44	16	3	GADDAG	16	1	14	cli
+Player 1	gi	0	3	1	HUMAN	19
+Player 2	mo	28.76	7	2	GADDAG	23	1	23	mo
+Player 1	jew	0	13	2	HUMAN	32
+Player 2	po	15.577	10	1	GADDAG	33	1	32	po

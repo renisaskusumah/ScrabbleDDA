@@ -1,0 +1,8 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	forb	10.734	18		4	HUMAN 	18
+Player 2	forby	54.778	17		1	GADDAG	17	1	14	y
+Player 1	mhorr	12.944	15		4	HUMAN 	33
+Player 2	forbye	37.636	13		1	GADDAG	30	1	25	*
+Player 1	yunx	10.434	14		3	HUMAN 	47

@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	juicy	13.069	42		5	HUMAN 	42
+Player 2	drunk	92.594	12		4	GADDAG	12	1	17	drnk

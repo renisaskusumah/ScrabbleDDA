@@ -1,0 +1,19 @@
+player word durasi skor tiles
+
+
+Player 1	-	0.087	0		0	
+Player 2 	-	0.078	0		0	
+Player 1	-	0.084	0		0	
+Player 2 	-	0.078	0		0	
+Player 1	-	0.09	0		0	
+Player 2 	-	0.077	0		0	
+winner : Player 2
+left tile (letter bag): 86
+player 1 durasi : 0.261
+player 1 left tile : 7
+player 1 total skor : 0
+player 1 Final skor : -26
+player 2 durasi : 0.233
+player 2 left tile : 7
+player 2 total skor : 0
+player 2 Final skor : -33

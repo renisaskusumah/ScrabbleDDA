@@ -1,0 +1,9 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	jab	14.038	24		3	HUMAN 	24
+Player 2	jabot	0.162	15	4	GADDAG	15	1	11	abot
+Player 1	sog	7.045	4		2	HUMAN 	28
+Player 2	dos	0.188	15	2	GADDAG	30	1	24	do
+Player 1	wab	8.368	15		2	HUMAN 	43
+Player 2	dob	0.873	10	1	GADDAG	40	1	31	d
+Player 1	yad	11.722	20		2	HUMAN 	63
+Player 2	fitt	0.076	12	3	GADDAG	52	1	33	fit

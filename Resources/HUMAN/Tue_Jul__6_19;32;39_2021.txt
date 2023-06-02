@@ -1,0 +1,8 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	jaw	0	26	3	HUMAN	26
+Player 2	pace	90.809	24	4	GADDAG	24	1	11	pace
+Player 1	chaw	0	7	2	HUMAN	33
+Player 2	prep	20.871	21	2	GADDAG	45	1	23	prep
+Player 1	ax	0	22	2	HUMAN	55
+Player 2	fra	4.337	11	1	GADDAG	56	1	31	fra
+Player 1	bang	0	37	4	HUMAN	92

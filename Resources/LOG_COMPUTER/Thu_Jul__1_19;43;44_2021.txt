@@ -1,0 +1,11 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : FFDEEZJ
+
+HUMAN MOVE : fed , new tiles : fde , score : 14 , direction : 1 , col : 10 , row : 7
+
+
+******COMPUTER TURN******
+RACK : cktnlv*
+

@@ -1,0 +1,8 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	ex	0	18	2	HUMAN	18
+Player 2	hex	8.655	13	1	GADDAG	13	1	8	h
+Player 1	umus	0	17	4	HUMAN	35
+Player 2	ow	9.903	17	2	GADDAG	30	1	21	ow
+Player 1	mm	0	12	1	HUMAN	47
+Player 2	glib	49.902	11	4	GADDAG	41	1	25	glib
+Player 1	bundu	0	16	4	HUMAN	63

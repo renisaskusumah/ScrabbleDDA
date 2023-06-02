@@ -1,0 +1,26 @@
+******HUMAN TURN******
+
+word : cull anchor( col :  7 row : 7 ) score : 12 new tiles : cull    Heuristic : -10
+word : wull anchor( col :  7 row : 7 ) score : 14 new tiles : wull    Heuristic : -4
+word : cull anchor( col :  7 row : 7 ) score : 12 new tiles : cull    Heuristic : -10
+word : wull anchor( col :  7 row : 7 ) score : 14 new tiles : wull    Heuristic : -4
+word : cull anchor( col :  7 row : 7 ) score : 12 new tiles : cull    Heuristic : -10
+word : wull anchor( col :  7 row : 7 ) score : 14 new tiles : wull    Heuristic : -4
+word : cull anchor( col :  7 row : 7 ) score : 12 new tiles : cull    Heuristic : -10
+word : wull anchor( col :  7 row : 7 ) score : 14 new tiles : wull    Heuristic : -4
+word : cull anchor( col :  7 row : 7 ) score : 12 new tiles : cull    Heuristic : -10
+word : wull anchor( col :  7 row : 7 ) score : 14 new tiles : wull    Heuristic : -4
+word : cull anchor( col :  7 row : 7 ) score : 12 new tiles : cull    Heuristic : -10
+word : wull anchor( col :  7 row : 7 ) score : 14 new tiles : wull    Heuristic : -4
+word : cull anchor( col :  7 row : 7 ) score : 12 new tiles : cull    Heuristic : -10
+word : wull anchor( col :  7 row : 7 ) score : 14 new tiles : wull    Heuristic : -4
+POSSIBLE MOVEMENT : 14
+******HUMAN RESULT******
+RACK : 
+
+HUMAN MOVE : cull , new tiles : cull , score : 12 , direction : 1 , col : 4 , row : 7
+
+
+******COMPUTER TURN******
+RACK : zrnnhcl
+

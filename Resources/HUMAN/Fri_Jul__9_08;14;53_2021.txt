@@ -1,0 +1,52 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	aw	1.251	10	2	HUMAN	10
+Player 2	ass	5.809	11	3	GADDAG	11	1	8	ass
+Player 1	gab	1.251	16	3	HUMAN	26
+Player 2	mag	29.623	12	2	GADDAG	23	1	23	ma
+Player 1	nah	1.251	15	2	HUMAN	41
+Player 2	wem	77.58	8	2	GADDAG	31	1	29	we
+Player 1	bas	1.251	5	1	HUMAN	46
+Player 2	bast	4.429	6	1	GADDAG	37	1	35	t
+Player 1	ny	1.251	16	2	HUMAN	62
+Player 2	deg	4.703	9	2	GADDAG	46	1	42	dg
+Player 1	me	1.251	10	2	HUMAN	72
+Player 2	shan	2.625	21	2	GADDAG	67	1	48	hn
+Player 1	mel	1.251	7	1	HUMAN	79
+Player 2	smell	2.415	15	2	GADDAG	82	1	50	sl
+Player 1	flux	1.251	28	3	HUMAN	107
+Player 2	urp	14.796	5	2	GADDAG	87	1	62	rp
+Player 1	wax	1.251	13	2	HUMAN	120
+Player 2	ab	19.979	4	1	GADDAG	91	1	70	b
+Player 1	ooze	1.251	28	4	HUMAN	148
+Player 2	jot	13.405	11	2	GADDAG	102	1	81	jt
+Player 1	cooze	1.251	16	1	HUMAN	164
+Player 2	tod	12.422	26	2	GADDAG	128	1	86	od
+Player 1	cor	1.251	5	2	HUMAN	169
+Player 2	unpin	9.734	30	5	GADDAG	158	1	93	unpin
+Player 1	pav	1.251	16	2	HUMAN	185
+Player 2	fango	111.331	26	5	GADDAG	184	1	104	fango
+Player 1	ya	1.251	15	2	HUMAN	200
+Player 2	turfy	6.269	11	3	GADDAG	195	1	119	tur
+Player 1	oor	1.251	3	2	HUMAN	203
+Player 2	wag	40.064	13	1	GADDAG	208	1	129	a
+Player 1	cito	1.251	10	3	HUMAN	213
+Player 2	loor	13.486	8	1	GADDAG	216	1	136	l
+Player 1	kete	1.251	20	4	HUMAN	233
+Player 2	loto	60.265	8	3	GADDAG	224	1	148	lot
+Player 1	voe	1.251	6	2	HUMAN	239
+Player 2	diya	71.831	10	2	GADDAG	234	1	156	di
+Player 1	ti	1.251	2	1	HUMAN	241
+Player 2	duci	14.831	11	3	GADDAG	245	1	158	dui
+Player 1	ai	1.251	2	1	HUMAN	243
+Player 2	wage	68.362	8	1	GADDAG	253	1	165	e
+Player 1	evoe	1.251	7	1	HUMAN	250
+Player 2	reird	8.913	8	4	GADDAG	261	1	167	reir
+Player 1	qi	1.251	11	1	HUMAN	261
+Player 2	erk	8.326	8	2	GADDAG	269	1	178	er
+winner : Player 2
+left tile (letter bag): 0
+player 1 left tile : 5
+player 1 total skor : 261
+player 2 duration : 
+player 2 left tile : 0
+player 2 total score : 269

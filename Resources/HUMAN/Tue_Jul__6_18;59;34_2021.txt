@@ -1,0 +1,6 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	hoe	0	10	3	HUMAN	10
+Player 2	ich	12.466	10	2	GADDAG	10	1	11	ic
+Player 1	mil	0	13	3	HUMAN	23
+Player 2	mic	12.671	7	1	GADDAG	17	1	24	mc
+Player 1	neap	0	5	3	HUMAN	28

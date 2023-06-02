@@ -1,0 +1,58 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	faa	0	12	3	HUMAN	12
+Player 2	pie	1.642	14	3	GADDAG	14	1	11	pie
+Player 1	up	0	3	1	HUMAN	15
+Player 2	yea	4.408	6	1	GADDAG	20	1	18	y
+Player 1	ally	0	7	3	HUMAN	22
+Player 2	gup	0.629	10	1	GADDAG	30	1	28	g
+Player 1	vril	0	9	3	HUMAN	31
+Player 2	wage	17.566	8	3	GADDAG	38	1	37	wae
+Player 1	cue	0	5	2	HUMAN	36
+Player 2	vrils	9.491	8	1	GADDAG	46	1	48	s
+Player 1	fa	0	10	1	HUMAN	46
+Player 2	urged	16.068	9	4	GADDAG	55	1	50	rged
+Player 1	faan	0	7	1	HUMAN	53
+Player 2	allyl	14.304	9	1	GADDAG	64	1	62	l
+Player 1	vee	0	7	2	HUMAN	60
+Player 2	eik	1.786	10	2	GADDAG	74	1	69	ik
+Player 1	ide	0	4	1	HUMAN	64
+Player 2	ab	2.833	12	2	GADDAG	86	1	74	ab
+Player 1	xu	0	21	1	HUMAN	85
+Player 2	vis	33.532	12	2	GADDAG	98	1	78	is
+Player 1	ab	0	11	2	HUMAN	96
+Player 2	jab	1.559	12	1	GADDAG	110	1	88	j
+Player 1	so	0	7	1	HUMAN	103
+Player 2	ab	38.553	13	1	GADDAG	123	1	91	a
+Player 1	real	0	11	2	HUMAN	114
+Player 2	yow	4.995	9	1	GADDAG	132	1	95	w
+Player 1	in	0	10	2	HUMAN	124
+Player 2	ureal	13.855	8	1	GADDAG	140	1	101	u
+Player 1	gids	0	12	4	HUMAN	136
+Player 2	lo	36.836	7	1	GADDAG	147	1	106	o
+Player 1	em	0	28	2	HUMAN	164
+Player 2	si	38.754	8	1	GADDAG	155	1	113	i
+Player 1	hejab	0	34	2	HUMAN	198
+Player 2	medic	127.242	40	5	GADDAG	195	1	118	medic
+Player 1	hun	0	14	3	HUMAN	212
+Player 2	is	100.233	11	2	GADDAG	206	1	134	is
+Player 1	er	0	9	2	HUMAN	221
+Player 2	pav	99.872	8	2	GADDAG	214	1	141	pa
+Player 1	oi	0	2	1	HUMAN	223
+Player 2	ide	59.762	8	2	GADDAG	222	1	144	de
+Player 1	suq	0	32	3	HUMAN	255
+Player 2	tete	90.761	21	4	GADDAG	243	1	157	tete
+Player 1	etna	0	4	3	HUMAN	259
+Player 2	oot	86.037	11	3	GADDAG	254	1	170	oot
+Player 1	un	0	2	1	HUMAN	261
+Player 2	oca	59.081	12	2	GADDAG	266	1	171	oa
+Player 1	reh	0	6	1	HUMAN	267
+Player 2	visard	58.613	13	1	GADDAG	279	1	174	r
+Player 1	soon	0	7	2	HUMAN	274
+Player 2	mutt	0.73	6	1	GADDAG	285	1	177	t
+winner : Player 2
+left tile (letter bag): 0
+player 1 left tile : 3
+player 1 total skor : 274
+player 2 duration : 
+player 2 left tile : 0
+player 2 total score : 285

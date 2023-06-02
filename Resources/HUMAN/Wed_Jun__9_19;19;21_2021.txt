@@ -1,0 +1,13 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1		pass ( 13.702 )		--			0		0	
+Player 2	-	0.001	0		0	NEGASCOUT	0	0	225	
+winner : Draw
+left tile (letter bag): 0
+player 1 durasi : 0 minute 0 secs 
+player 1 left tile : 0
+player 1 total skor : 0
+player 2 duration : 0 minute 0 secs 
+player 2 left tile : 0
+player 2 total score : 0

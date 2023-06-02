@@ -1,0 +1,6 @@
+******HUMAN TURN******
+
+word : mm anchor( col :  7 row : 7 ) score : 12 new tiles : mm    Heuristic : 4.5
+word : mm anchor( col :  7 row : 7 ) score : 12 new tiles : mm    Heuristic : 4.5
+word : mm anchor( col :  7 row : 7 ) score : 12 new tiles : mm    Heuristic : 4.5
+POSSIBLE MOVEMENT : 3

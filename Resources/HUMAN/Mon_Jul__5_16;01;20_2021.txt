@@ -1,0 +1,2 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	kiff	0	28	4	HUMAN	28

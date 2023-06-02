@@ -1,0 +1,61 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	maa	0	10	3	HUMAN	10
+Player 2	pam	0.781	13	2	GADDAG	13	1	11	pa
+Player 1	waft	0	27	3	HUMAN	37
+Player 2	cawk	1.032	19	2	GADDAG	32	1	20	ck
+Player 1	brut	0	8	3	HUMAN	45
+Player 2	ego	8.359	10	3	GADDAG	42	1	31	ego
+Player 1	ova	0	11	3	HUMAN	56
+Player 2	boba	3.785	11	1	GADDAG	53	1	44	b
+Player 1	udal	0	4	3	HUMAN	60
+Player 2	ox	1.773	17	1	GADDAG	70	1	51	x
+Player 1	lav	0	5	2	HUMAN	65
+Player 2	ope	7.178	5	2	GADDAG	75	1	54	op
+Player 1	kay	0	18	1	HUMAN	83
+Player 2	lave	4.482	7	1	GADDAG	82	1	60	e
+Player 1	en	0	4	2	HUMAN	87
+Player 2	nope	1.348	8	1	GADDAG	90	1	66	n
+Player 1	lay	0	6	2	HUMAN	93
+Player 2	oxo	2.251	10	1	GADDAG	100	1	73	o
+Player 1	re	0	8	2	HUMAN	101
+Player 2	fae	6.717	12	3	GADDAG	112	1	78	fae
+Player 1	rez	0	25	3	HUMAN	126
+Player 2	naw	5.448	6	1	GADDAG	118	1	85	w
+Player 1	oor	0	16	3	HUMAN	142
+Player 2	ish	77.523	20	3	GADDAG	138	1	92	ish
+Player 1	ala	0	8	3	HUMAN	150
+Player 2	hori	9.51	7	3	GADDAG	145	1	104	hor
+Player 1	goel	0	6	3	HUMAN	156
+Player 2	gala	12.14	8	1	GADDAG	153	1	116	g
+Player 1	naan	0	8	3	HUMAN	164
+Player 2	duh	11.066	10	2	GADDAG	163	1	124	du
+Player 1	oes	0	8	3	HUMAN	172
+Player 2	mar	19.958	5	1	GADDAG	168	1	135	m
+Player 1	utu	0	6	3	HUMAN	178
+Player 2	goels	13.022	6	1	GADDAG	174	1	143	s
+Player 1	an	0	4	1	HUMAN	182
+Player 2	nun	28.584	5	1	GADDAG	179	1	146	n
+Player 1	utus	0	5	1	HUMAN	187
+Player 2	and	26.792	12	1	GADDAG	191	1	151	d
+Player 1	ti	0	8	2	HUMAN	195
+Player 2	nit	33.791	9	3	GADDAG	200	1	154	nit
+Player 1	ee	0	4	2	HUMAN	199
+Player 2	vet	25.604	10	2	GADDAG	210	1	159	et
+Player 1	te	0	2	1	HUMAN	201
+Player 2	maar	2.168	6	1	GADDAG	216	1	164	r
+Player 1	jin	0	10	2	HUMAN	211
+Player 2	ti	1.878	12	2	GADDAG	228	1	168	ti
+Player 1	djin	0	12	1	HUMAN	223
+Player 2	ice	2.188	11	2	GADDAG	239	1	172	ic
+Player 1	si	0	3	1	HUMAN	226
+Player 2	-	0.808	0	0	GADDAG	239	0	175	
+Player 1	di	0	3	1	HUMAN	229
+Player 2	-	1.399	0	0	GADDAG	239	0	176	
+Player 1	qi	0	11	1	HUMAN	240
+winner : Player 1
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 240
+player 2 duration : 
+player 2 left tile : 1
+player 2 total score : 239

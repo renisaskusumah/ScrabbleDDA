@@ -1,0 +1,59 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	ogam	0	14	4	HUMAN	14
+Player 2	foes	6.721	10	4	GADDAG	10	1	14	foes
+Player 1	unce	0	10	3	HUMAN	24
+Player 2	go	3.593	12	2	GADDAG	22	1	31	go
+Player 1	eh	0	11	2	HUMAN	35
+Player 2	bounce	3.951	12	1	GADDAG	34	1	40	b
+Player 1	os	0	2	1	HUMAN	37
+Player 2	gon	3.87	4	1	GADDAG	38	1	42	n
+Player 1	ewk	0	5	2	HUMAN	42
+Player 2	sub	1.541	13	2	GADDAG	51	1	48	su
+Player 1	zek	0	11	2	HUMAN	53
+Player 2	qin	0.248	11	2	GADDAG	62	1	57	qi
+Player 1	mani	0	10	3	HUMAN	63
+Player 2	gonk	1.009	9	1	GADDAG	71	1	65	k
+Player 1	es	0	7	1	HUMAN	70
+Player 2	fed	4.055	7	1	GADDAG	78	1	70	d
+Player 1	til	0	6	3	HUMAN	76
+Player 2	em	12.801	8	1	GADDAG	86	1	78	e
+Player 1	men	0	6	1	HUMAN	82
+Player 2	fud	0.931	21	3	GADDAG	107	1	82	fud
+Player 1	hob	0	25	3	HUMAN	107
+Player 2	wit	4.427	14	1	GADDAG	121	1	92	w
+Player 1	lug	0	4	2	HUMAN	111
+Player 2	orc	5.838	14	3	GADDAG	135	1	98	orc
+Player 1	end	0	8	2	HUMAN	119
+Player 2	suba	17.3	8	1	GADDAG	143	1	107	a
+Player 1	ne	0	7	2	HUMAN	126
+Player 2	orcs	12.255	13	1	GADDAG	156	1	112	s
+Player 1	lev	0	17	3	HUMAN	143
+Player 2	tab	12.943	5	2	GADDAG	161	1	119	ta
+Player 1	re	0	7	2	HUMAN	150
+Player 2	al	17.116	4	1	GADDAG	165	1	128	l
+Player 1	tilery	0	27	1	HUMAN	177
+Player 2	ode	34.1	10	1	GADDAG	175	1	130	e
+Player 1	pel	0	15	3	HUMAN	192
+Player 2	koi	23.49	7	1	GADDAG	182	1	139	i
+Player 1	oryx	0	30	3	HUMAN	222
+Player 2	vardy	15.499	35	5	GADDAG	217	1	142	vardy
+Player 1	reo	0	5	1	HUMAN	227
+Player 2	inia	11.763	13	4	GADDAG	230	1	155	inia
+Player 1	parp	0	8	3	HUMAN	235
+Player 2	airt	61.426	8	3	GADDAG	238	1	168	ait
+Player 1	aa	0	6	2	HUMAN	241
+Player 2	on	34.299	13	1	GADDAG	251	1	173	o
+Player 1	pet	0	7	2	HUMAN	248
+Player 2	tie	38.814	10	3	GADDAG	261	1	178	tie
+Player 1	tene	0	4	1	HUMAN	252
+Player 2	-	6.429	0	0	GADDAG	261	0	180	
+Player 1	alar	0	4	1	HUMAN	256
+Player 2	-	1.854	0	0	GADDAG	261	0	181	
+Player 1	ja	0	9	1	HUMAN	265
+winner : Player 1
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 265
+player 2 duration : 
+player 2 left tile : 1
+player 2 total score : 261

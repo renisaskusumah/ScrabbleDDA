@@ -1,0 +1,4 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	ivy	0	18	3	HUMAN	18
+Player 2	ch	54.245	20	2	GADDAG	20	1	11	ch
+Player 1	shit	0	8	2	HUMAN	26

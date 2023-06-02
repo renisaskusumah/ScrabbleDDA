@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1		pass ( 3.276 )		--			0		0	
+Player 2	ef	91.299	8		2	GADDAG	8	1	225	*f
+Player 1	her	9.345	10		2	HUMAN 	10
+Player 2	pisher	35.598	10		3	GADDAG	18	1	12	pis
+Player 1	zip	18.767	14		2	HUMAN 	24
+Player 2	rip	80.657	11		2	GADDAG	29	1	23	ri

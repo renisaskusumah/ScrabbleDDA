@@ -1,0 +1,10 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	hm	8.953	14		2	HUMAN 	14
+Player 2	ch	51.05	7		1	GADDAG	7	1	8	c
+Player 1	man	11.664	4		2	HUMAN 	18
+Player 2	many	33.741	9		1	GADDAG	16	1	15	y
+Player 1	whey	17.464	13		3	HUMAN 	31
+Player 2	et	19.129	3		1	GADDAG	19	1	26	t
+Player 1	ax	12.487	9		1	HUMAN 	40

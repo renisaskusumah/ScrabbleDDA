@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	pack	19.548	18		4	HUMAN 	18
+Player 2	jaap	48.434	13		3	GADDAG	13	1	14	jaa
+Player 1	wok	66.373	10		2	HUMAN 	28
+Player 2	goji	28.504	11		3	GADDAG	24	1	27	go*

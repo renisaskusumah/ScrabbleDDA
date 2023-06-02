@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	mugg	47.104	16		4	HUMAN 	16
+Player 2	shalm	2.829	11		4	GADDAG	11	1	14	shal
+Player 1	aw	22.848	5		1	HUMAN 	21

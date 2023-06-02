@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	tie	0	6		3	HUMAN 	6
+Player 2	ret	14.517	9		3	GADDAG	9	1	14	ret

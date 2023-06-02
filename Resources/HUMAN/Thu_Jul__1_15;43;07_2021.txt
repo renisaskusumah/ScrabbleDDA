@@ -1,0 +1,49 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	mux	9.802	24		3	HUMAN 	24
+Player 2	ullage	147.198	26		6	GADDAG	26	1	11	ull*ge
+Player 1	gurly	56.919	10		3	HUMAN 	34
+Player 2	pfui	12.536	18		3	GADDAG	44	1	31	pfi
+Player 1	kyu	11.734	10		2	HUMAN 	44
+Player 2	abram	5.879	9		3	GADDAG	53	1	42	abr
+Player 1	glen	24.105	12		4	HUMAN 	56
+Player 2	spiel	39.868	19		4	GADDAG	72	1	59	*pie
+Player 1	uh	10.425	5		1	HUMAN 	61
+Player 2	fear	13.287	9		1	GADDAG	81	1	66	a
+Player 1	ho	3.66	5		1	HUMAN 	66
+Player 2	gabs	5.336	12		3	GADDAG	93	1	68	gab
+Player 1	got	4.643	4		2	HUMAN 	70
+Player 2	od	5.236	12		1	GADDAG	105	1	80	d
+Player 1	of	3.222	5		1	HUMAN 	75
+Player 2	rad	4.543	5		1	GADDAG	110	1	82	r
+Player 1	how	8.778	18		1	HUMAN 	93
+Player 2	dod	6.638	5		1	GADDAG	115	1	85	d
+Player 1	jeez	11.299	40		3	HUMAN 	133
+Player 2	ahint	7.45	16		4	GADDAG	131	1	91	hint
+Player 1	synd	20.015	28		4	HUMAN 	161
+Player 2	sex	18.63	12		1	GADDAG	143	1	110	s
+Player 1	wen	6.221	11		2	HUMAN 	172
+Player 2	winn	48.447	14		3	GADDAG	157	1	115	win
+Player 1	nom	13.234	10		2	HUMAN 	182
+Player 2	van	24.976	15		2	GADDAG	172	1	124	va
+Player 1	toc	16.024	22		2	HUMAN 	204
+Player 2	zin	39.883	12		1	GADDAG	184	1	127	i
+Player 1	vivo	31.487	20		3	HUMAN 	224
+Player 2	oud	46.209	11		3	GADDAG	195	1	135	oud
+Player 1	con	7.698	19		2	HUMAN 	243
+Player 2	arrow	34.413	10		4	GADDAG	205	1	141	arro
+Player 1	qats	20.574	19		4	HUMAN 	262
+Player 2	sai	100.401	11		2	GADDAG	216	1	155	ai
+Player 1	escot	39.195	26		5	HUMAN 	288
+Player 2	fete	133.018	12		1	GADDAG	228	1	163	e
+Player 1	deer	47.237	9		3	HUMAN 	297
+Player 2	ai	110.127	15		2	GADDAG	243	1	172	ai
+Player 1	et	35.945	8		2	HUMAN 	305
+winner : Player 1
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 305
+player 2 duration : 
+player 2 left tile : 4
+player 2 total score : 243

@@ -1,0 +1,21 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	st	0	4		2	HUMAN 	4
+Player 2	pst	0.505	5		1	GADDAG	5	1	8	p
+Player 1	pep	0	13		2	HUMAN 	17
+Player 2	fy	1.733	12		1	GADDAG	17	1	26	y
+Player 1	fy	0	8		1	HUMAN 	25
+Player 2	flu	1.38	7		2	GADDAG	24	1	32	lu
+Player 1	pir	0	4		2	HUMAN 	29
+Player 2	mug	1.846	6		1	GADDAG	30	1	45	g
+Player 1	pirls	0	6		2	HUMAN 	35
+Player 2	git	3.094	8		2	GADDAG	38	1	56	it
+Player 1	ye	0	1		1	HUMAN 	36
+Player 2	if	1.881	5		1	GADDAG	43	1	62	f
+Player 1	owt	0	11		3	HUMAN 	47
+Player 2	at	5.309	4		1	GADDAG	47	1	73	a
+Player 1	meg	0	13		3	HUMAN 	60
+Player 2	dso	2.688	4		1	GADDAG	51	1	82	d
+Player 1	et	0	1		1	HUMAN 	61
+Player 2	di	2.703	3		1	GADDAG	54	1	93	i

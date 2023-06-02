@@ -1,0 +1,38 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : ABTAGEC
+
+HUMAN MOVE : tag , new tiles : tag , score : 8 , direction : 2 , col : 7 , row : 9
+
+
+******COMPUTER TURN******
+RACK : btllmlk
+
+word : ba anchor( col :  6 row : 7 ) score : 4 new tiles : b    Heuristic : -9.5
+word : ba anchor( col :  6 row : 7 ) score : 4 new tiles : b    Heuristic : -9.5
+word : bat anchor( col :  6 row : 7 ) score : 5 new tiles : bt    Heuristic : -7.5
+word : bal anchor( col :  6 row : 7 ) score : 5 new tiles : bl    Heuristic : -5.5
+word : ball anchor( col :  6 row : 7 ) score : 6 new tiles : bll    Heuristic : -1.5
+word : balm anchor( col :  6 row : 7 ) score : 8 new tiles : blm    Heuristic : -0.5
+word : balk anchor( col :  6 row : 7 ) score : 10 new tiles : blk    Heuristic : 3
+word : bam anchor( col :  6 row : 7 ) score : 7 new tiles : bm    Heuristic : -4.5
+word : ta anchor( col :  6 row : 7 ) score : 2 new tiles : t    Heuristic : -15
+word : la anchor( col :  6 row : 7 ) score : 2 new tiles : l    Heuristic : -13
+word : la anchor( col :  6 row : 7 ) score : 2 new tiles : l    Heuristic : -13
+word : ma anchor( col :  6 row : 7 ) score : 4 new tiles : m    Heuristic : -12
+word : la anchor( col :  6 row : 7 ) score : 2 new tiles : l    Heuristic : -13
+word : ka anchor( col :  6 row : 7 ) score : 6 new tiles : k    Heuristic : -8.5
+word : ab anchor( col :  8 row : 7 ) score : 4 new tiles : b    Heuristic : -9.5
+word : at anchor( col :  8 row : 7 ) score : 2 new tiles : t    Heuristic : -15
+word : al anchor( col :  8 row : 7 ) score : 2 new tiles : l    Heuristic : -13
+word : al anchor( col :  8 row : 7 ) score : 2 new tiles : l    Heuristic : -13
+word : am anchor( col :  8 row : 7 ) score : 4 new tiles : m    Heuristic : -12
+word : al anchor( col :  8 row : 7 ) score : 2 new tiles : l    Heuristic : -13
+Hasil evaluasi : balk , score : 10 , direction :1 ,i: 7 j: 6 Heuristic: 3
+
+
+
+POSSIBLE MOVEMENT : 1
+******HUMAN TURN******
+

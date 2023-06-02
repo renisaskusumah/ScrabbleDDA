@@ -1,0 +1,4 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	dap	0	12	3	HUMAN	12
+Player 2	adapt	15.652	7	2	GADDAG	7	1	11	at
+Player 1	blate	0	22	5	HUMAN	34

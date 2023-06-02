@@ -1,0 +1,10 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	fy	9.135	16		2	HUMAN 	16
+Player 2	yu	54.861	6		1	GADDAG	6	1	8	u
+Player 1	yutz	22.163	16		2	HUMAN 	32
+Player 2	ur	63.905	2		1	GADDAG	8	1	16	r
+Player 1	bez	24.463	14		2	HUMAN 	46
+Player 2	urb	21.142	5		1	GADDAG	13	1	22	b
+Player 1	ex	114.239	17		1	HUMAN 	63

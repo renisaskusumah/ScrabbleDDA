@@ -1,0 +1,65 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	wetas	0	16	5	HUMAN	16
+Player 2	meff	2.05	19	3	GADDAG	19	1	17	mff
+Player 1	roc	0	7	3	HUMAN	23
+Player 2	sward	19.299	10	3	GADDAG	29	1	27	swd
+Player 1	bi	0	10	2	HUMAN	33
+Player 2	pub	10.259	14	2	GADDAG	43	1	36	pu
+Player 1	sild	0	5	2	HUMAN	38
+Player 2	silds	2.705	6	1	GADDAG	49	1	45	s
+Player 1	roch	0	8	1	HUMAN	46
+Player 2	tsk	2.622	12	2	GADDAG	61	1	51	tk
+Player 1	tid	0	10	2	HUMAN	56
+Player 2	-	0.194	0	0	GADDAG	61	0	58	
+Player 1	up	0	5	1	HUMAN	61
+Player 2	xu	2.226	9	1	GADDAG	70	1	60	x
+Player 1	on	0	7	2	HUMAN	68
+Player 2	hob	5.26	8	1	GADDAG	78	1	66	b
+Player 1	gup	0	13	3	HUMAN	81
+Player 2	ky	2.31	9	1	GADDAG	87	1	74	y
+Player 1	clow	0	15	3	HUMAN	96
+Player 2	dom	5.131	6	1	GADDAG	93	1	81	d
+Player 1	do	0	24	2	HUMAN	120
+Player 2	luz	17.834	28	3	GADDAG	121	1	87	luz
+Player 1	tids	0	15	1	HUMAN	135
+Player 2	ab	13.913	14	1	GADDAG	135	1	94	a
+Player 1	dolt	0	5	1	HUMAN	140
+Player 2	lab	3.505	5	1	GADDAG	140	1	97	l
+Player 1	not	0	13	3	HUMAN	153
+Player 2	skyr	2.414	11	1	GADDAG	151	1	102	r
+Player 1	vire	0	21	3	HUMAN	174
+Player 2	hond	16.251	22	2	GADDAG	173	1	107	hd
+Player 1	note	0	5	1	HUMAN	179
+Player 2	yard	22.057	10	2	GADDAG	183	1	111	ar
+Player 1	at	0	2	1	HUMAN	181
+Player 2	noter	15.688	5	1	GADDAG	188	1	111	r
+Player 1	miz	0	14	2	HUMAN	195
+Player 2	fed	0.882	5	1	GADDAG	193	1	118	e
+Player 1	een	0	4	2	HUMAN	199
+Player 2	oy	9.724	11	2	GADDAG	204	1	123	oy
+Player 1	ny	0	5	1	HUMAN	204
+Player 2	refed	26.371	9	2	GADDAG	213	1	129	re
+Player 1	er	0	10	2	HUMAN	214
+Player 2	tec	21.408	10	2	GADDAG	223	1	136	te
+Player 1	vagi	0	12	4	HUMAN	226
+Player 2	honda	2.59	9	1	GADDAG	232	1	150	a
+Player 1	aia	0	3	2	HUMAN	229
+Player 2	io	7.584	10	2	GADDAG	242	1	154	io
+Player 1	git	0	4	1	HUMAN	233
+Player 2	agita	14.043	7	2	GADDAG	249	1	159	aa
+Player 1	ire	0	9	3	HUMAN	242
+Player 2	ja	11.31	9	1	GADDAG	258	1	170	j
+Player 1	re	0	2	1	HUMAN	244
+Player 2	jann	7.318	13	2	GADDAG	271	1	172	nn
+Player 1	re	0	4	1	HUMAN	248
+Player 2	qi	2.138	11	1	GADDAG	282	1	178	q
+Player 1	nee	0	5	1	HUMAN	253
+Player 2	-	2.697	0	0	GADDAG	282	0	181	
+Player 1	io	0	3	1	HUMAN	256
+winner : Player 2
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 256
+player 2 duration : 
+player 2 left tile : 1
+player 2 total score : 282

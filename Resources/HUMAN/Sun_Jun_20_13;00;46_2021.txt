@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	go	12.141	6		2	HUMAN 	6
+Player 2	fazed	0.702	56		5	GADDAG	56	322	8	fazed
+Player 1	bag	18.899	6		1	HUMAN 	12
+Player 2	wived	42.65	40		5	GADDAG	96	263	20	wived

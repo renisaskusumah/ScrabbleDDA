@@ -1,0 +1,47 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	yale	0	14		4	HUMAN 	14
+Player 2	vum	1.217	15		3	GADDAG	15	1	14	vum
+Player 1	jawed	0	22		4	HUMAN 	36
+Player 2	jot	3.128	20		2	GADDAG	35	1	31	ot
+Player 1	ted	0	9		3	HUMAN 	45
+Player 2	bito	4.74	12		2	GADDAG	47	1	41	bi
+Player 1	tet	0	4		1	HUMAN 	49
+Player 2	elite	3.849	9		3	GADDAG	56	1	46	ele
+Player 1	ewk	0	12		2	HUMAN 	61
+Player 2	losh	3.268	14		4	GADDAG	70	1	53	losh
+Player 1	luv	0	6		2	HUMAN 	67
+Player 2	flosh	4.172	15		1	GADDAG	85	1	68	f
+Player 1	hem	0	11		1	HUMAN 	78
+Player 2	leu	27.55	13		3	GADDAG	98	1	71	leu
+Player 1	haud	0	24		3	HUMAN 	102
+Player 2	elites	23.567	12		1	GADDAG	110	1	81	*
+Player 1	abac	0	11		3	HUMAN 	113
+Player 2	hyp	2.856	11		2	GADDAG	121	1	88	yp
+Player 1	pi	0	4		1	HUMAN 	117
+Player 2	rimy	5.417	11		2	GADDAG	132	1	93	ri
+Player 1	pea	0	7		2	HUMAN 	124
+Player 2	teds	3.017	6		1	GADDAG	138	1	100	s
+Player 1	ags	0	13		3	HUMAN 	137
+Player 2	is	3.734	16		2	GADDAG	154	1	109	is
+Player 1	voe	0	7		2	HUMAN 	144
+Player 2	git	4.67	7		2	GADDAG	161	1	115	gt
+Player 1	de	0	10		2	HUMAN 	154
+Player 2	essence	6.081	11		4	GADDAG	172	1	118	ence
+Player 1	roar	0	8		4	HUMAN 	162
+Player 2	ta	4.609	10		2	GADDAG	182	1	139	ta
+Player 1	firn	0	21		4	HUMAN 	183
+Player 2	ug	7.537	11		2	GADDAG	193	1	149	ug
+Player 1	oo	0	2		1	HUMAN 	185
+Player 2	dex	4.255	11		1	GADDAG	204	1	152	x
+Player 1	nan	0	16		3	HUMAN 	201
+Player 2	peat	5.308	6		1	GADDAG	210	1	161	t
+Player 1	qi	0	11		1	HUMAN 	212
+winner : Player 1
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 212
+player 2 duration : 
+player 2 left tile : 5
+player 2 total score : 210

@@ -1,0 +1,10 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	fumes	14.704	20		5	HUMAN 	20
+Player 2	bumph	1.52	20		4	GADDAG	20	1	17	bmph
+Player 1	brus	37.576	6		3	HUMAN 	26
+Player 2	my	2.213	14		1	GADDAG	34	1	33	y
+Player 1	rule	7.041	6		3	HUMAN 	32
+Player 2	ug	3.528	10		1	GADDAG	44	1	39	g
+Player 1	fyces	15.934	17		4	HUMAN 	49

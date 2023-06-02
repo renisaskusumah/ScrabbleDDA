@@ -1,0 +1,9 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	jiz	0	38	3	HUMAN	38
+Player 2	sowm	63.018	20	4	GADDAG	20	1	11	sowm
+Player 1	mis	0	5	1	HUMAN	43
+Player 2	hub	33.711	16	3	GADDAG	36	1	20	hub
+Player 1	big	0	7	2	HUMAN	50
+Player 2	dux	15.992	21	3	GADDAG	57	1	32	dux
+Player 1	bet	0	23	3	HUMAN	73
+Player 2	rud	10.855	19	1	GADDAG	76	1	39	rud

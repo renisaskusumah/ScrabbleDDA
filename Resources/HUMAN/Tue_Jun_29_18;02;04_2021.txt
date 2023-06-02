@@ -1,0 +1,12 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	blew	21.185	16		4	HUMAN 	16
+Player 2	by	15.383	7		1	GADDAG	7	1	14	y
+Player 1	twin	30.682	7		3	HUMAN 	23
+Player 2	it	33.337	2		1	GADDAG	9	1	23	t
+Player 1	to	8.166	4		1	HUMAN 	27
+Player 2	nos	107.112	3		1	GADDAG	12	1	26	s
+Player 1	tow	27.048	6		1	HUMAN 	33
+Player 2	nosh	141.435	15		1	GADDAG	27	1	29	h
+Player 1	thud	24.421	9		3	HUMAN 	42

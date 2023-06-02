@@ -1,0 +1,42 @@
+******HUMAN TURN******
+
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 7
+word : swy anchor( col :  7 row : 7 ) score : 18 new tiles : swy    Heuristic : 13.5
+word : sly anchor( col :  7 row : 7 ) score : 12 new tiles : sly    Heuristic : 5.5
+word : swy anchor( col :  7 row : 7 ) score : 18 new tiles : swy    Heuristic : 13.5
+word : wry anchor( col :  7 row : 7 ) score : 18 new tiles : wry    Heuristic : 19.5
+word : swy anchor( col :  7 row : 7 ) score : 18 new tiles : swy    Heuristic : 13.5
+word : wry anchor( col :  7 row : 7 ) score : 18 new tiles : wry    Heuristic : 19.5
+word : dry anchor( col :  7 row : 7 ) score : 14 new tiles : dry    Heuristic : 11.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 7
+word : sly anchor( col :  7 row : 7 ) score : 12 new tiles : sly    Heuristic : 5.5
+word : dry anchor( col :  7 row : 7 ) score : 14 new tiles : dry    Heuristic : 11.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 7
+word : wry anchor( col :  7 row : 7 ) score : 18 new tiles : wry    Heuristic : 19.5
+word : dry anchor( col :  7 row : 7 ) score : 14 new tiles : dry    Heuristic : 11.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 7
+word : sly anchor( col :  7 row : 7 ) score : 12 new tiles : sly    Heuristic : 5.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 7
+word : swy anchor( col :  7 row : 7 ) score : 18 new tiles : swy    Heuristic : 13.5
+word : swy anchor( col :  7 row : 7 ) score : 18 new tiles : swy    Heuristic : 13.5
+word : wry anchor( col :  7 row : 7 ) score : 18 new tiles : wry    Heuristic : 19.5
+word : dry anchor( col :  7 row : 7 ) score : 14 new tiles : dry    Heuristic : 11.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 7
+word : sly anchor( col :  7 row : 7 ) score : 12 new tiles : sly    Heuristic : 5.5
+word : wry anchor( col :  7 row : 7 ) score : 18 new tiles : wry    Heuristic : 19.5
+word : dry anchor( col :  7 row : 7 ) score : 14 new tiles : dry    Heuristic : 11.5
+word : drys anchor( col :  7 row : 7 ) score : 16 new tiles : drys    Heuristic : 7
+word : sly anchor( col :  7 row : 7 ) score : 12 new tiles : sly    Heuristic : 5.5
+-------HUMAN CLICK HINT-------
+
+
+
+******HUMAN RESULT******
+RACK : SWYDRLL
+
+HUMAN MOVE : drys , new tiles : sydr , score : 16 , direction : 1 , col : 11 , row : 7
+
+
+******COMPUTER TURN******
+RACK : swvlqlp
+

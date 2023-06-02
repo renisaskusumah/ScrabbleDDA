@@ -1,0 +1,7 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	go	6.101	6		2	HUMAN 	6
+Player 2	vae	2.224	11		3	GADDAG	11	3	8	vae
+Player 1	ba	26.501	4		1	HUMAN 	10
+Player 2	veld	31.581	12		3	GADDAG	23	3	17	eld

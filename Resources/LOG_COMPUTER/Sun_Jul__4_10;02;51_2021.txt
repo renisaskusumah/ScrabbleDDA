@@ -1,0 +1,71 @@
+******HUMAN TURN******
+
+word : lum anchor( col :  7 row : 7 ) score : 10 new tiles : lum    Heuristic : 5
+word : lux anchor( col :  7 row : 7 ) score : 20 new tiles : lux    Heuristic : 16.5
+word : luz anchor( col :  7 row : 7 ) score : 24 new tiles : luz    Heuristic : 15
+word : hum anchor( col :  7 row : 7 ) score : 16 new tiles : hum    Heuristic : 9.5
+word : mu anchor( col :  7 row : 7 ) score : 8 new tiles : mu    Heuristic : 1
+word : mux anchor( col :  7 row : 7 ) score : 24 new tiles : mux    Heuristic : 21.5
+word : mum anchor( col :  7 row : 7 ) score : 14 new tiles : mum    Heuristic : 9
+word : xu anchor( col :  7 row : 7 ) score : 18 new tiles : xu    Heuristic : 12.5
+word : uh anchor( col :  7 row : 7 ) score : 10 new tiles : uh    Heuristic : 0.5
+word : um anchor( col :  7 row : 7 ) score : 8 new tiles : um    Heuristic : 1
+word : umm anchor( col :  7 row : 7 ) score : 14 new tiles : umm    Heuristic : 9
+word : lum anchor( col :  7 row : 7 ) score : 10 new tiles : lum    Heuristic : 5
+word : lux anchor( col :  7 row : 7 ) score : 20 new tiles : lux    Heuristic : 16.5
+word : luz anchor( col :  7 row : 7 ) score : 24 new tiles : luz    Heuristic : 15
+word : uh anchor( col :  7 row : 7 ) score : 10 new tiles : uh    Heuristic : 0.5
+word : hum anchor( col :  7 row : 7 ) score : 16 new tiles : hum    Heuristic : 9.5
+word : hm anchor( col :  7 row : 7 ) score : 14 new tiles : hm    Heuristic : 6.5
+word : hmm anchor( col :  7 row : 7 ) score : 20 new tiles : hmm    Heuristic : 14.5
+word : um anchor( col :  7 row : 7 ) score : 8 new tiles : um    Heuristic : 1
+word : lum anchor( col :  7 row : 7 ) score : 10 new tiles : lum    Heuristic : 5
+word : hum anchor( col :  7 row : 7 ) score : 16 new tiles : hum    Heuristic : 9.5
+word : mum anchor( col :  7 row : 7 ) score : 14 new tiles : mum    Heuristic : 9
+word : umm anchor( col :  7 row : 7 ) score : 14 new tiles : umm    Heuristic : 9
+word : hm anchor( col :  7 row : 7 ) score : 14 new tiles : hm    Heuristic : 6.5
+word : hmm anchor( col :  7 row : 7 ) score : 20 new tiles : hmm    Heuristic : 14.5
+word : mm anchor( col :  7 row : 7 ) score : 12 new tiles : mm    Heuristic : 6
+word : umm anchor( col :  7 row : 7 ) score : 14 new tiles : umm    Heuristic : 9
+word : hmm anchor( col :  7 row : 7 ) score : 20 new tiles : hmm    Heuristic : 14.5
+word : mu anchor( col :  7 row : 7 ) score : 8 new tiles : mu    Heuristic : 1
+word : mux anchor( col :  7 row : 7 ) score : 24 new tiles : mux    Heuristic : 21.5
+word : mum anchor( col :  7 row : 7 ) score : 14 new tiles : mum    Heuristic : 9
+word : mm anchor( col :  7 row : 7 ) score : 12 new tiles : mm    Heuristic : 6
+word : lux anchor( col :  7 row : 7 ) score : 20 new tiles : lux    Heuristic : 16.5
+word : mux anchor( col :  7 row : 7 ) score : 24 new tiles : mux    Heuristic : 21.5
+word : xu anchor( col :  7 row : 7 ) score : 18 new tiles : xu    Heuristic : 12.5
+word : luz anchor( col :  7 row : 7 ) score : 24 new tiles : luz    Heuristic : 15
+word : lum anchor( col :  7 row : 7 ) score : 10 new tiles : lum    Heuristic : 5
+word : lux anchor( col :  7 row : 7 ) score : 20 new tiles : lux    Heuristic : 16.5
+word : luz anchor( col :  7 row : 7 ) score : 24 new tiles : luz    Heuristic : 15
+word : hum anchor( col :  7 row : 7 ) score : 16 new tiles : hum    Heuristic : 9.5
+word : mu anchor( col :  7 row : 7 ) score : 8 new tiles : mu    Heuristic : 1
+word : mux anchor( col :  7 row : 7 ) score : 24 new tiles : mux    Heuristic : 21.5
+word : mum anchor( col :  7 row : 7 ) score : 14 new tiles : mum    Heuristic : 9
+word : xu anchor( col :  7 row : 7 ) score : 18 new tiles : xu    Heuristic : 12.5
+word : uh anchor( col :  7 row : 7 ) score : 10 new tiles : uh    Heuristic : 0.5
+word : um anchor( col :  7 row : 7 ) score : 8 new tiles : um    Heuristic : 1
+word : lum anchor( col :  7 row : 7 ) score : 10 new tiles : lum    Heuristic : 5
+word : hum anchor( col :  7 row : 7 ) score : 16 new tiles : hum    Heuristic : 9.5
+word : mum anchor( col :  7 row : 7 ) score : 14 new tiles : mum    Heuristic : 9
+word : umm anchor( col :  7 row : 7 ) score : 14 new tiles : umm    Heuristic : 9
+word : hm anchor( col :  7 row : 7 ) score : 14 new tiles : hm    Heuristic : 6.5
+word : hmm anchor( col :  7 row : 7 ) score : 20 new tiles : hmm    Heuristic : 14.5
+word : mm anchor( col :  7 row : 7 ) score : 12 new tiles : mm    Heuristic : 6
+word : umm anchor( col :  7 row : 7 ) score : 14 new tiles : umm    Heuristic : 9
+word : hmm anchor( col :  7 row : 7 ) score : 20 new tiles : hmm    Heuristic : 14.5
+word : lux anchor( col :  7 row : 7 ) score : 20 new tiles : lux    Heuristic : 16.5
+word : mux anchor( col :  7 row : 7 ) score : 24 new tiles : mux    Heuristic : 21.5
+word : luz anchor( col :  7 row : 7 ) score : 24 new tiles : luz    Heuristic : 15
+POSSIBLE MOVEMENT : 58
+Hasil evaluasi : hum , score : 16 , direction :2 ,i: 6 j: 7 Heuristic: 9.5
+
+
+
+******HUMAN RESULT******
+RACK : 
+
+HUMAN MOVE : hum , new tiles : hum , score : 16 , direction : 2 , col : 7 , row : 6
+
+

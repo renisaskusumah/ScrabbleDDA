@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	brut	23.371	12		4	HUMAN 	12
+Player 2	brute	5.224	8		1	GADDAG	8	1	14	e
+Player 1	quag	18.775	18		3	HUMAN 	30

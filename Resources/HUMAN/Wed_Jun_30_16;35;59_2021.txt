@@ -1,0 +1,12 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	deer	19.971	10		4	HUMAN 	10
+Player 2	ord	74.197	4		2	GADDAG	4	1	14	or
+Player 1	eve	8.694	10		2	HUMAN 	20
+Player 2	od	22.256	3		0	GADDAG	7	1	23	
+Player 1	en	10.498	4		1	HUMAN 	24
+Player 2	caz	66.604	24		3	GADDAG	31	1	25	c*z
+Player 1	quacks	25.858	47		5	HUMAN 	71
+Player 2	caz	94.537	24		0	GADDAG	55	1	42	
+Player 1	us	74.888	2		1	HUMAN 	73

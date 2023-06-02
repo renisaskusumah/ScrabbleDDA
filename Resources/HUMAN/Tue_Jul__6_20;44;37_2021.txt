@@ -1,0 +1,3 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	dux	0	22	3	HUMAN	22
+Player 2	duka	25.321	17	4	GADDAG	17	1	11	duka

@@ -1,0 +1,55 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	gus	0	8	3	HUMAN	8
+Player 2	misgo	1.71	10	4	GADDAG	10	1	11	miso
+Player 1	wig	0	7	2	HUMAN	15
+Player 2	swig	7.34	8	1	GADDAG	18	1	23	s
+Player 1	inspan	0	18	5	HUMAN	33
+Player 2	argus	12.498	6	1	GADDAG	24	1	37	r
+Player 1	yip	0	7	2	HUMAN	40
+Player 2	my	4.181	13	1	GADDAG	37	1	41	m
+Player 1	friz	0	20	3	HUMAN	60
+Player 2	wof	17.469	18	2	GADDAG	55	1	48	wo
+Player 1	sand	0	5	3	HUMAN	65
+Player 2	wyn	4.229	9	2	GADDAG	64	1	61	yn
+Player 1	fan	0	7	2	HUMAN	72
+Player 2	fad	7.552	6	2	GADDAG	70	1	69	*d
+Player 1	tug	0	8	2	HUMAN	80
+Player 2	wynd	7.072	11	1	GADDAG	81	1	78	d
+Player 1	hid	0	7	2	HUMAN	87
+Player 2	ah	3.968	9	1	GADDAG	90	1	84	h
+Player 1	bo	0	8	2	HUMAN	95
+Player 2	aha	14.774	9	1	GADDAG	99	1	88	a
+Player 1	nub	0	11	2	HUMAN	106
+Player 2	fads	7.515	8	1	GADDAG	107	1	94	s
+Player 1	dal	0	4	1	HUMAN	110
+Player 2	ora	10.068	7	1	GADDAG	114	1	97	r
+Player 1	it	0	2	1	HUMAN	112
+Player 2	lip	17.34	10	2	GADDAG	124	1	98	ip
+Player 1	birk	0	11	3	HUMAN	123
+Player 2	bot	8.629	10	1	GADDAG	134	1	111	t
+Player 1	pa	0	4	1	HUMAN	127
+Player 2	nat	16.06	5	2	GADDAG	139	1	114	nt
+Player 1	qi	0	11	1	HUMAN	138
+Player 2	lipe	17.078	8	1	GADDAG	147	1	117	e
+Player 1	rob	0	5	2	HUMAN	143
+Player 2	vet	15.272	6	1	GADDAG	153	1	123	v
+Player 1	kill	0	16	3	HUMAN	159
+Player 2	pax	9.671	12	1	GADDAG	165	1	133	x
+Player 1	vole	0	9	3	HUMAN	168
+Player 2	voled	5.099	9	1	GADDAG	174	1	137	d
+Player 1	doc	0	7	2	HUMAN	175
+Player 2	doco	8.597	8	1	GADDAG	182	1	145	o
+Player 1	rit	0	7	3	HUMAN	182
+Player 2	robe	20.072	6	1	GADDAG	188	1	155	e
+Player 1	jee	0	24	3	HUMAN	206
+Player 2	evet	20.928	14	1	GADDAG	202	1	165	e
+Player 1	toe	0	5	2	HUMAN	211
+Player 2	cor	27.552	5	1	GADDAG	207	1	168	c
+Player 1	aa	0	17	2	HUMAN	228
+winner : Player 1
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 228
+player 2 duration : 
+player 2 left tile : 5
+player 2 total score : 207

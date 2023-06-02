@@ -1,0 +1,17 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	glid	8.882	12		4	HUMAN 	12
+Player 2	ha	2.744	12		2	GADDAG	12	1	14	ha
+Player 1	jimp	7.759	21		3	HUMAN 	33
+Player 2	-	5.675	0		0	GADDAG	12	0	23	
+Player 1	mags	9.086	7		2	HUMAN 	40
+Player 2	mi	25.852	4		1	GADDAG	16	1	27	i
+Player 1	poll	8.462	6		3	HUMAN 	46
+Player 2	bub	20.754	18		3	GADDAG	34	1	36	bub
+Player 1	glide	14.43	16		4	HUMAN 	62
+Player 2	xu	24.748	9		1	GADDAG	43	1	53	x
+Player 1	peek	8.958	10		3	HUMAN 	72
+Player 2	gib	62.277	15		2	GADDAG	58	1	60	gi
+Player 1	pow	10.727	12		2	HUMAN 	84
+Player 2	wha	34.31	9		1	GADDAG	67	1	68	w

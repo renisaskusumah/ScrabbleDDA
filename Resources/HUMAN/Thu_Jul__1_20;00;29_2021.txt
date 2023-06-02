@@ -1,0 +1,50 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	bams	16.178	16		4	HUMAN 	16
+Player 2	divo	1.208	14		4	GADDAG	14	1	14	divo
+Player 1	frijol	41.946	30		5	HUMAN 	46
+Player 2	my	7.369	26		2	GADDAG	40	1	35	my
+Player 1	raps	22.673	5		3	HUMAN 	51
+Player 2	zaftig	3.713	19		5	GADDAG	59	1	45	zatig
+Player 1	volk	85.366	21		3	HUMAN 	72
+Player 2	divos	5.244	14		1	GADDAG	73	1	63	s
+Player 1	catch	11.271	12		4	HUMAN 	84
+Player 2	volks	4.724	12		1	GADDAG	85	1	70	s
+Player 1	targa	27.76	25		5	HUMAN 	109
+Player 2	inwraps	2.505	14		3	GADDAG	99	1	85	inw
+Player 1	whip	19.437	18		4	HUMAN 	127
+Player 2	-	4.787	0		0	GADDAG	99	0	100	
+Player 1	noxal	25.848	30		5	HUMAN 	157
+Player 2	-	4.433	0		0	GADDAG	99	0	111	
+Player 1	all	28.244	6		2	HUMAN 	163
+Player 2	biali	250.539	13		4	GADDAG	112	1	114	bial
+Player 1	or	32.153	2		1	HUMAN 	165
+Player 2	yo	11.417	16		2	GADDAG	128	1	126	yo
+Player 1	vag	30.055	9		2	HUMAN 	174
+Player 2	oners	5.112	15		4	GADDAG	143	1	131	oers
+Player 1	tare	16.986	42		2	HUMAN 	216
+Player 2	ex	5.092	18		1	GADDAG	161	1	140	e
+Player 1	tad	5.508	7		2	HUMAN 	223
+Player 2	di	7.359	22		1	GADDAG	183	1	145	i
+Player 1	diet	4.11	5		2	HUMAN 	228
+Player 2	fall	14.356	7		1	GADDAG	190	1	151	f
+Player 1	equid	31.084	37		5	HUMAN 	265
+Player 2	-	4.452	0		0	GADDAG	190	0	166	
+Player 1	rennin	35.921	23		6	HUMAN 	288
+Player 2	-	4.459	0		0	GADDAG	190	0	170	
+Player 1	euro	30.488	15		3	HUMAN 	303
+Player 2	tronc	2.333	16		3	GADDAG	206	1	172	ton
+Player 1	sue	13.228	3		2	HUMAN 	306
+Player 2	odea	5.351	12		3	GADDAG	218	1	177	ode
+Player 1	ee	9.294	7		2	HUMAN 	313
+Player 2	-	3.017	0		0	GADDAG	218	0	183	
+Player 1	ed	6.718	6		1	HUMAN 	319
+Player 2	rin	8.178	10		1	GADDAG	228	1	184	i
+winner : Player 1
+left tile (letter bag): 0
+player 1 left tile : 1
+player 1 total skor : 319
+player 2 duration : 
+player 2 left tile : 0
+player 2 total score : 228

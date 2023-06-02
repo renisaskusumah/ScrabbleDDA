@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	wany	0	20		4	HUMAN 	20
+Player 2	dewy	2.188	15		3	GADDAG	15	1	14	dey

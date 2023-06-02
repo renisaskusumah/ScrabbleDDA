@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	da	0	6		2	HUMAN 	6
+Player 2	pe	0.829	10		2	GADDAG	10	1	8	pe
+Player 1	jow	0	32		3	HUMAN 	38

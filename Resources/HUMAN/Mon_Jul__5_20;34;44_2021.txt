@@ -1,0 +1,12 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	pan	0	10	3	HUMAN	10
+Player 2	pan	0.003	10	0	GADDAG	10	0	11	
+Player 1	la	0	3	1	HUMAN	13
+Player 2	la	0.001	3	0	GADDAG	13	0	12	
+Player 1	nugae	0	7	4	HUMAN	20
+Player 2	nugae	0.001	7	0	GADDAG	20	0	23	
+Player 1	doe	0	2	2	HUMAN	22
+Player 2	doe	0.006	2	0	GADDAG	22	0	28	
+Player 1	sax	0	15	3	HUMAN	37
+Player 2	sax	0.001	15	0	GADDAG	37	0	35	
+Player 1	ohm	0	12	2	HUMAN	49

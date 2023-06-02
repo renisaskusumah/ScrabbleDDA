@@ -1,0 +1,43 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	broch	26.711	32		5	HUMAN 	32
+Player 2	synching	59.458	84		7	GADDAG	84	1	17	syncing
+Player 1	bongs	35.206	12		4	HUMAN 	44
+Player 2	qibla	76.761	18		5	GADDAG	102	1	42	qi*la
+Player 1	fats	21.861	7		3	HUMAN 	51
+Player 2	-	42.937	0		0	GADDAG	102	0	63	
+Player 1	bolt	10.84	5		3	HUMAN 	56
+Player 2	zin	5.143	14		2	GADDAG	116	1	70	zn
+Player 1	veld	100.019	23		3	HUMAN 	79
+Player 2	oy	4.798	15		2	GADDAG	131	1	74	oy
+Player 1	grunted	143.861	68		7	HUMAN 	147
+Player 2	hunk	12.98	19		3	GADDAG	150	1	93	hnk
+Player 1	peak	29.606	48		3	HUMAN 	195
+Player 2	xu	34.51	21		2	GADDAG	171	1	101	xu
+Player 1	difs	19.693	20		4	HUMAN 	215
+Player 2	jabs	43.087	22		2	GADDAG	193	1	114	js
+Player 1	grow	18.388	8		3	HUMAN 	223
+Player 2	world	13.426	34		4	GADDAG	227	1	124	wrld
+Player 1	glow	29.047	29		3	HUMAN 	252
+Player 2	item	51.528	20		4	GADDAG	247	1	136	item
+Player 1	taxa	18.966	33		3	HUMAN 	285
+Player 2	impi	82.304	31		4	GADDAG	278	1	153	impi
+Player 1	rata	30.319	22		4	HUMAN 	307
+Player 2	aiver	88.583	19		5	GADDAG	297	1	160	aiver
+Player 1	ee	19.9	14		2	HUMAN 	321
+Player 2	broche	67.921	13		1	GADDAG	310	1	176	e
+Player 1	oho	29.217	10		2	HUMAN 	331
+Player 2	eale	35.339	8		3	GADDAG	318	1	178	eae
+Player 1	jo	11.27	9		1	HUMAN 	340
+Player 2	-	34.829	0		0	GADDAG	318	0	181	
+Player 1	ee	19.3	6		2	HUMAN 	346
+Player 2	rei	8.753	6		1	GADDAG	324	1	184	i
+Player 1	it	12.552	2		1	HUMAN 	348
+winner : Player 1
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 348
+player 2 duration : 
+player 2 left tile : 2
+player 2 total score : 324

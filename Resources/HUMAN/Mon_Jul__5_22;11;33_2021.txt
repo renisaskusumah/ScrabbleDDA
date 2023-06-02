@@ -1,0 +1,46 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	dusk	0	18	4	HUMAN	18
+Player 2	hurds	13.251	18	4	GADDAG	18	1	14	hurs
+Player 1	ay	0	15	2	HUMAN	33
+Player 2	dusky	0.219	13	1	GADDAG	31	1	28	y
+Player 1	bapu	0	14	3	HUMAN	47
+Player 2	why	5.629	12	1	GADDAG	43	1	37	w
+Player 1	st	0	10	1	HUMAN	57
+Player 2	wyn	6.543	14	1	GADDAG	57	1	39	w
+Player 1	ag	0	5	1	HUMAN	62
+Player 2	wynn	0.375	10	1	GADDAG	67	1	42	n
+Player 1	neb	0	6	2	HUMAN	68
+Player 2	nurr	2.272	5	1	GADDAG	72	1	49	r
+Player 1	sneb	0	6	1	HUMAN	74
+Player 2	xu	10.257	9	0	GADDAG	81	1	52	
+Player 1	rust	0	5	2	HUMAN	79
+Player 2	on	7.508	15	0	GADDAG	96	1	55	
+Player 1	ny	0	1	1	HUMAN	80
+Player 2	puton	1.299	8	0	GADDAG	104	1	55	
+Player 1	os	0	1	1	HUMAN	81
+Player 2	po	6.63	8	1	GADDAG	112	1	57	o
+Player 1	hm	0	12	2	HUMAN	93
+Player 2	top	6.863	9	1	GADDAG	121	1	63	t
+Player 1	bos	0	7	1	HUMAN	100
+Player 2	tot	13.491	3	1	GADDAG	124	1	66	t
+Player 1	of	0	4	1	HUMAN	104
+Player 2	op	5.418	11	0	GADDAG	135	1	69	
+Player 1	trust	0	5	1	HUMAN	109
+Player 2	up	5.969	6	0	GADDAG	141	1	71	
+Player 1		0	0	0	HUMAN	109
+Player 2	pus	8.989	8	0	GADDAG	149	1	71	
+Player 1		0	0	0	HUMAN	109
+Player 2	ay	8.574	5	1	GADDAG	154	1	71	a
+Player 1	ja	0	9	1	HUMAN	118
+Player 2	pay	6.483	8	0	GADDAG	162	1	74	
+Player 1	tays	0	7	1	HUMAN	125
+Player 2	pe	8.424	5	1	GADDAG	167	1	75	e
+Player 1	an	0	9	1	HUMAN	134
+Player 2	pe	7.474	4	1	GADDAG	171	1	78	p
+Player 1	tam	0	5	2	HUMAN	139
+Player 2	peg	8.305	9	0	GADDAG	180	1	83	
+Player 1	nod	0	13	3	HUMAN	152
+Player 2	pug	14.168	10	2	GADDAG	190	1	89	ug
+Player 1	glim	0	8	3	HUMAN	160
+Player 2	gup	14.135	10	0	GADDAG	200	1	97	
+Player 1	laird	0	12	4	HUMAN	172

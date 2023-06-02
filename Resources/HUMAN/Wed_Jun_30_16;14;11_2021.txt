@@ -1,0 +1,5 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	pax	6.744	24		3	HUMAN 	24
+Player 2		18.089	-842150451		0	GADDAG	-842150451	1	11	

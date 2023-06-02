@@ -1,0 +1,3 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	ag	10.251	6		2	HUMAN 	6
+Player 2	za	0.035	21	1	GADDAG	21	1	8	z

@@ -1,0 +1,88 @@
+******HUMAN TURN******
+
+word : wiz anchor( col :  7 row : 7 ) score : 30 new tiles : wiz    Heuristic : 23
+word : di anchor( col :  7 row : 7 ) score : 6 new tiles : di    Heuristic : -4
+word : div anchor( col :  7 row : 7 ) score : 14 new tiles : div    Heuristic : 10.5
+word : vid anchor( col :  7 row : 7 ) score : 14 new tiles : vid    Heuristic : 10.5
+word : durzi anchor( col :  7 row : 7 ) score : 34 new tiles : durzi    Heuristic : 23.5
+word : rid anchor( col :  7 row : 7 ) score : 8 new tiles : rid    Heuristic : -2.5
+word : riz anchor( col :  7 row : 7 ) score : 24 new tiles : riz    Heuristic : 11.5
+word : dui anchor( col :  7 row : 7 ) score : 8 new tiles : dui    Heuristic : -1
+word : id anchor( col :  7 row : 7 ) score : 6 new tiles : id    Heuristic : -4
+word : wiz anchor( col :  7 row : 7 ) score : 30 new tiles : wiz    Heuristic : 23
+word : wud anchor( col :  7 row : 7 ) score : 14 new tiles : wud    Heuristic : 11.5
+word : id anchor( col :  7 row : 7 ) score : 6 new tiles : id    Heuristic : -4
+word : vid anchor( col :  7 row : 7 ) score : 14 new tiles : vid    Heuristic : 10.5
+word : rid anchor( col :  7 row : 7 ) score : 8 new tiles : rid    Heuristic : -2.5
+word : urd anchor( col :  7 row : 7 ) score : 8 new tiles : urd    Heuristic : 0
+word : wud anchor( col :  7 row : 7 ) score : 14 new tiles : wud    Heuristic : 11.5
+word : rud anchor( col :  7 row : 7 ) score : 8 new tiles : rud    Heuristic : 0
+word : di anchor( col :  7 row : 7 ) score : 6 new tiles : di    Heuristic : -4
+word : div anchor( col :  7 row : 7 ) score : 14 new tiles : div    Heuristic : 10.5
+word : dui anchor( col :  7 row : 7 ) score : 8 new tiles : dui    Heuristic : -1
+word : durzi anchor( col :  7 row : 7 ) score : 32 new tiles : durzi    Heuristic : 21.5
+word : div anchor( col :  7 row : 7 ) score : 14 new tiles : div    Heuristic : 10.5
+word : vid anchor( col :  7 row : 7 ) score : 14 new tiles : vid    Heuristic : 10.5
+word : wiz anchor( col :  7 row : 7 ) score : 30 new tiles : wiz    Heuristic : 23
+word : riz anchor( col :  7 row : 7 ) score : 24 new tiles : riz    Heuristic : 11.5
+word : durzi anchor( col :  7 row : 7 ) score : 30 new tiles : durzi    Heuristic : 19.5
+word : ur anchor( col :  7 row : 7 ) score : 4 new tiles : ur    Heuristic : -5
+word : durzi anchor( col :  7 row : 7 ) score : 30 new tiles : durzi    Heuristic : 19.5
+word : urd anchor( col :  7 row : 7 ) score : 8 new tiles : urd    Heuristic : 0
+word : rid anchor( col :  7 row : 7 ) score : 8 new tiles : rid    Heuristic : -2.5
+word : riz anchor( col :  7 row : 7 ) score : 24 new tiles : riz    Heuristic : 11.5
+word : rud anchor( col :  7 row : 7 ) score : 8 new tiles : rud    Heuristic : 0
+word : wud anchor( col :  7 row : 7 ) score : 14 new tiles : wud    Heuristic : 11.5
+word : dui anchor( col :  7 row : 7 ) score : 8 new tiles : dui    Heuristic : -1
+word : durzi anchor( col :  7 row : 7 ) score : 30 new tiles : durzi    Heuristic : 19.5
+word : rud anchor( col :  7 row : 7 ) score : 8 new tiles : rud    Heuristic : 0
+word : ur anchor( col :  7 row : 7 ) score : 4 new tiles : ur    Heuristic : -5
+word : urd anchor( col :  7 row : 7 ) score : 8 new tiles : urd    Heuristic : 0
+word : wiz anchor( col :  7 row : 7 ) score : 30 new tiles : wiz    Heuristic : 23
+word : di anchor( col :  7 row : 7 ) score : 6 new tiles : di    Heuristic : -4
+word : div anchor( col :  7 row : 7 ) score : 14 new tiles : div    Heuristic : 10.5
+word : vid anchor( col :  7 row : 7 ) score : 14 new tiles : vid    Heuristic : 10.5
+word : durzi anchor( col :  7 row : 7 ) score : 34 new tiles : durzi    Heuristic : 23.5
+word : rid anchor( col :  7 row : 7 ) score : 8 new tiles : rid    Heuristic : -2.5
+word : riz anchor( col :  7 row : 7 ) score : 24 new tiles : riz    Heuristic : 11.5
+word : dui anchor( col :  7 row : 7 ) score : 8 new tiles : dui    Heuristic : -1
+word : id anchor( col :  7 row : 7 ) score : 6 new tiles : id    Heuristic : -4
+word : vid anchor( col :  7 row : 7 ) score : 14 new tiles : vid    Heuristic : 10.5
+word : rid anchor( col :  7 row : 7 ) score : 8 new tiles : rid    Heuristic : -2.5
+word : urd anchor( col :  7 row : 7 ) score : 8 new tiles : urd    Heuristic : 0
+word : wud anchor( col :  7 row : 7 ) score : 14 new tiles : wud    Heuristic : 11.5
+word : rud anchor( col :  7 row : 7 ) score : 8 new tiles : rud    Heuristic : 0
+word : div anchor( col :  7 row : 7 ) score : 14 new tiles : div    Heuristic : 10.5
+word : wiz anchor( col :  7 row : 7 ) score : 30 new tiles : wiz    Heuristic : 23
+word : riz anchor( col :  7 row : 7 ) score : 24 new tiles : riz    Heuristic : 11.5
+word : durzi anchor( col :  7 row : 7 ) score : 30 new tiles : durzi    Heuristic : 19.5
+word : ur anchor( col :  7 row : 7 ) score : 4 new tiles : ur    Heuristic : -5
+word : durzi anchor( col :  7 row : 7 ) score : 30 new tiles : durzi    Heuristic : 19.5
+word : urd anchor( col :  7 row : 7 ) score : 8 new tiles : urd    Heuristic : 0
+word : wud anchor( col :  7 row : 7 ) score : 14 new tiles : wud    Heuristic : 11.5
+word : dui anchor( col :  7 row : 7 ) score : 8 new tiles : dui    Heuristic : -1
+word : durzi anchor( col :  7 row : 7 ) score : 30 new tiles : durzi    Heuristic : 19.5
+word : rud anchor( col :  7 row : 7 ) score : 8 new tiles : rud    Heuristic : 0
+POSSIBLE MOVEMENT : 63
+******HUMAN RESULT******
+RACK : 
+
+HUMAN MOVE : div , new tiles : div , score : 14 , direction : 1 , col : 5 , row : 7
+
+
+******COMPUTER TURN******
+RACK : rjwgrdy
+
+word : grid anchor( col :  6 row : 6 ) score : 9 new tiles : grd    Heuristic : -1.5
+word : gyri anchor( col :  6 row : 6 ) score : 9 new tiles : gyr    Heuristic : 0.5
+word : rig anchor( col :  6 row : 6 ) score : 7 new tiles : rg    Heuristic : -4.5
+word : rid anchor( col :  6 row : 6 ) score : 7 new tiles : rd    Heuristic : -6.5
+word : ridgy anchor( col :  6 row : 6 ) score : 13 new tiles : rdgy    Heuristic : 5.5
+word : gi anchor( col :  6 row : 6 ) score : 5 new tiles : g    Heuristic : -11
+word : di anchor( col :  6 row : 6 ) score : 5 new tiles : d    Heuristic : -13
+word : id anchor( col :  6 row : 8 ) score : 5 new tiles : d    Heuristic : -13
+Hasil evaluasi : grd , score : 9 , direction :2 ,i: 5 j: 6 Heuristic: -1.5
+
+
+
+POSSIBLE MOVEMENT : 1

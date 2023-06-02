@@ -1,0 +1,6 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	vibs	0	18	4	HUMAN	18
+Player 2	votive	20.358	16	5	GADDAG	16	1	14	votie
+Player 1	grok	0	9	3	HUMAN	27
+Player 2	jugs	11.913	14	3	GADDAG	30	1	32	jus
+Player 1	lues	0	4	3	HUMAN	31

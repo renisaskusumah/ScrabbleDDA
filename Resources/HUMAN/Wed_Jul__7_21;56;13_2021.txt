@@ -1,0 +1,4 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	fa	0	10	2	HUMAN	10
+Player 2	do	18.693	10	2	GADDAG	10	1	8	do
+Player 1	ice	0	10	3	HUMAN	20

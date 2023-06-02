@@ -1,0 +1,61 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	ean	0	6	3	HUMAN	6
+Player 2	ya	0.468	9	1	GADDAG	9	1	11	y
+Player 1	ploy	0	25	4	HUMAN	31
+Player 2	fro	10.739	10	2	GADDAG	19	1	23	fr
+Player 1	swy	0	17	3	HUMAN	48
+Player 2	mould	28.499	25	4	GADDAG	44	1	35	moud
+Player 1	buy	0	4	2	HUMAN	52
+Player 2	prof	5.313	9	2	GADDAG	53	1	43	pr
+Player 1	tao	0	10	3	HUMAN	62
+Player 2	boh	6.09	8	1	GADDAG	61	1	54	h
+Player 1	pe	0	7	1	HUMAN	69
+Player 2	wited	87.477	16	3	GADDAG	77	1	58	wit
+Player 1	act	0	12	2	HUMAN	81
+Player 2	ploys	8.333	10	1	GADDAG	87	1	69	s
+Player 1	li	0	1	1	HUMAN	82
+Player 2	vaw	0.735	15	2	GADDAG	102	1	71	va
+Player 1	vugs	0	9	3	HUMAN	91
+Player 2	libs	2.416	8	2	GADDAG	110	1	82	bs
+Player 1	afro	0	11	1	HUMAN	102
+Player 2	bid	2.233	14	2	GADDAG	124	1	87	id
+Player 1	jot	0	10	2	HUMAN	112
+Player 2	gun	11.991	9	2	GADDAG	133	1	93	gu
+Player 1	urn	0	3	2	HUMAN	115
+Player 2	jots	1.517	22	1	GADDAG	155	1	98	s
+Player 1	of	0	5	1	HUMAN	120
+Player 2	ink	3.286	19	3	GADDAG	174	1	101	ink
+Player 1		0	0	0	HUMAN	120
+Player 2	ama	18.617	7	1	GADDAG	181	1	108	a
+Player 1		0	0	0	HUMAN	120
+Player 2	timid	4.64	19	3	GADDAG	200	1	109	mid
+Player 1	id	0	3	1	HUMAN	123
+Player 2	dol	5.571	11	2	GADDAG	211	1	114	ol
+Player 1	chic	0	12	2	HUMAN	135
+Player 2	fa	5.833	15	1	GADDAG	226	1	121	a
+Player 1	don	0	6	1	HUMAN	141
+Player 2	inti	3.112	13	4	GADDAG	239	1	123	inti
+Player 1	zig	0	26	2	HUMAN	167
+Player 2	gen	20.273	8	1	GADDAG	247	1	135	e
+Player 1	whio	0	10	3	HUMAN	177
+Player 2	noo	29.046	6	2	GADDAG	253	1	142	oo
+Player 1	lex	0	16	3	HUMAN	193
+Player 2	ex	17.149	11	1	GADDAG	264	1	152	e
+Player 1	ee	0	4	2	HUMAN	197
+Player 2	ern	36.093	9	3	GADDAG	273	1	157	ern
+Player 1	et	0	2	1	HUMAN	199
+Player 2	qi	10.524	11	1	GADDAG	284	1	162	q
+Player 1	ret	0	6	1	HUMAN	205
+Player 2	ago	23.413	4	1	GADDAG	288	1	162	a
+Player 1	chicer	0	13	2	HUMAN	218
+Player 2	ate	3.736	6	1	GADDAG	294	1	169	t
+Player 1	ee	0	8	2	HUMAN	226
+Player 2	dona	0.225	5	1	GADDAG	299	1	172	a
+Player 1	pi	0	8	1	HUMAN	234
+winner : Player 2
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 234
+player 2 duration : 
+player 2 left tile : 3
+player 2 total score : 299

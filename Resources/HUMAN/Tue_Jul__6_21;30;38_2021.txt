@@ -1,0 +1,10 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	lur	0	6	3	HUMAN	6
+Player 2	nu	36.237	8	2	GADDAG	8	1	11	nu
+Player 1	law	0	15	3	HUMAN	21
+Player 2	lawn	44.307	6	1	GADDAG	14	1	21	n
+Player 1	koa	0	7	2	HUMAN	28
+Player 2	blur	88.468	5	1	GADDAG	19	1	28	b
+Player 1	jo	0	15	2	HUMAN	43
+Player 2	blurb	53.278	8	0	GADDAG	27	1	33	b
+Player 1	ou	0	8	2	HUMAN	51

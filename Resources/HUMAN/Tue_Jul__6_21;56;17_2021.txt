@@ -1,0 +1,12 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	lum	0	10	3	HUMAN	10
+Player 2	gus	39.926	8	3	GADDAG	8	1	11	gus
+Player 1	runs	0	4	3	HUMAN	14
+Player 2	lose	23.67	5	2	GADDAG	13	1	24	ose
+Player 1	she	0	12	2	HUMAN	26
+Player 2	xis	26.074	10	2	GADDAG	23	1	33	xi
+Player 1	dug	0	14	3	HUMAN	40
+Player 2	ehs	36.881	6	0	GADDAG	29	1	41	eh
+Player 1	fug	0	5	1	HUMAN	45
+Player 2	smug	20.841	5	1	GADDAG	34	1	42	sm
+Player 1	bi	0	4	1	HUMAN	49

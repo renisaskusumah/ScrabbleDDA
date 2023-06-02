@@ -1,0 +1,4 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1		0	0	0	HUMAN	0
+Player 2	panax	10.56	44	5	GADDAG	44	1	225	panax
+Player 1	ka	0	11	1	HUMAN	11

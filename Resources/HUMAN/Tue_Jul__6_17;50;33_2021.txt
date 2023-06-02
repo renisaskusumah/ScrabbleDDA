@@ -1,0 +1,38 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	gu	0	6	2	HUMAN	6
+Player 2	mu	34.095	7	1	GADDAG	7	1	8	m
+Player 1	gul	0	4	1	HUMAN	10
+Player 2	mo	14.227	4	1	GADDAG	11	1	12	o
+Player 1	ky	0	17	2	HUMAN	27
+Player 2	mug	4.663	8	1	GADDAG	19	1	18	g
+Player 1	aw	0	18	2	HUMAN	45
+Player 2	mugg	9.335	8	0	GADDAG	27	1	23	
+Player 1	moyas	0	11	1	HUMAN	56
+Player 2	awn	4.727	6	1	GADDAG	33	1	25	n
+Player 1		0	0	0	HUMAN	56
+Player 2	nth	8.066	7	2	GADDAG	40	1	28	th
+Player 1	hm	0	13	1	HUMAN	69
+Player 2	puky	27.677	26	2	GADDAG	66	1	35	pu
+Player 1	nur	0	3	2	HUMAN	72
+Player 2	or	26.427	12	1	GADDAG	78	1	43	o
+Player 1	nurs	0	4	1	HUMAN	76
+Player 2	sot	62.563	8	0	GADDAG	86	1	46	
+Player 1	cor	0	5	1	HUMAN	81
+Player 2	-	3.968	0	0	GADDAG	86	0	48	
+Player 1	smugs	0	8	2	HUMAN	89
+Player 2	-	3.561	0	0	GADDAG	86	0	52	
+Player 1	eds	0	4	2	HUMAN	93
+Player 2	def	11.759	9	2	GADDAG	95	1	57	df
+Player 1	breds	0	10	2	HUMAN	103
+Player 2	peds	5.415	13	0	GADDAG	108	1	64	
+Player 1	vig	0	17	3	HUMAN	120
+Player 2	-	1.05	0	0	GADDAG	108	0	71	
+Player 1	topo	0	8	2	HUMAN	128
+Player 2	fon	14.914	6	1	GADDAG	114	1	75	f
+Player 1	yu	0	12	2	HUMAN	140
+Player 2	yup	15.157	11	1	GADDAG	125	1	78	p
+Player 1	tot	0	10	2	HUMAN	150
+Player 2	jibs	114.465	29	3	GADDAG	154	1	84	jib
+Player 1	chai	0	26	4	HUMAN	176
+Player 2	dev	218.585	20	3	GADDAG	174	1	101	dev
+Player 1	we	0	8	1	HUMAN	184

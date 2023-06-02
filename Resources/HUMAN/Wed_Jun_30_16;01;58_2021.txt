@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	maxi	10.563	26		4	HUMAN 	26
+Player 2	za	207.967	11		1	GADDAG	11	1	14	z
+Player 1	ink	6.895	17		2	HUMAN 	43
+Player 2	za	91.812	22		1	GADDAG	33	1	20	a
+Player 1	kin	11.331	7		2	HUMAN 	50
+Player 2	zap	23.468	24		1	GADDAG	57	1	26	p

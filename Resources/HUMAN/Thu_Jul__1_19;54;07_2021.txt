@@ -1,0 +1,6 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	thief	12.718	30		5	HUMAN 	30
+Player 2	pyxie	0.616	34		5	GADDAG	34	1	17	pyxie
+Player 1	mneme	29.675	18		4	HUMAN 	48

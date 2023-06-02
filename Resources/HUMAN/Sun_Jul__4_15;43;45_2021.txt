@@ -1,0 +1,13 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	aid	0	8		3	HUMAN 	8
+Player 2	mad	1.313	10		3	GADDAG	10	1	11	mad
+Player 1	nomad	0	8		2	HUMAN 	16
+Player 2	em	3.389	10		2	GADDAG	20	1	24	em
+Player 1	bent	0	7		2	HUMAN 	23
+Player 2	wem	0.842	8		1	GADDAG	28	1	31	w
+Player 1	ba	0	4		1	HUMAN 	27
+Player 2	ab	1.512	9		1	GADDAG	37	1	33	a
+Player 1	bal	0	10		1	HUMAN 	37
+Player 2	vaw	1.41	9		1	GADDAG	46	1	36	v

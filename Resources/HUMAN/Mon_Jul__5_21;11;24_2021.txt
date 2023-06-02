@@ -1,0 +1,98 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	auk	0	12	3	HUMAN	12
+Player 2	crem	20.89	12	4	GADDAG	12	1	11	crem
+Player 1	um	0	7	1	HUMAN	19
+Player 2	cur	39.836	7	2	GADDAG	19	1	22	cu
+Player 1	ump	0	7	1	HUMAN	26
+Player 2	ut	6.408	4	1	GADDAG	23	1	29	t
+Player 1	wauk	0	16	1	HUMAN	42
+Player 2	uts	14.047	7	1	GADDAG	30	1	30	s
+Player 1	rhy	0	20	3	HUMAN	62
+Player 2	curt	101.33	6	0	GADDAG	36	1	39	
+Player 1	ky	0	16	1	HUMAN	78
+Player 2	jets	13.147	29	2	GADDAG	65	1	40	je
+Player 1	fent	0	15	3	HUMAN	93
+Player 2	jets	69.435	27	0	GADDAG	92	1	53	
+Player 1	rit	0	3	2	HUMAN	96
+Player 2	jests	6.869	24	0	GADDAG	116	1	58	
+Player 1	ur	0	4	1	HUMAN	100
+Player 2	vents	6.3	24	2	GADDAG	140	1	59	vn
+Player 1	cog	0	6	2	HUMAN	106
+Player 2	jet	16.078	10	0	GADDAG	150	1	69	
+Player 1	flu	0	10	2	HUMAN	116
+Player 2	jete	8.484	11	0	GADDAG	161	1	74	
+Player 1	ag	0	3	1	HUMAN	119
+Player 2	ed	6.407	5	1	GADDAG	166	1	76	d
+Player 1	wag	0	11	1	HUMAN	130
+Player 2	ted	20.422	4	0	GADDAG	170	1	81	
+Player 1	ar	0	2	1	HUMAN	132
+Player 2	sed	5.308	6	0	GADDAG	176	1	81	
+Player 1	rai	0	2	2	HUMAN	134
+Player 2	tec	7.956	10	0	GADDAG	186	1	85	
+Player 1	ids	0	6	2	HUMAN	140
+Player 2	auf	15.062	8	2	GADDAG	194	1	89	au
+Player 1	rids	0	6	1	HUMAN	146
+Player 2	hauf	13.2	10	1	GADDAG	204	1	96	h
+Player 1	ed	0	3	1	HUMAN	149
+Player 2	hi	19.296	6	1	GADDAG	210	1	102	i
+Player 1	web	0	10	2	HUMAN	159
+Player 2	hui	14.256	10	0	GADDAG	220	1	108	
+Player 1	gon	0	11	3	HUMAN	170
+Player 2	uh	23.69	5	0	GADDAG	225	1	113	
+Player 1	div	0	21	3	HUMAN	191
+Player 2	huia	23.187	9	0	GADDAG	234	1	118	
+Player 1	log	0	5	2	HUMAN	196
+Player 2	aid	22.062	4	0	GADDAG	238	1	122	
+Player 1	ate	0	17	3	HUMAN	213
+Player 2	aa	22.461	4	0	GADDAG	242	1	126	
+Player 1	nota	0	5	3	HUMAN	218
+Player 2	ai	24.544	4	0	GADDAG	246	1	131	
+Player 1	ae	0	6	2	HUMAN	224
+Player 2	uh	18.658	9	0	GADDAG	255	1	135	
+Player 1	do	0	3	1	HUMAN	227
+Player 2	aah	18.113	6	0	GADDAG	261	1	135	
+Player 1	ae	0	2	1	HUMAN	229
+Player 2	aida	16.148	5	0	GADDAG	266	1	136	
+Player 1	deil	0	9	3	HUMAN	238
+Player 2	jeu	9.288	10	0	GADDAG	276	1	144	
+Player 1	go	0	9	2	HUMAN	247
+Player 2	aw	13.075	5	0	GADDAG	281	1	145	
+Player 1	ene	0	9	3	HUMAN	256
+Player 2	raw	16.165	7	1	GADDAG	288	1	150	r
+Player 1	ai	0	4	2	HUMAN	260
+Player 2	braw	13.981	9	1	GADDAG	297	1	157	b
+Player 1	de	0	3	1	HUMAN	263
+Player 2	ab	12.108	6	0	GADDAG	303	1	161	
+Player 1		0	0	0	HUMAN	263
+Player 2	za	20.659	11	1	GADDAG	314	1	161	z
+Player 1		0	0	0	HUMAN	263
+Player 2	aba	18.473	5	0	GADDAG	319	1	163	
+Player 1		0	0	0	HUMAN	263
+Player 2	baa	9.896	10	0	GADDAG	329	1	163	
+Player 1		0	0	0	HUMAN	263
+Player 2	ab	25.214	4	0	GADDAG	333	1	163	
+Player 1		0	0	0	HUMAN	263
+Player 2	haufs	28.566	11	1	GADDAG	344	1	163	s
+Player 1		0	0	0	HUMAN	263
+Player 2	sed	16.779	4	1	GADDAG	348	1	164	s
+Player 1		0	0	0	HUMAN	263
+Player 2	te	37.904	4	1	GADDAG	352	1	165	t
+Player 1		0	0	0	HUMAN	263
+Player 2	stet	16.924	6	0	GADDAG	358	1	167	
+Player 1		0	0	0	HUMAN	263
+Player 2	is	15.593	4	0	GADDAG	362	1	167	
+Player 1		0	0	0	HUMAN	263
+Player 2	gons	17.04	8	0	GADDAG	370	1	167	
+Player 1		0	0	0	HUMAN	263
+Player 2	hins	11.221	7	0	GADDAG	377	1	167	
+Player 1		0	0	0	HUMAN	263
+Player 2	fents	9.65	10	0	GADDAG	387	1	167	
+Player 1		0	0	0	HUMAN	263
+Player 2	to	15.952	12	0	GADDAG	399	1	167	
+Player 1		0	0	0	HUMAN	263
+Player 2	so	10.519	7	0	GADDAG	406	1	167	
+Player 1		0	0	0	HUMAN	263
+Player 2	tes	10.717	3	0	GADDAG	409	1	167	
+Player 1		0	0	0	HUMAN	263
+Player 2	test	16.021	12	0	GADDAG	421	1	167	
+Player 1		0	0	0	HUMAN	263

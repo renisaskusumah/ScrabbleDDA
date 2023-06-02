@@ -1,0 +1,5 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	pom	0	14	3	HUMAN	14
+Player 2	druse	31.433	18	5	GADDAG	18	1	11	druse
+Player 1	en	0	11	2	HUMAN	25
+Player 2	via	56.63	17	3	GADDAG	35	1	25	via

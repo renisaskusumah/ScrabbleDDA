@@ -1,0 +1,9 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	vum	9.032	16		3	HUMAN 	16
+Player 2	vatic	70.071	13		4	GADDAG	13	1	11	atic
+Player 1	umpy	150.075	19		3	HUMAN 	35
+Player 2	zona	27.301	13		3	GADDAG	26	1	28	z*n
+Player 1	by	29.709	33		2	HUMAN 	68
+Player 2	why	4.153	24		2	GADDAG	50	1	40	wh

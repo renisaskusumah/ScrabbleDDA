@@ -1,0 +1,51 @@
+player	 word	 durasi	 skor	tiles	method     total skor
+
+
+Player 1	vow	37.229	10		3	HUMAN 	10
+Player 2	za	2.324	47		2	GADDAG	47	134	11	za
+Player 1	meg	24.067	25		3	HUMAN 	35
+Player 2	dweeb	2.139	49		4	GADDAG	96	120	21	dweb
+Player 1	vid	14.532	7		2	HUMAN 	42
+Player 2	flue	1.844	18		3	GADDAG	114	30	32	flu
+Player 1	dub	14.868	12		2	HUMAN 	54
+Player 2	hyp	1.403	42		3	GADDAG	156	19	42	hyp
+Player 1		pass ( 9.267 )		--			0		0	
+Player 2	tax	2.344	46		3	GADDAG	202	77	49	tax
+Player 1		pass ( 0.631 )		--			0		0	
+Player 2	auk	3.26	25		3	GADDAG	227	65	54	auk
+Player 1		pass ( 3.901 )		--			0		0	
+Player 2	zags	27.283	20		1	GADDAG	247	221	58	*
+Player 1		exchange ( 17.214 )		--			0		0	
+Player 2	geld	3.791	19		4	GADDAG	266	48	59	geld
+Player 1	doms	9.822	14		3	HUMAN 	68
+Player 2	clumsy	4.218	32		5	GADDAG	298	112	75	clusy
+Player 1		exchange ( 21.944 )		--			0		0	
+Player 2	avows	1.953	18		1	GADDAG	316	14	84	s
+Player 1	try	13.782	6		2	HUMAN 	74
+Player 2	qi	2.763	33		2	GADDAG	349	41	89	qi
+Player 1		pass ( 16.102 )		--			0		0	
+Player 2	cleft	5.15	26		4	GADDAG	375	73	93	clet
+Player 1		pass ( 4.464 )		--			0		0	
+Player 2	danegeld	10.178	30		4	GADDAG	405	137	103	dane
+Player 1	gan	6.34	8		2	HUMAN 	82
+Player 2	vrows	6.934	27		5	GADDAG	432	155	114	vrows
+Player 1	pot	10.098	10		2	HUMAN 	92
+Player 2	thrive	18.23	40		5	GADDAG	472	260	129	thrie
+Player 1	torn	10.211	5		3	HUMAN 	97
+Player 2	ratooner	24.047	70		7	GADDAG	542	391	148	ratoone
+Player 1	fire	20.81	14		3	HUMAN 	111
+Player 2	roe	13.233	24		3	GADDAG	566	279	172	roe
+Player 1	lee	20.32	5		2	HUMAN 	116
+Player 2	-	5.601	0		0	NEGASCOUT	566	0	178	
+Player 1	jane	13.398	33		3	HUMAN 	149
+Player 2	-	5.777	0		0	NEGASCOUT	566	0	183	
+Player 1	foe	7.514	6		2	HUMAN 	155
+Player 2	-	5.683	0		0	NEGASCOUT	566	0	187	
+Player 1	tan	14.065	3		2	HUMAN 	158
+winner : Player 2
+left tile (letter bag): 0
+player 1 left tile : 0
+player 1 total skor : 158
+player 2 duration : 
+player 2 left tile : 7
+player 2 total score : 566

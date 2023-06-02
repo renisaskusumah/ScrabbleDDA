@@ -1,0 +1,3 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	wen	0	12	3	HUMAN	12
+Player 2	slot	17.998	14	4	GADDAG	14	1	11	slot

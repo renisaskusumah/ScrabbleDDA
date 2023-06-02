@@ -1,0 +1,32 @@
+******HUMAN TURN******
+
+******HUMAN RESULT******
+RACK : A*QWGNG
+
+HUMAN MOVE : ag , new tiles : ag , score : 6 , direction : 2 , col : 7 , row : 8
+
+
+******COMPUTER TURN******
+RACK : fnwzxnn
+
+word : fag anchor( col :  7 row : 5 ) score : 7 new tiles : f    Heuristic : -8
+word : nag anchor( col :  7 row : 5 ) score : 4 new tiles : n    Heuristic : -10.5
+word : wag anchor( col :  7 row : 5 ) score : 7 new tiles : w    Heuristic : -6
+word : zag anchor( col :  7 row : 5 ) score : 13 new tiles : z    Heuristic : -6
+word : fa anchor( col :  6 row : 6 ) score : 9 new tiles : f    Heuristic : -6
+word : na anchor( col :  6 row : 6 ) score : 3 new tiles : n    Heuristic : -11.5
+word : za anchor( col :  6 row : 6 ) score : 21 new tiles : z    Heuristic : 2
+word : an anchor( col :  8 row : 6 ) score : 3 new tiles : n    Heuristic : -11.5
+word : aw anchor( col :  8 row : 6 ) score : 9 new tiles : w    Heuristic : -4
+word : ax anchor( col :  8 row : 6 ) score : 17 new tiles : x    Heuristic : 3.5
+word : lag anchor( col :  7 row : 5 ) score : 4 new tiles : l    Heuristic : -12
+word : flag anchor( col :  7 row : 4 ) score : 8 new tiles : f    Heuristic : -7
+word : zax anchor( col :  8 row : 6 ) score : 27 new tiles : x    Heuristic : 13.5
+word : flag anchor( col :  7 row : 4 ) score : 8 new tiles : f    Heuristic : -4.5
+Hasil evaluasi : za , score : 21 , direction :1 ,i: 6 j: 6 Heuristic: 2
+
+
+
+POSSIBLE MOVEMENT : 1
+******HUMAN TURN******
+

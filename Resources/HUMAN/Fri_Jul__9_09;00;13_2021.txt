@@ -1,0 +1,39 @@
+player	word	durasi	skor	tiles	method	total skor	total possibilities	total anchors	new tiles
+Player 1	am	0	8	2	HUMAN	8
+Player 2	ka	0.524	11	1	GADDAG	11	1	8	k
+Player 1	nae	0	12	3	HUMAN	20
+Player 2	ya	7.264	13	1	GADDAG	24	1	17	y
+Player 1	sit	0	10	3	HUMAN	30
+Player 2	sitz	1.002	32	1	GADDAG	56	1	24	z
+Player 1	erk	0	13	2	HUMAN	43
+Player 2	come	2.502	16	3	GADDAG	72	1	31	com
+Player 1	in	0	1	1	HUMAN	44
+Player 2	of	2.154	5	1	GADDAG	77	1	40	f
+Player 1	ings	0	6	2	HUMAN	50
+Player 2	dof	2.797	7	1	GADDAG	84	1	47	d
+Player 1	sewn	0	8	3	HUMAN	58
+Player 2	nerk	4.69	8	1	GADDAG	92	1	56	n
+Player 1	ug	0	3	1	HUMAN	61
+Player 2	vug	3.612	7	1	GADDAG	99	1	59	v
+Player 1	to	0	4	1	HUMAN	65
+Player 2	yams	12.174	9	1	GADDAG	108	1	62	s
+Player 1	eh	0	5	1	HUMAN	70
+Player 2	hic	1.814	22	2	GADDAG	130	1	65	hi
+Player 1	ny	0	5	1	HUMAN	75
+Player 2	chic	7.952	11	1	GADDAG	141	1	71	c
+Player 1	puny	0	18	2	HUMAN	93
+Player 2	lid	14.521	4	1	GADDAG	145	1	77	l
+Player 1	urn	0	6	2	HUMAN	99
+Player 2	-	1.575	0	0	GADDAG	145	0	82	
+Player 1		0	0	0	HUMAN	99
+Player 2	-	2.68	0	0	GADDAG	145	0	82	
+Player 1		0	0	0	HUMAN	99
+Player 2	-	2.534	0	0	GADDAG	145	0	82	
+Player 1		0	0	0	HUMAN	99
+winner : Player 2
+left tile (letter bag): 47
+player 1 left tile : 7
+player 1 total skor : 99
+player 2 duration : 
+player 2 left tile : 7
+player 2 total score : 145
